@@ -2,9 +2,9 @@
   "date": "2025-01-08",
   "projects": {
     "JupyterProject": {
-      "totalLinesAdded": 1306,
+      "totalLinesAdded": 1347,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 3,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb": [
           {
@@ -76,6 +76,22 @@
             },
             "duration": 1,
             "language": "ipynb"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\requirements.txt": [
+          {
+            "timestamp": "2025-01-08T19:59:27.355Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "JupyterProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "txt"
           }
         ]
       },
