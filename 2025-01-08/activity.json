@@ -2,9 +2,9 @@
   "date": "2025-01-08",
   "projects": {
     "JupyterProject": {
-      "totalLinesAdded": 1282,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 1306,
+      "totalLinesRemoved": 22,
+      "totalActiveTime": 3,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb": [
           {
@@ -26,6 +26,48 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb",
             "fileType": ".ipynb",
             "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "JupyterProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-01-08T19:54:27.452Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "JupyterProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-01-08T19:54:47.496Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "JupyterProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-01-08T19:55:09.834Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "JupyterProject",
             "content": {

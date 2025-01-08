@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1282                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1282                |
-| **Active Time** (⌚)   | 1 minute |
+| **Lines Added** (➕)   | 1306                                          |
+| **Lines Removed** (➖) | 22                                        |
+| **Net Change** (↕)    | 1284                |
+| **Active Time** (⌚)   | 3 minutes |
 
 
 ## Modified Files
-- **TP2_Exploratory_Data_Analysis.ipynb** (+1282, -0)
+- **TP2_Exploratory_Data_Analysis.ipynb** (+1306, -22)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ipynb" : 1282
+".ipynb" : 1328
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"20h" : 2
+"20h" : 5
 ```
 
 
-> **Last Updated:** 1/8/2025, 8:47:53 PM
+> **Last Updated:** 1/8/2025, 8:57:53 PM
