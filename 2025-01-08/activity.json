@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-08",
+  "projects": {
+    "JupyterProject": {
+      "totalLinesAdded": 1282,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb": [
+          {
+            "timestamp": "2025-01-08T19:45:44.154Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1273,
+            "linesRemoved": 0,
+            "projectName": "JupyterProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-01-08T19:46:38.537Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "JupyterProject",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          }
+        ]
+      },
+      "languageStats": {
+        "ipynb": 1
+      },
+      "changeFrequency": {
+        "20": 1
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\JupyterProject\\TP2_Exploratory_Data_Analysis.ipynb"
+      ],
+      "averageChangeSize": 641
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    20
+  ],
+  "mostUsedLanguages": [
+    "ipynb"
+  ]
+}
