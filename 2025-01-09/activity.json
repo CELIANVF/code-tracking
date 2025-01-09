@@ -2,9 +2,9 @@
   "date": "2025-01-09",
   "projects": {
     "python": {
-      "totalLinesAdded": 81,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 106,
+      "totalLinesRemoved": 105,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\python\\main.py": [
           {
@@ -61,6 +61,76 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:26:15.374Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:27:36.436Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:27:42.205Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:27:54.720Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:29:07.345Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 70,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
