@@ -3,8 +3,8 @@
   "projects": {
     "python": {
       "totalLinesAdded": 211,
-      "totalLinesRemoved": 122,
-      "totalActiveTime": 18,
+      "totalLinesRemoved": 129,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\python\\main.py": [
           {
@@ -173,6 +173,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:38:22.164Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:38:25.780Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
