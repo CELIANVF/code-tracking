@@ -1,0 +1,89 @@
+{
+  "date": "2025-01-09",
+  "projects": {
+    "python": {
+      "totalLinesAdded": 81,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\python\\main.py": [
+          {
+            "timestamp": "2025-01-09T11:23:49.220Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:23:49.476Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:24:08.240Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-09T11:24:45.244Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\python\\main.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "python",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 3
+      },
+      "changeFrequency": {
+        "12": 3
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\python\\main.py"
+      ],
+      "averageChangeSize": 26.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
