@@ -2,9 +2,9 @@
   "date": "2025-01-21",
   "projects": {
     "monteur_automatique": {
-      "totalLinesAdded": 170,
-      "totalLinesRemoved": 41,
-      "totalActiveTime": 53,
+      "totalLinesAdded": 175,
+      "totalLinesRemoved": 44,
+      "totalActiveTime": 58,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\main.py": [
           {
@@ -455,6 +455,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T14:25:45.074Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T14:28:14.590Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ],
