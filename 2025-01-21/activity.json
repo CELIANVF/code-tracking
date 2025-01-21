@@ -2,9 +2,9 @@
   "date": "2025-01-21",
   "projects": {
     "monteur_automatique": {
-      "totalLinesAdded": 141,
-      "totalLinesRemoved": 16,
-      "totalActiveTime": 25,
+      "totalLinesAdded": 152,
+      "totalLinesRemoved": 21,
+      "totalActiveTime": 34,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\main.py": [
           {
@@ -217,6 +217,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T13:25:51.540Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T13:26:14.499Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T13:26:36.669Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T13:29:10.917Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ],
