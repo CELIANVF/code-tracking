@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 176                                          |
-| **Lines Removed** (➖) | 44                                        |
-| **Net Change** (↕)    | 132                |
-| **Active Time** (⌚)   | 62 minutes |
+| **Lines Added** (➕)   | 352                                          |
+| **Lines Removed** (➖) | 179                                        |
+| **Net Change** (↕)    | 173                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
-- **main.py** (+11, -0)
-- **video_processor.py** (+151, -44)
-- **audio_processor.py** (+11, -0)
-- **.gitignore** (+3, -0)
+- **main.py** (+27, -10)
+- **video_processor.py** (+296, -159)
+- **audio_processor.py** (+22, -10)
+- **.gitignore** (+7, -0)
 
 ## Visualizations
 
@@ -23,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 217
-"unknown" : 3
+".py" : 524
+"unknown" : 7
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +36,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "13h" : 2
 "14h" : 19
-"15h" : 7
+"15h" : 20
 ```
 
 
-> **Last Updated:** 1/21/2025, 3:34:19 PM
+> **Last Updated:** 1/21/2025, 3:48:33 PM
