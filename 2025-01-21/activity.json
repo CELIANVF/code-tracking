@@ -1,0 +1,156 @@
+{
+  "date": "2025-01-21",
+  "projects": {
+    "monteur_automatique": {
+      "totalLinesAdded": 51,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\main.py": [
+          {
+            "timestamp": "2025-01-21T10:36:40.672Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\main.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:36:41.073Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\main.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py": [
+          {
+            "timestamp": "2025-01-21T10:36:54.516Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:36:54.847Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+            "fileType": ".py",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\audio_processor.py": [
+          {
+            "timestamp": "2025-01-21T10:37:06.353Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\audio_processor.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-21T10:37:06.662Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\audio_processor.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\.gitignore": [
+          {
+            "timestamp": "2025-01-21T10:37:59.028Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-21T10:38:04.419Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "monteur_automatique",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 5,
+        "unknown": 2
+      },
+      "changeFrequency": {
+        "11": 7
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\main.py",
+        "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\video_processor.py",
+        "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\audio_processor.py",
+        "c:\\Users\\Utilisateur\\Desktop\\monteur_automatique\\.gitignore"
+      ],
+      "averageChangeSize": 6.375
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "py",
+    "unknown"
+  ]
+}
