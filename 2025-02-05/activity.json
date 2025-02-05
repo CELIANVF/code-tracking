@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-05",
+  "projects": {
+    "video": {
+      "totalLinesAdded": 18,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\video\\video\\main.py": [
+          {
+            "timestamp": "2025-02-05T22:17:37.111Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\video\\video\\main.py",
+            "fileType": ".py",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "video",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "23": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\video\\video\\main.py"
+      ],
+      "averageChangeSize": 18
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
