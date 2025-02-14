@@ -2,9 +2,9 @@
   "date": "2025-02-14",
   "projects": {
     "TP3 - Machine Learning": {
-      "totalLinesAdded": 1168,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 1208,
+      "totalLinesRemoved": 43,
+      "totalActiveTime": 16,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb": [
           {
@@ -55,6 +55,104 @@
             "fileType": ".ipynb",
             "linesAdded": 2,
             "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T11:54:18.823Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T11:55:36.000Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T11:55:50.348Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T11:56:58.322Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T11:57:27.604Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T11:58:02.355Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T11:58:21.521Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "TP3 - Machine Learning",
             "content": {
               "added": [],
