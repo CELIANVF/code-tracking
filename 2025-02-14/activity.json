@@ -2,9 +2,9 @@
   "date": "2025-02-14",
   "projects": {
     "TP3 - Machine Learning": {
-      "totalLinesAdded": 1208,
-      "totalLinesRemoved": 43,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 1294,
+      "totalLinesRemoved": 74,
+      "totalActiveTime": 29,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb": [
           {
@@ -153,6 +153,174 @@
             "fileType": ".ipynb",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T11:59:30.693Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:00:28.936Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:00:36.300Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:00:40.537Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:01:30.249Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:01:35.400Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:02:01.085Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:02:31.258Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:02:38.817Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:02:46.515Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:02:54.120Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "TP3 - Machine Learning",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-02-14T12:03:19.558Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\TP3 - Machine Learning\\TP3 - Machine Learning.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "TP3 - Machine Learning",
             "content": {
               "added": [],
