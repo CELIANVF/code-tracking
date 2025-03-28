@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-28",
+  "projects": {
+    "ecodeli": {
+      "totalLinesAdded": 88,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\ecodeli\\package.json": [
+          {
+            "timestamp": "2025-03-28T08:56:55.151Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\ecodeli\\package.json",
+            "fileType": ".json",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\ecodeli\\package.json"
+      ],
+      "averageChangeSize": 88
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
