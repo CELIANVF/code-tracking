@@ -4,15 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 109                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 109                |
-| **Active Time** (⌚)   | 3 minutes |
+| **Lines Added** (➕)   | 527                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 524                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
-- **Rover.java** (+75, -0)
-- **RoverController.java** (+34, -0)
+- **Rover.java** (+153, -0)
+- **RoverController.java** (+68, -3)
+- **Position.java** (+4, -0)
+- **Planet.java** (+25, -0)
+- **RoverTest.java** (+217, -0)
+- **RoverControllerTest.java** (+60, -0)
 
 ## Visualizations
 
@@ -21,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".java" : 109
+".java" : 530
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"14h" : 4
+"14h" : 18
 ```
 
 
-> **Last Updated:** 4/3/2025, 2:13:31 PM
+> **Last Updated:** 4/3/2025, 2:26:32 PM
