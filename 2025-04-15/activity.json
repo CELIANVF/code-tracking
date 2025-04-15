@@ -3,7 +3,7 @@
   "projects": {
     "portfolio": {
       "totalLinesAdded": 123,
-      "totalLinesRemoved": 81,
+      "totalLinesRemoved": 82,
       "totalActiveTime": 29,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\portfolio\\index.html": [
@@ -385,6 +385,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T08:55:22.334Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "css"
           }
         ]
