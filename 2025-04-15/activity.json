@@ -2,7 +2,7 @@
   "date": "2025-04-15",
   "projects": {
     "portfolio": {
-      "totalLinesAdded": 441,
+      "totalLinesAdded": 669,
       "totalLinesRemoved": 124,
       "totalActiveTime": 92,
       "files": {
@@ -187,6 +187,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-15T10:20:24.006Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\index.html",
+            "fileType": ".html",
+            "linesAdded": 228,
+            "linesRemoved": 0,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ],
