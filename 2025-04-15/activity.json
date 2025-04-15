@@ -2,9 +2,9 @@
   "date": "2025-04-15",
   "projects": {
     "portfolio": {
-      "totalLinesAdded": 144,
-      "totalLinesRemoved": 92,
-      "totalActiveTime": 42,
+      "totalLinesAdded": 156,
+      "totalLinesRemoved": 95,
+      "totalActiveTime": 54,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\portfolio\\index.html": [
           {
@@ -89,6 +89,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-15T09:02:17.412Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-15T09:03:32.974Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\index.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ],
@@ -567,6 +595,118 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T09:01:30.663Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T09:01:49.297Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T09:01:59.655Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T09:02:44.619Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T09:02:51.609Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T09:02:53.606Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T09:03:49.830Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-04-15T09:05:17.299Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\portfolio\\assets\\css\\style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "portfolio",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "css"
           }
         ]
