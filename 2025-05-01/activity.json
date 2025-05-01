@@ -2,7 +2,7 @@
   "date": "2025-05-01",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 3615,
+      "totalLinesAdded": 3668,
       "totalLinesRemoved": 1104,
       "totalActiveTime": 42,
       "files": {
@@ -371,6 +371,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\lib\\auth\\auth-error.ts": [
+          {
+            "timestamp": "2025-05-01T10:18:49.013Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\lib\\auth\\auth-error.ts",
+            "fileType": ".ts",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
