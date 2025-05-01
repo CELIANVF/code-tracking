@@ -2,9 +2,9 @@
   "date": "2025-05-01",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 3343,
+      "totalLinesAdded": 3354,
       "totalLinesRemoved": 1059,
-      "totalActiveTime": 25,
+      "totalActiveTime": 30,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\schema.prisma": [
           {
@@ -105,6 +105,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-01T09:59:22.689Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\api\\auth\\register\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],
