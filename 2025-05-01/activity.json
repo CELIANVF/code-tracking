@@ -2,9 +2,9 @@
   "date": "2025-05-01",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 2827,
+      "totalLinesAdded": 3037,
       "totalLinesRemoved": 1011,
-      "totalActiveTime": 8,
+      "totalActiveTime": 14,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\schema.prisma": [
           {
@@ -154,6 +154,52 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\api\\auth\\[...nextauth]\\route.ts": [
+          {
+            "timestamp": "2025-05-01T09:33:19.978Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\api\\auth\\[...nextauth]\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\auth\\next-auth.ts": [
+          {
+            "timestamp": "2025-05-01T09:34:18.022Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\auth\\next-auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 184,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-01T09:34:22.799Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\auth\\next-auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
