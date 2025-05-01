@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-01",
+  "projects": {
+    "ecodeli": {
+      "totalLinesAdded": 1785,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\schema.prisma": [
+          {
+            "timestamp": "2025-05-01T07:46:38.753Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\schema.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 1785,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "prisma"
+          }
+        ]
+      },
+      "languageStats": {
+        "prisma": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\schema.prisma"
+      ],
+      "averageChangeSize": 1785
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "prisma"
+  ]
+}
