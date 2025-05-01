@@ -3,7 +3,7 @@
   "projects": {
     "ecodeli": {
       "totalLinesAdded": 3342,
-      "totalLinesRemoved": 1052,
+      "totalLinesRemoved": 1059,
       "totalActiveTime": 25,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\schema.prisma": [
@@ -77,6 +77,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-01T09:49:37.924Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\api\\auth\\register\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
