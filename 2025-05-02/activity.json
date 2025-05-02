@@ -2,7 +2,7 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 44245,
+      "totalLinesAdded": 44258,
       "totalLinesRemoved": 3353,
       "totalActiveTime": 72,
       "files": {
@@ -1012,6 +1012,20 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\messages\\fr.json",
             "fileType": ".json",
             "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T12:58:59.176Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\messages\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
