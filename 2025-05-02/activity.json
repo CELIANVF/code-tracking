@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 123968,
+      "totalLinesAdded": 125778,
       "totalLinesRemoved": 5040,
-      "totalActiveTime": 248,
+      "totalActiveTime": 254,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -2798,6 +2798,52 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\types\\notification.ts",
             "fileType": ".ts",
             "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\notification.service.ts": [
+          {
+            "timestamp": "2025-05-02T16:58:01.691Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\notification.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 658,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T16:58:29.127Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\notification.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 61,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\document.service.ts": [
+          {
+            "timestamp": "2025-05-02T16:59:09.439Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\document.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1091,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
