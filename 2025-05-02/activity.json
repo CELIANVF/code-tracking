@@ -2,7 +2,7 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 127605,
+      "totalLinesAdded": 134714,
       "totalLinesRemoved": 5255,
       "totalActiveTime": 343,
       "files": {
@@ -2203,6 +2203,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T18:24:23.080Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\node_modules\\.pnpm\\@prisma+client@6.7.0_prisma_eae679d1c26f2888f88f5407457fe5c5\\node_modules\\.prisma\\client\\index.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 7109,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
