@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 126199,
+      "totalLinesAdded": 126278,
       "totalLinesRemoved": 5040,
-      "totalActiveTime": 265,
+      "totalActiveTime": 272,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -2932,6 +2932,52 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\notification.router.ts",
             "fileType": ".ts",
             "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\verifications\\page.tsx": [
+          {
+            "timestamp": "2025-05-02T17:08:32.944Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\verifications\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T17:08:43.748Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\verifications\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\verifications\\metadata.ts": [
+          {
+            "timestamp": "2025-05-02T17:09:04.231Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\verifications\\metadata.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
