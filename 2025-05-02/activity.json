@@ -1,0 +1,66 @@
+{
+  "date": "2025-05-02",
+  "projects": {
+    "ecodeli": {
+      "totalLinesAdded": 13,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
+          {
+            "timestamp": "2025-05-02T07:52:25.368Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit",
+            "fileType": "unknown",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\lint-staged.config.js": [
+          {
+            "timestamp": "2025-05-02T07:52:39.355Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\lint-staged.config.js",
+            "fileType": ".js",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 0,
+        "js": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit",
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\lint-staged.config.js"
+      ],
+      "averageChangeSize": 6.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "js",
+    "unknown"
+  ]
+}
