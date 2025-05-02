@@ -4,31 +4,32 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 32469                                          |
-| **Lines Removed** (➖) | 615                                        |
-| **Net Change** (↕)    | 31854                |
-| **Active Time** (⌚)   | 37 minutes |
+| **Lines Added** (➕)   | 32600                                          |
+| **Lines Removed** (➖) | 632                                        |
+| **Net Change** (↕)    | 31968                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
 - **pre-commit** (+10, -7)
 - **lint-staged.config.js** (+10, -0)
-- **package.json** (+5, -1)
+- **package.json** (+20, -5)
 - **.env** (+8, -0)
-- **login.schema.ts** (+84, -0)
-- **register.schema.ts** (+83, -0)
+- **login.schema.ts** (+84, -2)
+- **register.schema.ts** (+83, -7)
 - **merchant-register.schema.ts** (+40, -0)
 - **test-utils.tsx** (+51, -0)
-- **login-form.test.tsx** (+221, -110)
+- **login-form.test.tsx** (+221, -111)
 - **package-lock.json** (+16511, -0)
 - **Todo.test.tsx** (+109, -1)
 - **auth.test.tsx** (+87, -4)
-- **use-localized-format.test.ts** (+106, -0)
-- **vitest.config.ts** (+22, -0)
-- **setup.ts** (+62, -0)
+- **use-localized-format.test.ts** (+106, -1)
+- **vitest.config.ts** (+22, -1)
+- **setup.ts** (+62, -1)
 - **pnpm-lock.yaml** (+15058, -487)
 - **route.ts** (+0, -5)
 - **use-auth.ts** (+2, -0)
+- **schema.prisma** (+116, -0)
 
 ## Visualizations
 
@@ -39,10 +40,11 @@ pie showData
 title Lines changed by file type
 "unknown" : 25
 ".js" : 10
-".json" : 16517
-".ts" : 404
-".tsx" : 583
+".json" : 16536
+".ts" : 416
+".tsx" : 584
 ".yaml" : 15545
+".prisma" : 116
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,7 +54,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 37
+"11h" : 9
 ```
 
 
-> **Last Updated:** 5/2/2025, 10:59:26 AM
+> **Last Updated:** 5/2/2025, 11:04:26 AM
