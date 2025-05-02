@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 127313,
-      "totalLinesRemoved": 5211,
-      "totalActiveTime": 327,
+      "totalLinesAdded": 127320,
+      "totalLinesRemoved": 5221,
+      "totalActiveTime": 332,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -3494,6 +3494,20 @@
             },
             "duration": 3,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T17:55:43.292Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-document-upload.ts": [
@@ -3530,6 +3544,20 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-document-upload.ts",
             "fileType": ".ts",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T17:59:19.706Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-document-upload.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
