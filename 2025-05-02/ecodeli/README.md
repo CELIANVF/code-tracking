@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 126500                                          |
-| **Lines Removed** (➖) | 5068                                        |
-| **Net Change** (↕)    | 121432                |
-| **Active Time** (⌚)   | 291 minutes |
+| **Lines Added** (➕)   | 126515                                          |
+| **Lines Removed** (➖) | 5175                                        |
+| **Net Change** (↕)    | 121340                |
+| **Active Time** (⌚)   | 293 minutes |
 
 
 ## Modified Files
@@ -64,7 +64,7 @@
 - **page.tsx** (+72, -14)
 - **deliverer-register-form.tsx** (+287, -0)
 - **deliverer-document-upload.tsx** (+309, -0)
-- **use-documents.ts** (+101, -0)
+- **use-documents.ts** (+116, -11)
 - **auth-error.ts** (+1, -0)
 - **next-auth.ts** (+7, -3)
 - **page.tsx** (+44, -0)
@@ -72,7 +72,7 @@
 - **dashboard-translations-fr.json** (+88, -0)
 - **fr-temp.json** (+1645, -0)
 - **fr-documents-translations.json** (+188, -11)
-- **document-upload-form.tsx** (+309, -45)
+- **document-upload-form.tsx** (+309, -141)
 - **notification-service.ts** (+147, -0)
 - **notification.ts** (+23, -0)
 - **notification.service.ts** (+751, -1)
@@ -92,8 +92,8 @@ title Lines changed by file type
 "unknown" : 25
 ".js" : 10
 ".json" : 32516
-".ts" : 77151
-".tsx" : 6205
+".ts" : 77177
+".tsx" : 6301
 ".yaml" : 15545
 ".prisma" : 116
 ```
@@ -112,8 +112,8 @@ title Coding activity by hour (count of changes)
 "16h" : 29
 "17h" : 14
 "18h" : 50
-"19h" : 27
+"19h" : 30
 ```
 
 
-> **Last Updated:** 5/2/2025, 7:15:26 PM
+> **Last Updated:** 5/2/2025, 7:20:26 PM
