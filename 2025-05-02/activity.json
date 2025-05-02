@@ -2,8 +2,8 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 41316,
-      "totalLinesRemoved": 3318,
+      "totalLinesAdded": 44002,
+      "totalLinesRemoved": 3335,
       "totalActiveTime": 68,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
@@ -904,6 +904,20 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T10:04:40.105Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\auth\\register-forms\\client-register-form.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\messages\\en.json": [
@@ -927,6 +941,20 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 2686,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T10:04:40.126Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\messages\\en.json",
+            "fileType": ".json",
+            "linesAdded": 2686,
+            "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
               "added": [],
