@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 123479,
+      "totalLinesAdded": 123499,
       "totalLinesRemoved": 4995,
-      "totalActiveTime": 235,
+      "totalActiveTime": 236,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -1580,6 +1580,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T16:45:17.235Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\messages\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\trpc.ts": [
@@ -2715,6 +2729,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T16:44:51.976Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\fr-documents-translations.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
