@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 121476                                          |
-| **Lines Removed** (➖) | 4660                                        |
-| **Net Change** (↕)    | 116816                |
-| **Active Time** (⌚)   | 177 minutes |
+| **Lines Added** (➕)   | 123121                                          |
+| **Lines Removed** (➖) | 4920                                        |
+| **Net Change** (↕)    | 118201                |
+| **Active Time** (⌚)   | 180 minutes |
 
 
 ## Modified Files
@@ -39,7 +39,7 @@
 - **trpc.ts** (+204, -0)
 - **deliverer-register.schema.ts** (+75, -45)
 - **document-upload.tsx** (+189, -0)
-- **deliverer-onboarding.tsx** (+261, -0)
+- **deliverer-onboarding.tsx** (+261, -260)
 - **upload-document.ts** (+141, -140)
 - **get-documents.ts** (+85, -0)
 - **use-deliverer-verification.ts** (+65, -0)
@@ -70,6 +70,7 @@
 - **page.tsx** (+43, -0)
 - **deliverer-dashboard.tsx** (+142, -0)
 - **dashboard-translations-fr.json** (+51, -0)
+- **fr-temp.json** (+1645, -0)
 
 ## Visualizations
 
@@ -80,9 +81,9 @@ pie showData
 title Lines changed by file type
 "unknown" : 25
 ".js" : 10
-".json" : 30395
+".json" : 32040
 ".ts" : 74943
-".tsx" : 5102
+".tsx" : 5362
 ".yaml" : 15545
 ".prisma" : 116
 ```
@@ -99,8 +100,8 @@ title Coding activity by hour (count of changes)
 "14h" : 4
 "15h" : 30
 "16h" : 29
-"17h" : 11
+"17h" : 13
 ```
 
 
-> **Last Updated:** 5/2/2025, 5:34:35 PM
+> **Last Updated:** 5/2/2025, 5:44:35 PM
