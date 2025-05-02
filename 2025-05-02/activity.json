@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 123121,
+      "totalLinesAdded": 123158,
       "totalLinesRemoved": 4920,
-      "totalActiveTime": 180,
+      "totalActiveTime": 182,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -2109,6 +2109,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T15:45:21.002Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\dashboard-translations-fr.json",
+            "fileType": ".json",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
