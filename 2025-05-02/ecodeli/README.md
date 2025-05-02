@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 45598                                          |
-| **Lines Removed** (➖) | 3353                                        |
-| **Net Change** (↕)    | 42245                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Lines Added** (➕)   | 45938                                          |
+| **Lines Removed** (➖) | 3360                                        |
+| **Net Change** (↕)    | 42578                |
+| **Active Time** (⌚)   | 86 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **setup.ts** (+62, -1)
 - **pnpm-lock.yaml** (+15058, -487)
 - **route.ts** (+0, -5)
-- **use-auth.ts** (+7, -0)
+- **use-auth.ts** (+11, -4)
 - **schema.prisma** (+116, -0)
 - **layout.tsx** (+63, -0)
 - **SessionCheckRedirect.tsx** (+44, -0)
@@ -46,6 +46,7 @@
 - **page.tsx** (+71, -0)
 - **document-verification.tsx** (+329, -0)
 - **page.tsx** (+178, -0)
+- **middleware.ts** (+336, -3)
 
 ## Visualizations
 
@@ -57,7 +58,7 @@ title Lines changed by file type
 "unknown" : 25
 ".js" : 10
 ".json" : 30310
-".ts" : 1001
+".ts" : 1348
 ".tsx" : 1944
 ".yaml" : 15545
 ".prisma" : 116
@@ -73,8 +74,8 @@ title Coding activity by hour (count of changes)
 "11h" : 24
 "12h" : 3
 "14h" : 4
-"15h" : 11
+"15h" : 16
 ```
 
 
-> **Last Updated:** 5/2/2025, 3:19:31 PM
+> **Last Updated:** 5/2/2025, 3:29:31 PM
