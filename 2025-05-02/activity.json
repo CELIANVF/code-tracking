@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 127320,
-      "totalLinesRemoved": 5221,
-      "totalActiveTime": 332,
+      "totalLinesAdded": 127358,
+      "totalLinesRemoved": 5255,
+      "totalActiveTime": 341,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -2292,6 +2292,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T18:02:27.334Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\deliverer\\documents\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T18:04:07.604Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\deliverer\\documents\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\documents\\document-upload.tsx": [
@@ -2439,6 +2467,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T18:01:37.740Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\deliverer\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 34,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T18:01:37.759Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\deliverer\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
