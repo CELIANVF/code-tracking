@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 392,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 17100,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 23,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -27,6 +27,20 @@
             "fileType": "unknown",
             "linesAdded": 0,
             "linesRemoved": 4,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-02T08:46:39.907Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "ecodeli",
             "content": {
               "added": [],
@@ -83,6 +97,20 @@
           },
           {
             "timestamp": "2025-05-02T08:38:12.933Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-02T08:44:27.367Z",
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\package.json",
             "fileType": ".json",
             "linesAdded": 1,
@@ -238,6 +266,124 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\auth\\login-form.test.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T08:45:56.133Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\auth\\login-form.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\package-lock.json": [
+          {
+            "timestamp": "2025-05-02T08:44:27.394Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 16511,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\Todo.test.tsx": [
+          {
+            "timestamp": "2025-05-02T08:44:58.868Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\Todo.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 108,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T08:45:08.852Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\Todo.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T08:45:56.148Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\Todo.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\auth.test.tsx": [
+          {
+            "timestamp": "2025-05-02T08:45:34.906Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\auth.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T08:45:40.748Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\auth.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T08:45:56.163Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\tests\\unit\\components\\auth.test.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
