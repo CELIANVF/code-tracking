@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 125778                                          |
+| **Lines Added** (➕)   | 126199                                          |
 | **Lines Removed** (➖) | 5040                                        |
-| **Net Change** (↕)    | 120738                |
-| **Active Time** (⌚)   | 254 minutes |
+| **Net Change** (↕)    | 121159                |
+| **Active Time** (⌚)   | 265 minutes |
 
 
 ## Modified Files
@@ -75,8 +75,10 @@
 - **document-upload-form.tsx** (+305, -45)
 - **notification-service.ts** (+142, -0)
 - **notification.ts** (+22, -0)
-- **notification.service.ts** (+719, -0)
-- **document.service.ts** (+1091, -0)
+- **notification.service.ts** (+751, -0)
+- **document.service.ts** (+1107, -0)
+- **document-notifications.tsx** (+213, -0)
+- **notification.router.ts** (+160, -0)
 
 ## Visualizations
 
@@ -88,8 +90,8 @@ title Lines changed by file type
 "unknown" : 25
 ".js" : 10
 ".json" : 32493
-".ts" : 76917
-".tsx" : 5712
+".ts" : 77125
+".tsx" : 5925
 ".yaml" : 15545
 ".prisma" : 116
 ```
@@ -108,7 +110,8 @@ title Coding activity by hour (count of changes)
 "16h" : 29
 "17h" : 14
 "18h" : 50
+"19h" : 6
 ```
 
 
-> **Last Updated:** 5/2/2025, 7:00:29 PM
+> **Last Updated:** 5/2/2025, 7:05:26 PM
