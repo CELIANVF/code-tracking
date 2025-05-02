@@ -2,7 +2,7 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 120113,
+      "totalLinesAdded": 120391,
       "totalLinesRemoved": 4643,
       "totalActiveTime": 146,
       "files": {
@@ -1851,6 +1851,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\auth\\register-forms\\DelivererRegisterForm.tsx": [
+          {
+            "timestamp": "2025-05-02T14:31:57.273Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\auth\\register-forms\\DelivererRegisterForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 278,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
