@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 45938                                          |
-| **Lines Removed** (➖) | 3360                                        |
-| **Net Change** (↕)    | 42578                |
-| **Active Time** (⌚)   | 86 minutes |
+| **Lines Added** (➕)   | 46388                                          |
+| **Lines Removed** (➖) | 3862                                        |
+| **Net Change** (↕)    | 42526                |
+| **Active Time** (⌚)   | 100 minutes |
 
 
 ## Modified Files
@@ -37,16 +37,19 @@
 - **en.json** (+6634, -2686)
 - **fr.json** (+4433, -18)
 - **trpc.ts** (+204, -0)
-- **deliverer-register.schema.ts** (+75, -0)
+- **deliverer-register.schema.ts** (+75, -34)
 - **document-upload.tsx** (+189, -0)
 - **deliverer-onboarding.tsx** (+207, -0)
-- **upload-document.ts** (+141, -0)
+- **upload-document.ts** (+141, -140)
 - **get-documents.ts** (+85, -0)
 - **use-deliverer-verification.ts** (+65, -0)
 - **page.tsx** (+71, -0)
-- **document-verification.tsx** (+329, -0)
+- **document-verification.tsx** (+329, -328)
 - **page.tsx** (+178, -0)
 - **middleware.ts** (+336, -3)
+- **route.ts** (+150, -0)
+- **route.ts** (+182, -0)
+- **route.ts** (+118, -0)
 
 ## Visualizations
 
@@ -58,8 +61,8 @@ title Lines changed by file type
 "unknown" : 25
 ".js" : 10
 ".json" : 30310
-".ts" : 1348
-".tsx" : 1944
+".ts" : 1972
+".tsx" : 2272
 ".yaml" : 15545
 ".prisma" : 116
 ```
@@ -74,8 +77,8 @@ title Coding activity by hour (count of changes)
 "11h" : 24
 "12h" : 3
 "14h" : 4
-"15h" : 16
+"15h" : 22
 ```
 
 
-> **Last Updated:** 5/2/2025, 3:29:31 PM
+> **Last Updated:** 5/2/2025, 3:34:31 PM
