@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 123499,
-      "totalLinesRemoved": 4995,
-      "totalActiveTime": 236,
+      "totalLinesAdded": 123968,
+      "totalLinesRemoved": 5040,
+      "totalActiveTime": 248,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -2744,6 +2744,68 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\documents\\document-upload-form.tsx": [
+          {
+            "timestamp": "2025-05-02T16:49:53.065Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\documents\\document-upload-form.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 305,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T16:50:17.006Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\documents\\document-upload-form.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 45,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\lib\\notification-service.ts": [
+          {
+            "timestamp": "2025-05-02T16:54:17.951Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\lib\\notification-service.ts",
+            "fileType": ".ts",
+            "linesAdded": 142,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\types\\notification.ts": [
+          {
+            "timestamp": "2025-05-02T16:54:37.180Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\types\\notification.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
