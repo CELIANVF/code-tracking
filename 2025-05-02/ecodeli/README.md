@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 119944                                          |
-| **Lines Removed** (➖) | 4014                                        |
-| **Net Change** (↕)    | 115930                |
-| **Active Time** (⌚)   | 128 minutes |
+| **Lines Added** (➕)   | 120113                                          |
+| **Lines Removed** (➖) | 4643                                        |
+| **Net Change** (↕)    | 115470                |
+| **Active Time** (⌚)   | 146 minutes |
 
 
 ## Modified Files
@@ -28,16 +28,16 @@
 - **setup.ts** (+62, -1)
 - **pnpm-lock.yaml** (+15058, -487)
 - **route.ts** (+0, -5)
-- **use-auth.ts** (+11, -4)
+- **use-auth.ts** (+11, -9)
 - **schema.prisma** (+116, -0)
-- **layout.tsx** (+63, -0)
-- **SessionCheckRedirect.tsx** (+44, -0)
+- **layout.tsx** (+63, -20)
+- **SessionCheckRedirect.tsx** (+44, -21)
 - **routes.ts** (+10, -0)
 - **client-register-form.tsx** (+262, -17)
-- **en.json** (+6634, -2686)
-- **fr.json** (+4433, -18)
+- **en.json** (+6634, -2719)
+- **fr.json** (+4433, -19)
 - **trpc.ts** (+204, -0)
-- **deliverer-register.schema.ts** (+75, -34)
+- **deliverer-register.schema.ts** (+75, -45)
 - **document-upload.tsx** (+189, -0)
 - **deliverer-onboarding.tsx** (+261, -0)
 - **upload-document.ts** (+141, -140)
@@ -47,17 +47,19 @@
 - **document-verification.tsx** (+329, -328)
 - **page.tsx** (+178, -0)
 - **middleware.ts** (+336, -3)
-- **route.ts** (+150, -0)
-- **route.ts** (+182, -0)
+- **route.ts** (+150, -149)
+- **route.ts** (+182, -181)
 - **route.ts** (+118, -0)
 - **page.tsx** (+324, -0)
-- **verification-list.tsx** (+290, -0)
-- **page.tsx** (+41, -23)
+- **verification-list.tsx** (+290, -88)
+- **page.tsx** (+41, -40)
 - **index.d.ts** (+72175, -0)
 - **page.tsx** (+4, -0)
-- **page.tsx** (+55, -0)
+- **page.tsx** (+55, -28)
 - **document-upload.tsx** (+347, -129)
-- **use-onboarding.ts** (+266, -0)
+- **use-onboarding.ts** (+266, -72)
+- **deliverer-verification-context.tsx** (+131, -0)
+- **layout.tsx** (+38, -3)
 
 ## Visualizations
 
@@ -68,9 +70,9 @@ pie showData
 title Lines changed by file type
 "unknown" : 25
 ".js" : 10
-".json" : 30310
-".ts" : 74413
-".tsx" : 3539
+".json" : 30344
+".ts" : 74831
+".tsx" : 3885
 ".yaml" : 15545
 ".prisma" : 116
 ```
@@ -86,8 +88,8 @@ title Coding activity by hour (count of changes)
 "12h" : 3
 "14h" : 4
 "15h" : 30
-"16h" : 7
+"16h" : 24
 ```
 
 
-> **Last Updated:** 5/2/2025, 4:09:32 PM
+> **Last Updated:** 5/2/2025, 4:14:32 PM
