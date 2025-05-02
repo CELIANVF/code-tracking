@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 44299                                          |
+| **Lines Added** (➕)   | 44522                                          |
 | **Lines Removed** (➖) | 3353                                        |
-| **Net Change** (↕)    | 40946                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Net Change** (↕)    | 41169                |
+| **Active Time** (⌚)   | 74 minutes |
 
 
 ## Modified Files
@@ -37,7 +37,8 @@
 - **en.json** (+6634, -2686)
 - **fr.json** (+4433, -18)
 - **trpc.ts** (+204, -0)
-- **deliverer-register.schema.ts** (+41, -0)
+- **deliverer-register.schema.ts** (+75, -0)
+- **document-upload.tsx** (+189, -0)
 
 ## Visualizations
 
@@ -49,8 +50,8 @@ title Lines changed by file type
 "unknown" : 25
 ".js" : 10
 ".json" : 30310
-".ts" : 676
-".tsx" : 970
+".ts" : 710
+".tsx" : 1159
 ".yaml" : 15545
 ".prisma" : 116
 ```
@@ -65,8 +66,8 @@ title Coding activity by hour (count of changes)
 "11h" : 24
 "12h" : 3
 "14h" : 4
-"15h" : 2
+"15h" : 4
 ```
 
 
-> **Last Updated:** 5/2/2025, 3:09:31 PM
+> **Last Updated:** 5/2/2025, 3:14:31 PM
