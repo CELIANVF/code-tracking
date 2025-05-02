@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 126894,
-      "totalLinesRemoved": 5195,
-      "totalActiveTime": 305,
+      "totalLinesAdded": 127063,
+      "totalLinesRemoved": 5196,
+      "totalActiveTime": 310,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -3387,6 +3387,50 @@
             "fileType": ".ts",
             "linesAdded": 15,
             "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T17:43:13.800Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\document.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts": [
+          {
+            "timestamp": "2025-05-02T17:41:07.355Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T17:41:14.033Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "ecodeli",
             "content": {
               "added": [],
