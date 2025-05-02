@@ -2,9 +2,9 @@
   "date": "2025-05-02",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 119666,
+      "totalLinesAdded": 119944,
       "totalLinesRemoved": 4014,
-      "totalActiveTime": 120,
+      "totalActiveTime": 128,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.husky\\pre-commit": [
           {
@@ -1474,6 +1474,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-02T14:06:38.660Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\deliverer\\documents\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\node_modules\\.pnpm\\@prisma+client@6.7.0_prisma_eae679d1c26f2888f88f5407457fe5c5\\node_modules\\.prisma\\client\\index.d.ts": [
@@ -1566,6 +1580,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-onboarding.ts": [
+          {
+            "timestamp": "2025-05-02T14:08:49.785Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-onboarding.ts",
+            "fileType": ".ts",
+            "linesAdded": 194,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-02T14:09:08.600Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-onboarding.ts",
+            "fileType": ".ts",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
