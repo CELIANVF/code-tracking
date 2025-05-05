@@ -1,0 +1,108 @@
+{
+  "date": "2025-05-05",
+  "projects": {
+    "ecodeli": {
+      "totalLinesAdded": 523,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
+          {
+            "timestamp": "2025-05-05T08:55:25.550Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-05T08:55:39.076Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-05T08:57:31.974Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-05T08:57:38.615Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(public)\\home\\page.tsx": [
+          {
+            "timestamp": "2025-05-05T08:56:56.461Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(public)\\home\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 518,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3,
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "10": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(public)\\home\\page.tsx"
+      ],
+      "averageChangeSize": 105.4
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "tsx"
+  ]
+}
