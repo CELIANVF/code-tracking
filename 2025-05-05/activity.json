@@ -2,9 +2,9 @@
   "date": "2025-05-05",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 6345,
-      "totalLinesRemoved": 18,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 7479,
+      "totalLinesRemoved": 23,
+      "totalActiveTime": 28,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -251,6 +251,36 @@
             "fileType": ".ts",
             "linesAdded": 39,
             "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\document.service.ts": [
+          {
+            "timestamp": "2025-05-05T09:41:55.424Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\document.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1134,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-05T09:42:28.296Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\document.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "ecodeli",
             "content": {
               "added": [],
