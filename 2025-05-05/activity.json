@@ -2,9 +2,9 @@
   "date": "2025-05-05",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 10257,
+      "totalLinesAdded": 10262,
       "totalLinesRemoved": 30,
-      "totalActiveTime": 53,
+      "totalActiveTime": 57,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -546,6 +546,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\lib\\fonts.ts": [
+          {
+            "timestamp": "2025-05-05T12:01:48.378Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\lib\\fonts.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ]
       },
