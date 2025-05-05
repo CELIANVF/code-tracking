@@ -2,9 +2,9 @@
   "date": "2025-05-05",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 5785,
+      "totalLinesAdded": 6306,
       "totalLinesRemoved": 18,
-      "totalActiveTime": 16,
+      "totalActiveTime": 26,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -197,6 +197,52 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts": [
+          {
+            "timestamp": "2025-05-05T09:31:38.681Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-05T09:31:46.140Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\document.router.ts": [
+          {
+            "timestamp": "2025-05-05T09:34:48.832Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\document.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 438,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ]
