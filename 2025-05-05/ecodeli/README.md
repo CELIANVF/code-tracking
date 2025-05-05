@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13952                                          |
+| **Lines Added** (➕)   | 13956                                          |
 | **Lines Removed** (➖) | 265                                        |
-| **Net Change** (↕)    | 13687                |
-| **Active Time** (⌚)   | 156 minutes |
+| **Net Change** (↕)    | 13691                |
+| **Active Time** (⌚)   | 159 minutes |
 
 
 ## Modified Files
@@ -46,7 +46,7 @@
 - **use-document-upload.ts** (+219, -0)
 - **layout.tsx** (+36, -0)
 - **tutorial-overlay.tsx** (+47, -23)
-- **onboarding-controller.tsx** (+130, -0)
+- **onboarding-controller.tsx** (+134, -0)
 - **admin-tutorial.tsx** (+132, -0)
 
 ## Visualizations
@@ -57,7 +57,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 4702
-".tsx" : 4486
+".tsx" : 4490
 ".ts" : 4093
 ".prisma" : 893
 "unknown" : 43
@@ -74,8 +74,8 @@ title Coding activity by hour (count of changes)
 "13h" : 6
 "14h" : 22
 "15h" : 32
-"16h" : 6
+"16h" : 7
 ```
 
 
-> **Last Updated:** 5/5/2025, 4:16:06 PM
+> **Last Updated:** 5/5/2025, 4:20:45 PM
