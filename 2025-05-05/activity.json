@@ -2,9 +2,9 @@
   "date": "2025-05-05",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 13643,
-      "totalLinesRemoved": 242,
-      "totalActiveTime": 145,
+      "totalLinesAdded": 13820,
+      "totalLinesRemoved": 265,
+      "totalActiveTime": 151,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -1324,6 +1324,80 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\deliverer\\layout.tsx",
             "fileType": ".tsx",
             "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\onboarding\\tutorial-overlay.tsx": [
+          {
+            "timestamp": "2025-05-05T14:05:25.715Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\onboarding\\tutorial-overlay.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T14:05:30.368Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\onboarding\\tutorial-overlay.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T14:07:20.577Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\onboarding\\tutorial-overlay.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\onboarding\\onboarding-controller.tsx": [
+          {
+            "timestamp": "2025-05-05T14:08:34.601Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\onboarding\\onboarding-controller.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 97,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-05T14:08:52.638Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\onboarding\\onboarding-controller.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 33,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
