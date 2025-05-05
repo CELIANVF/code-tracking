@@ -2,9 +2,9 @@
   "date": "2025-05-05",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 11989,
+      "totalLinesAdded": 11995,
       "totalLinesRemoved": 78,
-      "totalActiveTime": 76,
+      "totalActiveTime": 77,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -762,6 +762,20 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\notification.service.ts",
             "fileType": ".ts",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-05T12:30:58.537Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\notification.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
