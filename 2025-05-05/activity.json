@@ -2,8 +2,8 @@
   "date": "2025-05-05",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 5783,
-      "totalLinesRemoved": 16,
+      "totalLinesAdded": 5785,
+      "totalLinesRemoved": 18,
       "totalActiveTime": 16,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
@@ -102,6 +102,34 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\middleware.ts",
             "fileType": ".ts",
             "linesAdded": 344,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-05T09:27:02.190Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\middleware.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-05T09:27:02.288Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\middleware.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
