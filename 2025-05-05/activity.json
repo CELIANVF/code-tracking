@@ -2,7 +2,7 @@
   "date": "2025-05-05",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 8082,
+      "totalLinesAdded": 8205,
       "totalLinesRemoved": 23,
       "totalActiveTime": 30,
       "files": {
@@ -334,6 +334,22 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-documents.ts": [
+          {
+            "timestamp": "2025-05-05T10:03:41.419Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-documents.ts",
+            "fileType": ".ts",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
