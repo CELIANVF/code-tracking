@@ -2,9 +2,9 @@
   "date": "2025-05-09",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 2244,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 2381,
+      "totalLinesRemoved": 45,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -63,6 +63,36 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\api\\download\\route.ts": [
+          {
+            "timestamp": "2025-05-09T07:45:59.441Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\api\\download\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T07:46:07.465Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\api\\download\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 43,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
