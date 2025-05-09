@@ -1,0 +1,94 @@
+{
+  "date": "2025-05-09",
+  "projects": {
+    "ecodeli": {
+      "totalLinesAdded": 2244,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
+          {
+            "timestamp": "2025-05-09T07:39:03.110Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-09T07:40:55.941Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-09T07:40:59.941Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\seed.ts": [
+          {
+            "timestamp": "2025-05-09T07:42:26.320Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\seed.ts",
+            "fileType": ".ts",
+            "linesAdded": 2241,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3,
+        "ts": 2
+      },
+      "changeFrequency": {
+        "9": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json",
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\prisma\\seed.ts"
+      ],
+      "averageChangeSize": 561.5
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "ts"
+  ]
+}
