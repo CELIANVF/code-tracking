@@ -2,9 +2,9 @@
   "date": "2025-05-09",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 7532,
-      "totalLinesRemoved": 1411,
-      "totalActiveTime": 75,
+      "totalLinesAdded": 25894,
+      "totalLinesRemoved": 1493,
+      "totalActiveTime": 80,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -852,6 +852,82 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\package-lock.json": [
+          {
+            "timestamp": "2025-05-09T09:37:45.004Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 17963,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-09T09:38:40.291Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 68,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\deliverer\\documents\\page.tsx": [
+          {
+            "timestamp": "2025-05-09T09:38:51.551Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\deliverer\\documents\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-09T09:38:58.213Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\[locale]\\(protected)\\deliverer\\documents\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\announcement.router.ts": [
+          {
+            "timestamp": "2025-05-09T09:39:10.457Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\announcement.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 314,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
