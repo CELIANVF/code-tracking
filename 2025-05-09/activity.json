@@ -2,9 +2,9 @@
   "date": "2025-05-09",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 6264,
-      "totalLinesRemoved": 1133,
-      "totalActiveTime": 38,
+      "totalLinesAdded": 6326,
+      "totalLinesRemoved": 1251,
+      "totalActiveTime": 44,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -123,6 +123,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T08:59:47.566Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\document.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 62,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T09:00:45.083Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\document.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -314,6 +342,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T09:00:45.022Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\app\\api\\upload\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-document-upload.ts": [
@@ -358,6 +400,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T09:00:45.034Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\hooks\\use-document-upload.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts": [
@@ -395,6 +451,20 @@
             "fileType": ".ts",
             "linesAdded": 26,
             "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T09:00:45.060Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\schemas\\auth\\document.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 17,
             "projectName": "ecodeli",
             "content": {
               "added": [],
