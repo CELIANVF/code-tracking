@@ -2,7 +2,7 @@
   "date": "2025-05-09",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 5794,
+      "totalLinesAdded": 5795,
       "totalLinesRemoved": 1105,
       "totalActiveTime": 28,
       "files": {
@@ -191,6 +191,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 44,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-09T08:42:54.610Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\components\\admin\\verification\\user-document-verification.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
               "added": [],
