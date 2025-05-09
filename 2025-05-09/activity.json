@@ -2,9 +2,9 @@
   "date": "2025-05-09",
   "projects": {
     "ecodeli": {
-      "totalLinesAdded": 28612,
+      "totalLinesAdded": 30556,
       "totalLinesRemoved": 1517,
-      "totalActiveTime": 106,
+      "totalActiveTime": 111,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.next\\package.json": [
           {
@@ -1206,6 +1206,82 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\wallet.service.ts",
             "fileType": ".ts",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T10:11:55.841Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\wallet.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-09T10:12:18.379Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\wallet.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.env": [
+          {
+            "timestamp": "2025-05-09T10:12:38.391Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\.env",
+            "fileType": "unknown",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\commission.service.ts": [
+          {
+            "timestamp": "2025-05-09T10:13:02.223Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\services\\commission.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 461,
+            "linesRemoved": 0,
+            "projectName": "ecodeli",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\payment.router.ts": [
+          {
+            "timestamp": "2025-05-09T10:13:31.535Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli\\src\\server\\api\\routers\\payment.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 1448,
             "linesRemoved": 0,
             "projectName": "ecodeli",
             "content": {
