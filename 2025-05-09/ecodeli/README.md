@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5795                                          |
-| **Lines Removed** (➖) | 1105                                        |
-| **Net Change** (↕)    | 4690                |
-| **Active Time** (⌚)   | 28 minutes |
+| **Lines Added** (➕)   | 6264                                          |
+| **Lines Removed** (➖) | 1133                                        |
+| **Net Change** (↕)    | 5131                |
+| **Active Time** (⌚)   | 38 minutes |
 
 
 ## Modified Files
@@ -18,6 +18,9 @@
 - **use-documents.ts** (+143, -0)
 - **user-document-verification.tsx** (+565, -44)
 - **document.service.ts** (+2153, -1016)
+- **route.ts** (+90, -0)
+- **use-document-upload.ts** (+263, -19)
+- **document.schema.ts** (+116, -9)
 
 ## Visualizations
 
@@ -27,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".ts" : 6286
+".ts" : 6783
 ".tsx" : 609
 ```
 
@@ -37,8 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 10
-"10h" : 9
+"10h" : 17
 ```
 
 
-> **Last Updated:** 5/9/2025, 10:43:39 AM
+> **Last Updated:** 5/9/2025, 10:58:39 AM
