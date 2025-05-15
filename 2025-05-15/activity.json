@@ -3,7 +3,7 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 41113,
-      "totalLinesRemoved": 4872,
+      "totalLinesRemoved": 5237,
       "totalActiveTime": 298,
       "files": {
         "c:\\Users\\Utilisateur\\AppData\\Roaming\\Cursor\\User\\settings.json": [
@@ -933,6 +933,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T16:08:56.994Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 365,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
