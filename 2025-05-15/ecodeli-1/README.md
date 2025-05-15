@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1771                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1771                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Lines Added** (➕)   | 2775                                          |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | 2771                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,10 @@
 - **admin.service.ts** (+807, -0)
 - **user-filters.tsx** (+361, -0)
 - **user-permissions-form.tsx** (+303, -0)
-- **use-admin-users.ts** (+280, -0)
+- **use-admin-users.ts** (+303, -0)
+- **page.tsx** (+567, -4)
+- **admin-user.router.ts** (+189, -0)
+- **user-export.tsx** (+225, -0)
 
 ## Visualizations
 
@@ -25,8 +28,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 20
-".ts" : 1087
-".tsx" : 664
+".ts" : 1299
+".tsx" : 1460
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +37,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 9
+"10h" : 17
 ```
 
 
-> **Last Updated:** 5/15/2025, 10:16:04 AM
+> **Last Updated:** 5/15/2025, 10:21:04 AM
