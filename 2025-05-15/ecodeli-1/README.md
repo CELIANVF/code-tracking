@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 12329                                          |
-| **Lines Removed** (➖) | 952                                        |
-| **Net Change** (↕)    | 11377                |
-| **Active Time** (⌚)   | 84 minutes |
+| **Lines Removed** (➖) | 994                                        |
+| **Net Change** (↕)    | 11335                |
+| **Active Time** (⌚)   | 87 minutes |
 
 
 ## Modified Files
@@ -32,7 +32,7 @@
 - **deliverer-document-upload.tsx** (+313, -1)
 - **use-documents.ts** (+115, -10)
 - **document-upload.tsx** (+350, -0)
-- **document-upload-form.tsx** (+358, -75)
+- **document-upload-form.tsx** (+358, -117)
 - **fr.json** (+4502, -1)
 
 ## Visualizations
@@ -44,7 +44,7 @@ pie showData
 title Lines changed by file type
 ".json" : 4537
 ".ts" : 3008
-".tsx" : 3048
+".tsx" : 3090
 ".prisma" : 2617
 "unknown" : 15
 ".local" : 56
@@ -56,8 +56,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 42
-"11h" : 25
+"11h" : 27
 ```
 
 
-> **Last Updated:** 5/15/2025, 11:31:06 AM
+> **Last Updated:** 5/15/2025, 11:46:07 AM
