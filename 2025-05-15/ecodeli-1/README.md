@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 41113                                          |
+| **Lines Added** (➕)   | 41383                                          |
 | **Lines Removed** (➖) | 5237                                        |
-| **Net Change** (↕)    | 35876                |
-| **Active Time** (⌚)   | 298 minutes |
+| **Net Change** (↕)    | 36146                |
+| **Active Time** (⌚)   | 309 minutes |
 
 
 ## Modified Files
@@ -33,14 +33,14 @@
 - **use-documents.ts** (+180, -67)
 - **document-upload.tsx** (+350, -0)
 - **document-upload-form.tsx** (+818, -614)
-- **fr.json** (+6887, -2265)
+- **fr.json** (+6901, -2265)
 - **document.schema.ts** (+120, -19)
 - **route.ts** (+114, -4)
 - **lucide-react.d.ts** (+1, -0)
 - **pnpm-lock.yaml** (+14907, -0)
 - **page.tsx** (+30, -0)
 - **user-document-verification.tsx** (+1579, -844)
-- **verification.router.ts** (+899, -0)
+- **verification.router.ts** (+994, -0)
 - **route.ts** (+86, -1)
 - **route.ts** (+73, -1)
 - **auth.ts** (+1, -0)
@@ -57,6 +57,8 @@
 - **en.json** (+3989, -0)
 - **root.ts** (+79, -0)
 - **payment.service.ts** (+34, -0)
+- **force-verification-update.tsx** (+67, -0)
+- **page.tsx** (+94, -0)
 
 ## Visualizations
 
@@ -65,9 +67,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 13180
-".ts" : 8650
-".tsx" : 6860
+".json" : 13194
+".ts" : 8745
+".tsx" : 7021
 ".prisma" : 2626
 "unknown" : 65
 ".local" : 56
@@ -85,8 +87,8 @@ title Coding activity by hour (count of changes)
 "12h" : 97
 "13h" : 2
 "17h" : 31
-"18h" : 1
+"18h" : 8
 ```
 
 
-> **Last Updated:** 5/15/2025, 6:12:07 PM
+> **Last Updated:** 5/15/2025, 6:17:07 PM
