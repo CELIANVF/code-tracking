@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2942                                          |
-| **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 2938                |
-| **Active Time** (⌚)   | 20 minutes |
+| **Lines Added** (➕)   | 3934                                          |
+| **Lines Removed** (➖) | 837                                        |
+| **Net Change** (↕)    | 3097                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,9 @@
 - **admin-user.router.ts** (+189, -0)
 - **user-export.tsx** (+225, -0)
 - **page.tsx** (+167, -0)
+- **schema.prisma** (+892, -833)
+- **minimal-seed.ts** (+41, -0)
+- **minimal-schema.prisma** (+59, -0)
 
 ## Visualizations
 
@@ -29,8 +32,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 20
-".ts" : 1299
+".ts" : 1340
 ".tsx" : 1627
+".prisma" : 1784
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +42,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 19
+"10h" : 26
 ```
 
 
-> **Last Updated:** 5/15/2025, 10:26:04 AM
+> **Last Updated:** 5/15/2025, 10:31:04 AM
