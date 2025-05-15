@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 31460                                          |
+| **Lines Added** (➕)   | 31527                                          |
 | **Lines Removed** (➖) | 4869                                        |
-| **Net Change** (↕)    | 26591                |
-| **Active Time** (⌚)   | 251 minutes |
+| **Net Change** (↕)    | 26658                |
+| **Active Time** (⌚)   | 260 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **admin-user.router.ts** (+189, -0)
 - **user-export.tsx** (+225, -0)
 - **page.tsx** (+167, -0)
-- **schema.prisma** (+1729, -837)
+- **schema.prisma** (+1730, -837)
 - **minimal-seed.ts** (+41, -0)
 - **minimal-schema.prisma** (+59, -0)
 - **.env** (+14, -1)
@@ -33,8 +33,8 @@
 - **use-documents.ts** (+180, -67)
 - **document-upload.tsx** (+350, -0)
 - **document-upload-form.tsx** (+818, -614)
-- **fr.json** (+4502, -2264)
-- **document.schema.ts** (+109, -19)
+- **fr.json** (+4508, -2264)
+- **document.schema.ts** (+120, -19)
 - **route.ts** (+114, -4)
 - **lucide-react.d.ts** (+1, -0)
 - **pnpm-lock.yaml** (+14907, -0)
@@ -47,6 +47,7 @@
 - **.gitignore** (+46, -4)
 - **route.ts** (+172, -41)
 - **auth.router.ts** (+709, -0)
+- **enums.ts** (+49, -0)
 
 ## Visualizations
 
@@ -55,10 +56,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 6800
-".ts" : 5321
+".json" : 6806
+".ts" : 5381
 ".tsx" : 6555
-".prisma" : 2625
+".prisma" : 2626
 "unknown" : 65
 ".local" : 56
 ".yaml" : 14907
@@ -71,8 +72,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 42
 "11h" : 43
-"12h" : 93
+"12h" : 97
+"13h" : 1
 ```
 
 
-> **Last Updated:** 5/15/2025, 12:56:11 PM
+> **Last Updated:** 5/15/2025, 1:01:11 PM
