@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 29016                                          |
-| **Lines Removed** (➖) | 1191                                        |
-| **Net Change** (↕)    | 27825                |
-| **Active Time** (⌚)   | 172 minutes |
+| **Lines Added** (➕)   | 29155                                          |
+| **Lines Removed** (➖) | 1431                                        |
+| **Net Change** (↕)    | 27724                |
+| **Active Time** (⌚)   | 187 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **admin-user.router.ts** (+189, -0)
 - **user-export.tsx** (+225, -0)
 - **page.tsx** (+167, -0)
-- **schema.prisma** (+1726, -833)
+- **schema.prisma** (+1726, -834)
 - **minimal-seed.ts** (+41, -0)
 - **minimal-schema.prisma** (+59, -0)
 - **.env** (+14, -1)
@@ -32,18 +32,19 @@
 - **deliverer-document-upload.tsx** (+343, -26)
 - **use-documents.ts** (+168, -25)
 - **document-upload.tsx** (+350, -0)
-- **document-upload-form.tsx** (+445, -242)
+- **document-upload-form.tsx** (+541, -277)
 - **fr.json** (+4502, -1)
 - **document.schema.ts** (+99, -9)
 - **route.ts** (+114, -0)
 - **lucide-react.d.ts** (+1, -0)
 - **pnpm-lock.yaml** (+14907, -0)
 - **page.tsx** (+30, -0)
-- **user-document-verification.tsx** (+723, -0)
+- **user-document-verification.tsx** (+723, -202)
 - **verification.router.ts** (+407, -0)
 - **route.ts** (+86, -1)
-- **route.ts** (+73, -0)
+- **route.ts** (+73, -1)
 - **auth.ts** (+1, -0)
+- **.gitignore** (+43, -1)
 
 ## Visualizations
 
@@ -53,10 +54,10 @@
 pie showData
 title Lines changed by file type
 ".json" : 4537
-".ts" : 3964
-".tsx" : 4110
-".prisma" : 2618
-"unknown" : 15
+".ts" : 3965
+".tsx" : 4443
+".prisma" : 2619
+"unknown" : 59
 ".local" : 56
 ".yaml" : 14907
 ```
@@ -68,8 +69,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 42
 "11h" : 43
-"12h" : 37
+"12h" : 44
 ```
 
 
-> **Last Updated:** 5/15/2025, 12:31:09 PM
+> **Last Updated:** 5/15/2025, 12:36:09 PM

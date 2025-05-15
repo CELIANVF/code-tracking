@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 29016,
-      "totalLinesRemoved": 1191,
-      "totalActiveTime": 172,
+      "totalLinesAdded": 29155,
+      "totalLinesRemoved": 1431,
+      "totalActiveTime": 187,
       "files": {
         "c:\\Users\\Utilisateur\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -395,6 +395,20 @@
             "fileType": ".prisma",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "prisma"
+          },
+          {
+            "timestamp": "2025-05-15T10:35:28.015Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schema.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
@@ -1364,6 +1378,34 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T10:35:24.258Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\documents\\document-upload-form.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T10:35:28.042Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\documents\\document-upload-form.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 96,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json": [
@@ -1644,6 +1686,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-15T10:35:24.301Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\user-document-verification.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 202,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\verification.router.ts": [
@@ -1762,6 +1818,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-15T10:31:11.490Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\api\\admin\\documents\\[documentId]\\reject\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\auth.ts": [
@@ -1778,6 +1848,36 @@
             },
             "duration": 2,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
+          {
+            "timestamp": "2025-05-15T10:35:47.620Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-15T10:35:53.588Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
