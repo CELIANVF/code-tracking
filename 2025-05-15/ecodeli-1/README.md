@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 30466                                          |
-| **Lines Removed** (➖) | 2461                                        |
-| **Net Change** (↕)    | 28005                |
-| **Active Time** (⌚)   | 231 minutes |
+| **Lines Added** (➕)   | 31433                                          |
+| **Lines Removed** (➖) | 2564                                        |
+| **Net Change** (↕)    | 28869                |
+| **Active Time** (⌚)   | 243 minutes |
 
 
 ## Modified Files
@@ -27,14 +27,14 @@
 - **.env.local** (+35, -21)
 - **deliverer-register-form.tsx** (+324, -0)
 - **route.ts** (+79, -0)
-- **document.service.ts** (+1182, -2)
-- **document.router.ts** (+351, -6)
+- **document.service.ts** (+1195, -34)
+- **document.router.ts** (+590, -67)
 - **deliverer-document-upload.tsx** (+343, -26)
 - **use-documents.ts** (+168, -25)
 - **document-upload.tsx** (+350, -0)
 - **document-upload-form.tsx** (+818, -614)
 - **fr.json** (+4502, -1)
-- **document.schema.ts** (+99, -9)
+- **document.schema.ts** (+109, -19)
 - **route.ts** (+114, -4)
 - **lucide-react.d.ts** (+1, -0)
 - **pnpm-lock.yaml** (+14907, -0)
@@ -46,6 +46,7 @@
 - **auth.ts** (+1, -0)
 - **.gitignore** (+46, -4)
 - **route.ts** (+172, -41)
+- **auth.router.ts** (+705, -0)
 
 ## Visualizations
 
@@ -55,7 +56,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 4537
-".ts" : 4182
+".ts" : 5252
 ".tsx" : 6555
 ".prisma" : 2625
 "unknown" : 65
@@ -70,8 +71,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 42
 "11h" : 43
-"12h" : 79
+"12h" : 88
 ```
 
 
-> **Last Updated:** 5/15/2025, 12:46:10 PM
+> **Last Updated:** 5/15/2025, 12:51:10 PM
