@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 31433                                          |
-| **Lines Removed** (➖) | 2564                                        |
-| **Net Change** (↕)    | 28869                |
-| **Active Time** (⌚)   | 243 minutes |
+| **Lines Added** (➕)   | 31460                                          |
+| **Lines Removed** (➖) | 4869                                        |
+| **Net Change** (↕)    | 26591                |
+| **Active Time** (⌚)   | 251 minutes |
 
 
 ## Modified Files
@@ -27,13 +27,13 @@
 - **.env.local** (+35, -21)
 - **deliverer-register-form.tsx** (+324, -0)
 - **route.ts** (+79, -0)
-- **document.service.ts** (+1195, -34)
+- **document.service.ts** (+1206, -34)
 - **document.router.ts** (+590, -67)
 - **deliverer-document-upload.tsx** (+343, -26)
-- **use-documents.ts** (+168, -25)
+- **use-documents.ts** (+180, -67)
 - **document-upload.tsx** (+350, -0)
 - **document-upload-form.tsx** (+818, -614)
-- **fr.json** (+4502, -1)
+- **fr.json** (+4502, -2264)
 - **document.schema.ts** (+109, -19)
 - **route.ts** (+114, -4)
 - **lucide-react.d.ts** (+1, -0)
@@ -46,7 +46,7 @@
 - **auth.ts** (+1, -0)
 - **.gitignore** (+46, -4)
 - **route.ts** (+172, -41)
-- **auth.router.ts** (+705, -0)
+- **auth.router.ts** (+709, -0)
 
 ## Visualizations
 
@@ -55,8 +55,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 4537
-".ts" : 5252
+".json" : 6800
+".ts" : 5321
 ".tsx" : 6555
 ".prisma" : 2625
 "unknown" : 65
@@ -71,8 +71,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 42
 "11h" : 43
-"12h" : 88
+"12h" : 93
 ```
 
 
-> **Last Updated:** 5/15/2025, 12:51:10 PM
+> **Last Updated:** 5/15/2025, 12:56:11 PM
