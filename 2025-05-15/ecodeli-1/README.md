@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 41425                                          |
+| **Lines Added** (➕)   | 41541                                          |
 | **Lines Removed** (➖) | 5370                                        |
-| **Net Change** (↕)    | 36055                |
-| **Active Time** (⌚)   | 343 minutes |
+| **Net Change** (↕)    | 36171                |
+| **Active Time** (⌚)   | 345 minutes |
 
 
 ## Modified Files
-- **settings.json** (+34, -0)
+- **settings.json** (+69, -0)
 - **admin.service.ts** (+807, -20)
 - **user-filters.tsx** (+361, -0)
 - **user-permissions-form.tsx** (+303, -0)
@@ -40,7 +40,7 @@
 - **pnpm-lock.yaml** (+14907, -0)
 - **page.tsx** (+30, -0)
 - **user-document-verification.tsx** (+1579, -844)
-- **verification.router.ts** (+1000, -10)
+- **verification.router.ts** (+1081, -10)
 - **route.ts** (+86, -1)
 - **route.ts** (+73, -1)
 - **auth.ts** (+1, -0)
@@ -67,8 +67,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 13194
-".ts" : 8906
+".json" : 13229
+".ts" : 8987
 ".tsx" : 7035
 ".prisma" : 2626
 "unknown" : 65
@@ -87,8 +87,8 @@ title Coding activity by hour (count of changes)
 "12h" : 97
 "13h" : 2
 "17h" : 31
-"18h" : 22
+"18h" : 24
 ```
 
 
-> **Last Updated:** 5/15/2025, 6:42:07 PM
+> **Last Updated:** 5/15/2025, 6:47:07 PM
