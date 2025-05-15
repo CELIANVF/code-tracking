@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7722                                          |
-| **Lines Removed** (➖) | 899                                        |
-| **Net Change** (↕)    | 6823                |
-| **Active Time** (⌚)   | 67 minutes |
+| **Lines Added** (➕)   | 12235                                          |
+| **Lines Removed** (➖) | 940                                        |
+| **Net Change** (↕)    | 11295                |
+| **Active Time** (⌚)   | 76 minutes |
 
 
 ## Modified Files
@@ -29,10 +29,11 @@
 - **route.ts** (+79, -0)
 - **document.service.ts** (+1107, -0)
 - **document.router.ts** (+351, -6)
-- **deliverer-document-upload.tsx** (+312, -0)
-- **use-documents.ts** (+105, -0)
+- **deliverer-document-upload.tsx** (+313, -0)
+- **use-documents.ts** (+115, -0)
 - **document-upload.tsx** (+350, -0)
-- **document-upload-form.tsx** (+264, -34)
+- **document-upload-form.tsx** (+264, -75)
+- **fr.json** (+4502, -0)
 
 ## Visualizations
 
@@ -41,9 +42,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 34
-".ts" : 2988
-".tsx" : 2911
+".json" : 4536
+".ts" : 2998
+".tsx" : 2953
 ".prisma" : 2617
 "unknown" : 15
 ".local" : 56
@@ -55,8 +56,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 42
-"11h" : 15
+"11h" : 20
 ```
 
 
-> **Last Updated:** 5/15/2025, 11:16:05 AM
+> **Last Updated:** 5/15/2025, 11:21:06 AM
