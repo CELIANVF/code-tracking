@@ -2,9 +2,9 @@
   "date": "2025-05-16",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 9961,
-      "totalLinesRemoved": 34,
-      "totalActiveTime": 67,
+      "totalLinesAdded": 10079,
+      "totalLinesRemoved": 43,
+      "totalActiveTime": 82,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\verification.router.ts": [
           {
@@ -272,6 +272,34 @@
             },
             "duration": 1,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-16T07:53:25.986Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-16T07:53:26.283Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env",
+            "fileType": "unknown",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local": [
@@ -315,6 +343,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-05-16T07:53:09.154Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-05-16T07:53:15.772Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "local"
           }
         ],
@@ -872,6 +928,80 @@
             },
             "duration": 2,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.js": [
+          {
+            "timestamp": "2025-05-16T07:49:33.061Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-16T07:49:33.947Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.js",
+            "fileType": ".js",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-05-16T07:50:36.065Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.js",
+            "fileType": ".js",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.mjs": [
+          {
+            "timestamp": "2025-05-16T07:50:45.527Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-05-16T07:50:46.371Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
           }
         ]
       },

@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9961                                          |
-| **Lines Removed** (➖) | 34                                        |
-| **Net Change** (↕)    | 9927                |
-| **Active Time** (⌚)   | 67 minutes |
+| **Lines Added** (➕)   | 10079                                          |
+| **Lines Removed** (➖) | 43                                        |
+| **Net Change** (↕)    | 10036                |
+| **Active Time** (⌚)   | 82 minutes |
 
 
 ## Modified Files
@@ -18,8 +18,8 @@
 - **force-verify-deliverer-button.tsx** (+90, -0)
 - **providers.tsx** (+43, -23)
 - **layout.tsx** (+55, -0)
-- **.env** (+17, -0)
-- **.env.local** (+17, -1)
+- **.env** (+27, -5)
+- **.env.local** (+27, -5)
 - **onboarding-controller.tsx** (+104, -0)
 - **onboarding-context.tsx** (+181, -0)
 - **email.service.ts** (+316, -0)
@@ -32,6 +32,8 @@
 - **use-auth.ts** (+300, -0)
 - **login-form.tsx** (+350, -0)
 - **email.ts** (+352, -1)
+- **setup-env.js** (+49, -0)
+- **setup-env.mjs** (+49, -0)
 
 ## Visualizations
 
@@ -42,9 +44,11 @@ pie showData
 title Lines changed by file type
 ".ts" : 1899
 ".tsx" : 1628
-"unknown" : 17
-".local" : 18
+"unknown" : 32
+".local" : 32
 ".json" : 6433
+".js" : 49
+".mjs" : 49
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +57,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 39
-"09h" : 20
+"09h" : 29
 ```
 
 
-> **Last Updated:** 5/16/2025, 9:48:43 AM
+> **Last Updated:** 5/16/2025, 9:53:43 AM
