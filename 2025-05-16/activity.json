@@ -1450,9 +1450,9 @@
       "averageChangeSize": 77.81818181818181
     },
     "python_app_deploy": {
-      "totalLinesAdded": 2587,
+      "totalLinesAdded": 2593,
       "totalLinesRemoved": 1404,
-      "totalActiveTime": 141,
+      "totalActiveTime": 144,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt": [
           {
@@ -2443,6 +2443,20 @@
             "fileType": ".html",
             "linesAdded": 0,
             "linesRemoved": 31,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-16T10:38:03.965Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\index.html",
+            "fileType": ".html",
+            "linesAdded": 6,
+            "linesRemoved": 0,
             "projectName": "python_app_deploy",
             "content": {
               "added": [],
