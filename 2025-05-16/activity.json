@@ -1450,9 +1450,9 @@
       "averageChangeSize": 77.81818181818181
     },
     "python_app_deploy": {
-      "totalLinesAdded": 537,
-      "totalLinesRemoved": 65,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 578,
+      "totalLinesRemoved": 216,
+      "totalActiveTime": 36,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt": [
           {
@@ -1610,6 +1610,20 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T09:42:15.078Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 88,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1": [
@@ -1681,6 +1695,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T09:41:09.590Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 0,
+            "linesRemoved": 63,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T09:43:10.378Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ps1"
           }
         ],
@@ -1840,6 +1882,22 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.sh": [
+          {
+            "timestamp": "2025-05-16T09:41:21.720Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.sh",
+            "fileType": ".sh",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ]
       },
