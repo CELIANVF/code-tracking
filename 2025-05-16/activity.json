@@ -1450,9 +1450,9 @@
       "averageChangeSize": 77.81818181818181
     },
     "python_app_deploy": {
-      "totalLinesAdded": 2593,
-      "totalLinesRemoved": 1433,
-      "totalActiveTime": 144,
+      "totalLinesAdded": 2597,
+      "totalLinesRemoved": 1435,
+      "totalActiveTime": 145,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt": [
           {
@@ -1889,6 +1889,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T10:48:53.915Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T10:48:53.876Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T10:49:28.417Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
