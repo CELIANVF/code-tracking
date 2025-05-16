@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11083                                          |
+| **Lines Added** (➕)   | 12427                                          |
 | **Lines Removed** (➖) | 74                                        |
-| **Net Change** (↕)    | 11009                |
-| **Active Time** (⌚)   | 109 minutes |
+| **Net Change** (↕)    | 12353                |
+| **Active Time** (⌚)   | 113 minutes |
 
 
 ## Modified Files
@@ -36,6 +36,7 @@
 - **setup-env.mjs** (+65, -16)
 - **schema.prisma** (+897, -0)
 - **migrate.js** (+64, -0)
+- **auth.service.ts** (+1344, -0)
 
 ## Visualizations
 
@@ -44,7 +45,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1914
+".ts" : 3258
 ".tsx" : 1628
 "unknown" : 47
 ".local" : 44
@@ -61,8 +62,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 39
 "09h" : 40
-"10h" : 7
+"10h" : 8
 ```
 
 
-> **Last Updated:** 5/16/2025, 10:08:43 AM
+> **Last Updated:** 5/16/2025, 10:13:43 AM
