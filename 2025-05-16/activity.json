@@ -1450,9 +1450,9 @@
       "averageChangeSize": 77.81818181818181
     },
     "python_app_deploy": {
-      "totalLinesAdded": 498,
-      "totalLinesRemoved": 63,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 537,
+      "totalLinesRemoved": 65,
+      "totalActiveTime": 28,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt": [
           {
@@ -1668,6 +1668,20 @@
             },
             "duration": 1,
             "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T09:36:42.514Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
           }
         ],
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\restart.ps1": [
@@ -1805,6 +1819,20 @@
             "fileType": ".txt",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-16T09:37:06.075Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\startup.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "python_app_deploy",
             "content": {
               "added": [],
