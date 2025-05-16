@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2635                                          |
-| **Lines Removed** (➖) | 1455                                        |
-| **Net Change** (↕)    | 1180                |
+| **Lines Removed** (➖) | 1505                                        |
+| **Net Change** (↕)    | 1130                |
 | **Active Time** (⌚)   | 146 minutes |
 
 
 ## Modified Files
 - **requirements.txt** (+8, -3)
-- **app.py** (+583, -198)
+- **app.py** (+583, -248)
 - **deploy.ps1** (+159, -63)
 - **restart.ps1** (+155, -21)
 - **startup.txt** (+7, -5)
@@ -42,7 +42,7 @@
 pie showData
 title Lines changed by file type
 ".txt" : 23
-".py" : 1095
+".py" : 1145
 ".ps1" : 2340
 ".sh" : 40
 ".html" : 592
@@ -56,8 +56,8 @@ title Coding activity by hour (count of changes)
 "10h" : 8
 "11h" : 36
 "12h" : 73
-"13h" : 4
+"13h" : 5
 ```
 
 
-> **Last Updated:** 5/16/2025, 1:30:46 PM
+> **Last Updated:** 5/16/2025, 1:35:46 PM
