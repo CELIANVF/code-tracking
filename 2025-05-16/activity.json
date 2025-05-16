@@ -1450,9 +1450,9 @@
       "averageChangeSize": 77.81818181818181
     },
     "python_app_deploy": {
-      "totalLinesAdded": 578,
+      "totalLinesAdded": 633,
       "totalLinesRemoved": 216,
-      "totalActiveTime": 36,
+      "totalActiveTime": 38,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt": [
           {
@@ -1716,6 +1716,48 @@
             "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
             "fileType": ".ps1",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T09:46:51.082Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T09:46:51.229Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T09:46:57.875Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "python_app_deploy",
             "content": {
