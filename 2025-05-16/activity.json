@@ -1450,9 +1450,9 @@
       "averageChangeSize": 77.81818181818181
     },
     "python_app_deploy": {
-      "totalLinesAdded": 1265,
+      "totalLinesAdded": 1420,
       "totalLinesRemoved": 217,
-      "totalActiveTime": 79,
+      "totalActiveTime": 94,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt": [
           {
@@ -1756,6 +1756,76 @@
             "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
             "fileType": ".py",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T10:16:27.334Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T10:16:37.339Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T10:16:50.045Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T10:17:04.254Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T10:17:11.591Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "python_app_deploy",
             "content": {
@@ -2140,6 +2210,20 @@
             },
             "duration": 1,
             "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T10:19:25.802Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\update_cors.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ps1"
           }
         ],
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\index.html": [
@@ -2226,6 +2310,62 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-05-16T10:17:24.528Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\index.html",
+            "fileType": ".html",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-16T10:17:37.174Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\index.html",
+            "fileType": ".html",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-16T10:17:50.092Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-05-16T10:18:03.607Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\index.html",
+            "fileType": ".html",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\redeploy.ps1": [
@@ -2248,6 +2388,36 @@
             "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\redeploy.ps1",
             "fileType": ".ps1",
             "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\test_cors.ps1": [
+          {
+            "timestamp": "2025-05-16T10:19:40.346Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\test_cors.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T10:20:22.669Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\test_cors.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 52,
             "linesRemoved": 0,
             "projectName": "python_app_deploy",
             "content": {
