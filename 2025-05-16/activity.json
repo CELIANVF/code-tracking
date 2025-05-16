@@ -1448,6 +1448,117 @@
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\deliverer\\documents\\force-verify-deliverer-button.tsx"
       ],
       "averageChangeSize": 77.81818181818181
+    },
+    "python_app_deploy": {
+      "totalLinesAdded": 189,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt": [
+          {
+            "timestamp": "2025-05-16T08:39:35.497Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-16T08:39:36.332Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py": [
+          {
+            "timestamp": "2025-05-16T08:39:38.906Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T08:39:43.938Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1": [
+          {
+            "timestamp": "2025-05-16T08:40:34.549Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T08:40:35.399Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1,
+        "py": 2,
+        "ps1": 2
+      },
+      "changeFrequency": {
+        "10": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt",
+        "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+        "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1"
+      ],
+      "averageChangeSize": 31.5
     }
   },
   "totalActiveTime": 10,
