@@ -3,8 +3,8 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 8139,
-      "totalLinesRemoved": 23,
-      "totalActiveTime": 36,
+      "totalLinesRemoved": 24,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\verification.router.ts": [
           {
@@ -301,6 +301,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-05-16T06:44:31.786Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "local"
           }
         ],
