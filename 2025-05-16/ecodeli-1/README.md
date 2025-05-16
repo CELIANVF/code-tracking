@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10122                                          |
+| **Lines Added** (➕)   | 11083                                          |
 | **Lines Removed** (➖) | 74                                        |
-| **Net Change** (↕)    | 10048                |
-| **Active Time** (⌚)   | 100 minutes |
+| **Net Change** (↕)    | 11009                |
+| **Active Time** (⌚)   | 109 minutes |
 
 
 ## Modified Files
@@ -34,6 +34,8 @@
 - **email.ts** (+367, -1)
 - **setup-env.js** (+49, -0)
 - **setup-env.mjs** (+65, -16)
+- **schema.prisma** (+897, -0)
+- **migrate.js** (+64, -0)
 
 ## Visualizations
 
@@ -47,8 +49,9 @@ title Lines changed by file type
 "unknown" : 47
 ".local" : 44
 ".json" : 6433
-".js" : 49
+".js" : 113
 ".mjs" : 81
+".prisma" : 897
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -58,8 +61,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 39
 "09h" : 40
-"10h" : 3
+"10h" : 7
 ```
 
 
-> **Last Updated:** 5/16/2025, 10:03:43 AM
+> **Last Updated:** 5/16/2025, 10:08:43 AM
