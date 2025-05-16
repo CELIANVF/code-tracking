@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12458                                          |
-| **Lines Removed** (➖) | 162                                        |
-| **Net Change** (↕)    | 12296                |
-| **Active Time** (⌚)   | 122 minutes |
+| **Lines Added** (➕)   | 12546                                          |
+| **Lines Removed** (➖) | 183                                        |
+| **Net Change** (↕)    | 12363                |
+| **Active Time** (⌚)   | 125 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **.env.local** (+32, -12)
 - **onboarding-controller.tsx** (+104, -0)
 - **onboarding-context.tsx** (+181, -0)
-- **email.service.ts** (+317, -2)
+- **email.service.ts** (+320, -23)
 - **route.ts** (+47, -0)
 - **email-verification.tsx** (+102, -0)
 - **fr.json** (+2406, -0)
@@ -37,6 +37,7 @@
 - **schema.prisma** (+897, -0)
 - **migrate.js** (+64, -0)
 - **auth.service.ts** (+1374, -75)
+- **auth-emails.ts** (+85, -0)
 
 ## Visualizations
 
@@ -45,7 +46,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 3377
+".ts" : 3486
 ".tsx" : 1628
 "unknown" : 47
 ".local" : 44
@@ -62,8 +63,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 39
 "09h" : 40
-"10h" : 15
+"10h" : 19
 ```
 
 
-> **Last Updated:** 5/16/2025, 10:28:44 AM
+> **Last Updated:** 5/16/2025, 10:38:44 AM
