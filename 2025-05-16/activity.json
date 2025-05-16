@@ -1450,9 +1450,9 @@
       "averageChangeSize": 77.81818181818181
     },
     "python_app_deploy": {
-      "totalLinesAdded": 189,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 7,
+      "totalLinesAdded": 209,
+      "totalLinesRemoved": 36,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\requirements.txt": [
           {
@@ -1540,6 +1540,34 @@
             },
             "duration": 2,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T09:05:30.441Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-16T09:07:28.830Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\app.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1": [
@@ -1569,6 +1597,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-05-16T09:06:50.317Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\python_app_deploy\\deploy.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "python_app_deploy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ps1"
           }
         ]
