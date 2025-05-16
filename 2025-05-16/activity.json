@@ -2,9 +2,9 @@
   "date": "2025-05-16",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 10079,
-      "totalLinesRemoved": 43,
-      "totalActiveTime": 82,
+      "totalLinesAdded": 10105,
+      "totalLinesRemoved": 74,
+      "totalActiveTime": 94,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\verification.router.ts": [
           {
@@ -300,6 +300,62 @@
             },
             "duration": 1,
             "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-16T07:54:22.859Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-16T07:55:18.025Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env",
+            "fileType": "unknown",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-16T07:57:13.848Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-16T07:57:46.037Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local": [
@@ -364,6 +420,48 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local",
             "fileType": ".local",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-05-16T07:54:22.930Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-05-16T07:55:18.032Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-05-16T07:57:13.962Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
@@ -995,6 +1093,62 @@
             "fileType": ".mjs",
             "linesAdded": 48,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-05-16T07:54:16.885Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-05-16T07:55:12.789Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-05-16T07:57:07.581Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-05-16T07:57:43.920Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\setup-env.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 0,
+            "linesRemoved": 16,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
