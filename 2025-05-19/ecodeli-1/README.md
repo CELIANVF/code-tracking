@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 53573                                          |
-| **Lines Removed** (➖) | 13185                                        |
-| **Net Change** (↕)    | 40388                |
-| **Active Time** (⌚)   | 315 minutes |
+| **Lines Added** (➕)   | 54630                                          |
+| **Lines Removed** (➖) | 13187                                        |
+| **Net Change** (↕)    | 41443                |
+| **Active Time** (⌚)   | 323 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+21324, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+10340, -5261)
+- **fr.json** (+10355, -5263)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -56,8 +56,8 @@
 - **admin.service.ts** (+1349, -6)
 - **layout.tsx** (+39, -0)
 - **user-table.tsx** (+471, -172)
-- **page.tsx** (+167, -0)
-- **user-bulk-actions.tsx** (+875, -0)
+- **page.tsx** (+334, -0)
+- **user-bulk-actions.tsx** (+1750, -0)
 - **user-stats-advanced.tsx** (+729, -209)
 - **document-verification-list.tsx** (+521, -0)
 - **TodoList.tsx** (+83, -0)
@@ -79,9 +79,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 11624
-".tsx" : 6885
+".tsx" : 7927
 ".prisma" : 4225
-".json" : 43977
+".json" : 43994
 "unknown" : 47
 ```
 
@@ -97,8 +97,8 @@ title Coding activity by hour (count of changes)
 "13h" : 20
 "14h" : 31
 "15h" : 31
-"16h" : 20
+"16h" : 26
 ```
 
 
-> **Last Updated:** 5/19/2025, 4:24:29 PM
+> **Last Updated:** 5/19/2025, 4:29:30 PM

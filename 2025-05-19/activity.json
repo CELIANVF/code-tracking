@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 53573,
-      "totalLinesRemoved": 13185,
-      "totalActiveTime": 315,
+      "totalLinesAdded": 54630,
+      "totalLinesRemoved": 13187,
+      "totalActiveTime": 323,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -1350,6 +1350,62 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T14:24:40.602Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T14:25:00.669Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T14:25:52.210Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T14:27:13.699Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
@@ -2707,6 +2763,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T14:28:43.495Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\users\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 167,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\users\\user-bulk-actions.tsx": [
@@ -2729,6 +2799,20 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\users\\user-bulk-actions.tsx",
             "fileType": ".tsx",
             "linesAdded": 98,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T14:29:00.820Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\users\\user-bulk-actions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 875,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
