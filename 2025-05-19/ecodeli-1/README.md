@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 54854                                          |
-| **Lines Removed** (➖) | 13187                                        |
-| **Net Change** (↕)    | 41667                |
-| **Active Time** (⌚)   | 346 minutes |
+| **Lines Added** (➕)   | 55558                                          |
+| **Lines Removed** (➖) | 13206                                        |
+| **Net Change** (↕)    | 42352                |
+| **Active Time** (⌚)   | 373 minutes |
 
 
 ## Modified Files
@@ -55,7 +55,7 @@
 - **delivery.ts** (+143, -11)
 - **admin.service.ts** (+1349, -6)
 - **layout.tsx** (+39, -0)
-- **user-table.tsx** (+471, -172)
+- **user-table.tsx** (+793, -191)
 - **page.tsx** (+334, -0)
 - **user-bulk-actions.tsx** (+1750, -0)
 - **user-stats-advanced.tsx** (+729, -209)
@@ -72,12 +72,13 @@
 - **use-user-activation.ts** (+54, -0)
 - **fix-fr-translations.js** (+103, -0)
 - **add-user-ban-fields.ts** (+26, -0)
-- **user-ban.schema.ts** (+1, -0)
-- **use-user-ban.ts** (+1, -0)
-- **ban-button.tsx** (+1, -0)
-- **ban-confirm-dialog.tsx** (+1, -0)
-- **user-status-badge.tsx** (+1, -0)
-- **user-ban-actions.tsx** (+1, -0)
+- **user-ban.schema.ts** (+10, -0)
+- **use-user-ban.ts** (+87, -0)
+- **ban-button.tsx** (+36, -0)
+- **ban-confirm-dialog.tsx** (+84, -0)
+- **user-status-badge.tsx** (+37, -0)
+- **user-ban-actions.tsx** (+50, -0)
+- **user-status-cell.tsx** (+84, -0)
 
 ## Visualizations
 
@@ -86,8 +87,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11716
-".tsx" : 7931
+".ts" : 11811
+".tsx" : 8559
 ".prisma" : 4229
 ".json" : 44015
 "unknown" : 47
@@ -106,8 +107,8 @@ title Coding activity by hour (count of changes)
 "13h" : 20
 "14h" : 31
 "15h" : 31
-"16h" : 43
+"16h" : 55
 ```
 
 
-> **Last Updated:** 5/19/2025, 4:49:32 PM
+> **Last Updated:** 5/19/2025, 4:54:32 PM
