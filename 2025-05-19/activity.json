@@ -66,8 +66,8 @@
     },
     "ecodeli-1": {
       "totalLinesAdded": 55558,
-      "totalLinesRemoved": 13206,
-      "totalActiveTime": 373,
+      "totalLinesRemoved": 13207,
+      "totalActiveTime": 378,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -3440,6 +3440,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T14:58:42.895Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-user-ban.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "ts"
           }
         ],

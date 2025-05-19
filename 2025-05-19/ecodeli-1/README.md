@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 55558                                          |
-| **Lines Removed** (➖) | 13206                                        |
-| **Net Change** (↕)    | 42352                |
-| **Active Time** (⌚)   | 373 minutes |
+| **Lines Removed** (➖) | 13207                                        |
+| **Net Change** (↕)    | 42351                |
+| **Active Time** (⌚)   | 378 minutes |
 
 
 ## Modified Files
@@ -73,7 +73,7 @@
 - **fix-fr-translations.js** (+103, -0)
 - **add-user-ban-fields.ts** (+26, -0)
 - **user-ban.schema.ts** (+10, -0)
-- **use-user-ban.ts** (+87, -0)
+- **use-user-ban.ts** (+87, -1)
 - **ban-button.tsx** (+36, -0)
 - **ban-confirm-dialog.tsx** (+84, -0)
 - **user-status-badge.tsx** (+37, -0)
@@ -87,7 +87,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11811
+".ts" : 11812
 ".tsx" : 8559
 ".prisma" : 4229
 ".json" : 44015
@@ -107,8 +107,8 @@ title Coding activity by hour (count of changes)
 "13h" : 20
 "14h" : 31
 "15h" : 31
-"16h" : 55
+"16h" : 56
 ```
 
 
-> **Last Updated:** 5/19/2025, 4:54:32 PM
+> **Last Updated:** 5/19/2025, 4:59:32 PM
