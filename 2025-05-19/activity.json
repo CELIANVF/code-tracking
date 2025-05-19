@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 54734,
+      "totalLinesAdded": 54799,
       "totalLinesRemoved": 13187,
-      "totalActiveTime": 329,
+      "totalActiveTime": 337,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -184,6 +184,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "prisma"
+          },
+          {
+            "timestamp": "2025-05-19T14:39:56.835Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schema.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "prisma"
+          },
+          {
+            "timestamp": "2025-05-19T14:40:36.972Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schema.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "prisma"
           }
         ],
@@ -3061,6 +3089,20 @@
             },
             "duration": 0,
             "language": "prisma"
+          },
+          {
+            "timestamp": "2025-05-19T14:40:21.885Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schemas\\users\\user.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "prisma"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts": [
@@ -3083,6 +3125,20 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts",
             "fileType": ".ts",
             "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T14:44:16.663Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 36,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
@@ -3211,6 +3267,36 @@
             },
             "duration": 3,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.ts": [
+          {
+            "timestamp": "2025-05-19T14:43:36.114Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T14:44:12.826Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

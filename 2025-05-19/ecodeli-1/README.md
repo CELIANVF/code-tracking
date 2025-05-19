@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 54734                                          |
+| **Lines Added** (➕)   | 54799                                          |
 | **Lines Removed** (➖) | 13187                                        |
-| **Net Change** (↕)    | 41547                |
-| **Active Time** (⌚)   | 329 minutes |
+| **Net Change** (↕)    | 41612                |
+| **Active Time** (⌚)   | 337 minutes |
 
 
 ## Modified Files
 - **auth.service.ts** (+1377, -45)
 - **force-activate-deliverer-button.tsx** (+85, -0)
-- **schema.prisma** (+4121, -3)
+- **schema.prisma** (+4123, -3)
 - **page.tsx** (+227, -54)
 - **email-verification.tsx** (+115, -3)
 - **onboarding-controller.tsx** (+159, -9)
@@ -65,12 +65,13 @@
 - **use-todo.ts** (+65, -0)
 - **settings.json** (+17, -1)
 - **.gitignore** (+46, -1)
-- **user.prisma** (+102, -0)
-- **user.service.ts** (+49, -0)
+- **user.prisma** (+103, -0)
+- **user.service.ts** (+85, -0)
 - **user-activation.schema.ts** (+12, -0)
 - **user.router.ts** (+54, -0)
 - **use-user-activation.ts** (+54, -0)
 - **fix-fr-translations.js** (+103, -0)
+- **add-user-ban-fields.ts** (+26, -0)
 
 ## Visualizations
 
@@ -79,9 +80,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11624
+".ts" : 11686
 ".tsx" : 7927
-".prisma" : 4226
+".prisma" : 4229
 ".json" : 43994
 "unknown" : 47
 ".js" : 103
@@ -99,8 +100,8 @@ title Coding activity by hour (count of changes)
 "13h" : 20
 "14h" : 31
 "15h" : 31
-"16h" : 29
+"16h" : 35
 ```
 
 
-> **Last Updated:** 5/19/2025, 4:39:32 PM
+> **Last Updated:** 5/19/2025, 4:44:32 PM
