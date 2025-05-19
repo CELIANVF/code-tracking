@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 41318,
-      "totalLinesRemoved": 13183,
-      "totalActiveTime": 292,
+      "totalLinesAdded": 41379,
+      "totalLinesRemoved": 13184,
+      "totalActiveTime": 298,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -2789,6 +2789,80 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-05-19T14:00:13.965Z",
+            "fileName": "c:\\Users\\Utilisateur\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T14:00:29.941Z",
+            "fileName": "c:\\Users\\Utilisateur\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T14:01:53.975Z",
+            "fileName": "c:\\Users\\Utilisateur\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T14:01:54.712Z",
+            "fileName": "c:\\Users\\Utilisateur\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
+          {
+            "timestamp": "2025-05-19T14:03:52.185Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ]
       },
