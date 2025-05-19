@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 35557                                          |
+| **Lines Added** (➕)   | 35873                                          |
 | **Lines Removed** (➖) | 12785                                        |
-| **Net Change** (↕)    | 22772                |
-| **Active Time** (⌚)   | 233 minutes |
+| **Net Change** (↕)    | 23088                |
+| **Active Time** (⌚)   | 240 minutes |
 
 
 ## Modified Files
 - **auth.service.ts** (+1377, -45)
 - **force-activate-deliverer-button.tsx** (+85, -0)
 - **schema.prisma** (+2083, -3)
-- **page.tsx** (+202, -54)
+- **page.tsx** (+227, -54)
 - **email-verification.tsx** (+115, -3)
 - **onboarding-controller.tsx** (+159, -9)
 - **root.ts** (+73, -3)
-- **verification.router.ts** (+950, -390)
+- **verification.router.ts** (+992, -390)
 - **document.service.ts** (+1291, -191)
 - **en.json** (+13986, -6660)
 - **package.json** (+321, -53)
@@ -48,7 +48,8 @@
 - **force-verify-deliverer-button.tsx** (+191, -4)
 - **layout.tsx** (+41, -0)
 - **verification-status-provider.tsx** (+69, -0)
-- **middleware.ts** (+352, -0)
+- **middleware.ts** (+353, -0)
+- **next-auth.ts** (+248, -0)
 
 ## Visualizations
 
@@ -57,8 +58,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 9279
-".tsx" : 3081
+".ts" : 9570
+".tsx" : 3106
 ".prisma" : 2086
 ".json" : 33896
 ```
@@ -73,8 +74,8 @@ title Coding activity by hour (count of changes)
 "11h" : 28
 "12h" : 33
 "13h" : 20
-"14h" : 24
+"14h" : 29
 ```
 
 
-> **Last Updated:** 5/19/2025, 2:51:50 PM
+> **Last Updated:** 5/19/2025, 2:56:50 PM
