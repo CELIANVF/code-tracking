@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 35533                                          |
+| **Lines Added** (➕)   | 35548                                          |
 | **Lines Removed** (➖) | 12783                                        |
-| **Net Change** (↕)    | 22750                |
-| **Active Time** (⌚)   | 219 minutes |
+| **Net Change** (↕)    | 22765                |
+| **Active Time** (⌚)   | 221 minutes |
 
 
 ## Modified Files
 - **auth.service.ts** (+1377, -45)
 - **force-activate-deliverer-button.tsx** (+85, -0)
 - **schema.prisma** (+2083, -3)
-- **page.tsx** (+191, -52)
+- **page.tsx** (+193, -52)
 - **email-verification.tsx** (+115, -3)
 - **onboarding-controller.tsx** (+159, -9)
 - **root.ts** (+73, -3)
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+13986, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+7603, -5261)
+- **fr.json** (+7615, -5261)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -46,7 +46,7 @@
 - **document.router.ts** (+539, -0)
 - **deliverer-document-upload.tsx** (+313, -0)
 - **force-verify-deliverer-button.tsx** (+191, -4)
-- **layout.tsx** (+40, -0)
+- **layout.tsx** (+41, -0)
 - **verification-status-provider.tsx** (+69, -0)
 - **middleware.ts** (+352, -0)
 
@@ -58,9 +58,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 9279
-".tsx" : 3067
+".tsx" : 3070
 ".prisma" : 2086
-".json" : 33884
+".json" : 33896
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -73,8 +73,8 @@ title Coding activity by hour (count of changes)
 "11h" : 28
 "12h" : 33
 "13h" : 20
-"14h" : 18
+"14h" : 21
 ```
 
 
-> **Last Updated:** 5/19/2025, 2:36:49 PM
+> **Last Updated:** 5/19/2025, 2:41:53 PM
