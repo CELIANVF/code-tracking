@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 55559                                          |
+| **Lines Added** (➕)   | 55597                                          |
 | **Lines Removed** (➖) | 13703                                        |
-| **Net Change** (↕)    | 41856                |
-| **Active Time** (⌚)   | 409 minutes |
+| **Net Change** (↕)    | 41894                |
+| **Active Time** (⌚)   | 415 minutes |
 
 
 ## Modified Files
@@ -66,13 +66,13 @@
 - **settings.json** (+17, -1)
 - **.gitignore** (+46, -1)
 - **user.prisma** (+103, -2)
-- **user.service.ts** (+85, -36)
+- **user.service.ts** (+112, -36)
 - **user-activation.schema.ts** (+12, -0)
 - **user.router.ts** (+82, -28)
 - **use-user-activation.ts** (+54, -0)
 - **fix-fr-translations.js** (+103, -0)
 - **add-user-ban-fields.ts** (+26, -25)
-- **user-ban.schema.ts** (+10, -9)
+- **user-ban.schema.ts** (+21, -9)
 - **use-user-ban.ts** (+87, -86)
 - **ban-button.tsx** (+36, -35)
 - **ban-confirm-dialog.tsx** (+84, -83)
@@ -88,7 +88,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11995
+".ts" : 12033
 ".tsx" : 8850
 ".prisma" : 4231
 ".json" : 44036
@@ -109,8 +109,8 @@ title Coding activity by hour (count of changes)
 "14h" : 31
 "15h" : 31
 "16h" : 56
-"17h" : 14
+"17h" : 16
 ```
 
 
-> **Last Updated:** 5/19/2025, 5:05:11 PM
+> **Last Updated:** 5/19/2025, 5:09:41 PM
