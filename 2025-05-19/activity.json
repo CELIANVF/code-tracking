@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 55883,
-      "totalLinesRemoved": 13719,
-      "totalActiveTime": 438,
+      "totalLinesAdded": 55943,
+      "totalLinesRemoved": 13722,
+      "totalActiveTime": 453,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -3399,6 +3399,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T15:37:24.589Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T15:39:01.206Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\user-activation.schema.ts": [
@@ -4101,6 +4129,96 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\regenerate-client.sh": [
+          {
+            "timestamp": "2025-05-19T15:36:44.764Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\regenerate-client.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-05-19T15:38:45.060Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\regenerate-client.sh",
+            "fileType": ".sh",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.sql": [
+          {
+            "timestamp": "2025-05-19T15:36:54.647Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.sql",
+            "fileType": ".sql",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-05-19T15:38:45.083Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.sql",
+            "fileType": ".sql",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sql"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\create-ban-migration.sh": [
+          {
+            "timestamp": "2025-05-19T15:37:04.511Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\create-ban-migration.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-05-19T15:38:45.106Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\create-ban-migration.sh",
+            "fileType": ".sh",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
           }
         ]
       },
