@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28374                                          |
+| **Lines Added** (➕)   | 28463                                          |
 | **Lines Removed** (➖) | 12185                                        |
-| **Net Change** (↕)    | 16189                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Net Change** (↕)    | 16278                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,8 @@
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
 - **client-register.schema.ts** (+24, -0)
+- **merchant-register.schema.ts** (+39, -0)
+- **provider-register.schema.ts** (+50, -0)
 
 ## Visualizations
 
@@ -35,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 3793
+".ts" : 3882
 ".tsx" : 947
 ".prisma" : 2086
 ".json" : 33733
@@ -48,8 +50,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 41
-"11h" : 21
+"11h" : 24
 ```
 
 
-> **Last Updated:** 5/19/2025, 11:45:56 AM
+> **Last Updated:** 5/19/2025, 11:50:56 AM
