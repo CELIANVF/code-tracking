@@ -65,7 +65,7 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 25793,
+      "totalLinesAdded": 25794,
       "totalLinesRemoved": 4756,
       "totalActiveTime": 56,
       "files": {
@@ -516,6 +516,20 @@
             "fileType": ".json",
             "linesAdded": 0,
             "linesRemoved": 53,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T09:14:47.743Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
