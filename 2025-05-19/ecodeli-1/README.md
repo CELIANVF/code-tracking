@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 39774                                          |
-| **Lines Removed** (➖) | 12974                                        |
-| **Net Change** (↕)    | 26800                |
-| **Active Time** (⌚)   | 273 minutes |
+| **Lines Added** (➕)   | 40506                                          |
+| **Lines Removed** (➖) | 13183                                        |
+| **Net Change** (↕)    | 27323                |
+| **Active Time** (⌚)   | 279 minutes |
 
 
 ## Modified Files
@@ -55,9 +55,10 @@
 - **delivery.ts** (+143, -11)
 - **admin.service.ts** (+1349, -6)
 - **layout.tsx** (+37, -0)
-- **user-table.tsx** (+468, -172)
+- **user-table.tsx** (+471, -172)
 - **page.tsx** (+167, -0)
 - **user-bulk-actions.tsx** (+875, -0)
+- **user-stats-advanced.tsx** (+729, -209)
 
 ## Visualizations
 
@@ -67,7 +68,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 11390
-".tsx" : 5307
+".tsx" : 6248
 ".prisma" : 2086
 ".json" : 33965
 ```
@@ -83,8 +84,8 @@ title Coding activity by hour (count of changes)
 "12h" : 33
 "13h" : 20
 "14h" : 31
-"15h" : 19
+"15h" : 23
 ```
 
 
-> **Last Updated:** 5/19/2025, 3:26:51 PM
+> **Last Updated:** 5/19/2025, 3:31:51 PM
