@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 41379,
+      "totalLinesAdded": 43557,
       "totalLinesRemoved": 13184,
-      "totalActiveTime": 298,
+      "totalActiveTime": 304,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -170,6 +170,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "prisma"
+          },
+          {
+            "timestamp": "2025-05-19T14:12:29.717Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schema.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 2038,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "prisma"
           }
         ],
@@ -2863,6 +2877,70 @@
             },
             "duration": 2,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schemas\\users\\user.prisma": [
+          {
+            "timestamp": "2025-05-19T14:10:39.219Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schemas\\users\\user.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "prisma"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts": [
+          {
+            "timestamp": "2025-05-19T14:13:53.484Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\user-activation.schema.ts": [
+          {
+            "timestamp": "2025-05-19T14:14:06.728Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\user-activation.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\user.router.ts": [
+          {
+            "timestamp": "2025-05-19T14:14:19.156Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\user.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
