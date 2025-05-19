@@ -65,8 +65,8 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 13772,
-      "totalLinesRemoved": 2014,
+      "totalLinesAdded": 16367,
+      "totalLinesRemoved": 4025,
       "totalActiveTime": 21,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
@@ -408,6 +408,52 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T08:26:37.917Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\en.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2011,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\package.json": [
+          {
+            "timestamp": "2025-05-19T08:26:37.731Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\package.json",
+            "fileType": ".json",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json": [
+          {
+            "timestamp": "2025-05-19T08:26:37.848Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 2406,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
