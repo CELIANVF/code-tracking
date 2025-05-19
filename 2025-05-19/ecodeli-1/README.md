@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34388                                          |
-| **Lines Removed** (➖) | 12733                                        |
-| **Net Change** (↕)    | 21655                |
-| **Active Time** (⌚)   | 172 minutes |
+| **Lines Added** (➕)   | 34701                                          |
+| **Lines Removed** (➖) | 12737                                        |
+| **Net Change** (↕)    | 21964                |
+| **Active Time** (⌚)   | 177 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+13986, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+7586, -5236)
+- **fr.json** (+7586, -5240)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -44,6 +44,7 @@
 - **deliverer-tutorial.tsx** (+142, -11)
 - **auto-verification-checker.tsx** (+61, -0)
 - **document.router.ts** (+539, -0)
+- **deliverer-document-upload.tsx** (+313, -0)
 
 ## Visualizations
 
@@ -53,9 +54,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 8815
-".tsx" : 2378
+".tsx" : 2691
 ".prisma" : 2086
-".json" : 33842
+".json" : 33846
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,8 +68,8 @@ title Coding activity by hour (count of changes)
 "10h" : 41
 "11h" : 28
 "12h" : 33
-"13h" : 12
+"13h" : 14
 ```
 
 
-> **Last Updated:** 5/19/2025, 1:31:18 PM
+> **Last Updated:** 5/19/2025, 1:42:15 PM
