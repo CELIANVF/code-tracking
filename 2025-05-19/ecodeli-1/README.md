@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34989                                          |
-| **Lines Removed** (➖) | 12737                                        |
-| **Net Change** (↕)    | 22252                |
-| **Active Time** (⌚)   | 189 minutes |
+| **Lines Added** (➕)   | 35045                                          |
+| **Lines Removed** (➖) | 12764                                        |
+| **Net Change** (↕)    | 22281                |
+| **Active Time** (⌚)   | 196 minutes |
 
 
 ## Modified Files
 - **auth.service.ts** (+1377, -45)
 - **force-activate-deliverer-button.tsx** (+85, -0)
 - **schema.prisma** (+2083, -3)
-- **page.tsx** (+151, -51)
+- **page.tsx** (+190, -51)
 - **email-verification.tsx** (+115, -3)
 - **onboarding-controller.tsx** (+159, -9)
 - **root.ts** (+73, -3)
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+13986, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+7592, -5240)
+- **fr.json** (+7592, -5261)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -42,10 +42,10 @@
 - **dashboard.service.ts** (+1734, -30)
 - **UserStatsCard.tsx** (+107, -0)
 - **deliverer-tutorial.tsx** (+142, -11)
-- **auto-verification-checker.tsx** (+61, -0)
+- **auto-verification-checker.tsx** (+78, -2)
 - **document.router.ts** (+539, -0)
 - **deliverer-document-upload.tsx** (+313, -0)
-- **force-verify-deliverer-button.tsx** (+176, -0)
+- **force-verify-deliverer-button.tsx** (+176, -4)
 
 ## Visualizations
 
@@ -55,9 +55,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 8909
-".tsx" : 2879
+".tsx" : 2941
 ".prisma" : 2086
-".json" : 33852
+".json" : 33873
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -70,8 +70,8 @@ title Coding activity by hour (count of changes)
 "11h" : 28
 "12h" : 33
 "13h" : 20
-"14h" : 1
+"14h" : 6
 ```
 
 
-> **Last Updated:** 5/19/2025, 2:01:39 PM
+> **Last Updated:** 5/19/2025, 2:06:43 PM
