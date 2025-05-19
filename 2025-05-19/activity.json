@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 35552,
+      "totalLinesAdded": 35557,
       "totalLinesRemoved": 12785,
-      "totalActiveTime": 229,
+      "totalActiveTime": 233,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -305,6 +305,20 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\deliverer\\documents\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T12:49:58.469Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\deliverer\\documents\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
