@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28671                                          |
+| **Lines Added** (➕)   | 29461                                          |
 | **Lines Removed** (➖) | 12185                                        |
-| **Net Change** (↕)    | 16486                |
-| **Active Time** (⌚)   | 94 minutes |
+| **Net Change** (↕)    | 17276                |
+| **Active Time** (⌚)   | 99 minutes |
 
 
 ## Modified Files
@@ -30,6 +30,7 @@
 - **merchant-register.schema.ts** (+39, -0)
 - **provider-register.schema.ts** (+50, -0)
 - **stripe.service.ts** (+208, -0)
+- **auth.router.ts** (+790, -0)
 
 ## Visualizations
 
@@ -38,7 +39,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 4090
+".ts" : 4880
 ".tsx" : 947
 ".prisma" : 2086
 ".json" : 33733
@@ -51,8 +52,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 3
 "10h" : 41
-"11h" : 26
+"11h" : 28
 ```
 
 
-> **Last Updated:** 5/19/2025, 11:55:56 AM
+> **Last Updated:** 5/19/2025, 12:00:57 PM

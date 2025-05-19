@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 28671,
+      "totalLinesAdded": 29461,
       "totalLinesRemoved": 12185,
-      "totalActiveTime": 94,
+      "totalActiveTime": 99,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -1077,6 +1077,36 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\stripe.service.ts",
             "fileType": ".ts",
             "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\auth.router.ts": [
+          {
+            "timestamp": "2025-05-19T09:58:56.870Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\auth.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 768,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T09:58:57.859Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\auth.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
