@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 53571,
-      "totalLinesRemoved": 13184,
-      "totalActiveTime": 313,
+      "totalLinesAdded": 53573,
+      "totalLinesRemoved": 13185,
+      "totalActiveTime": 315,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -2904,6 +2904,48 @@
               "removed": []
             },
             "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-19T14:24:02.083Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-19T14:24:17.502Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-19T14:24:23.698Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "unknown"
           }
         ],
