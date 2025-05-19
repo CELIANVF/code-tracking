@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 55844                                          |
-| **Lines Removed** (➖) | 13708                                        |
-| **Net Change** (↕)    | 42136                |
-| **Active Time** (⌚)   | 429 minutes |
+| **Lines Added** (➕)   | 55845                                          |
+| **Lines Removed** (➖) | 13715                                        |
+| **Net Change** (↕)    | 42130                |
+| **Active Time** (⌚)   | 433 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+21324, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+10376, -5284)
+- **fr.json** (+10376, -5290)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -80,7 +80,8 @@
 - **user-ban-actions.tsx** (+50, -49)
 - **user-status-cell.tsx** (+84, -83)
 - **use-user-ban.tsx** (+1, -0)
-- **user-ban-dialog.tsx** (+146, -0)
+- **user-ban-dialog.tsx** (+146, -1)
+- **fr-ban.json** (+1, -0)
 
 ## Visualizations
 
@@ -90,9 +91,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 12056
-".tsx" : 9079
+".tsx" : 9080
 ".prisma" : 4231
-".json" : 44036
+".json" : 44043
 "unknown" : 47
 ".js" : 103
 ```
@@ -110,8 +111,8 @@ title Coding activity by hour (count of changes)
 "14h" : 31
 "15h" : 31
 "16h" : 56
-"17h" : 27
+"17h" : 30
 ```
 
 
-> **Last Updated:** 5/19/2025, 5:26:47 PM
+> **Last Updated:** 5/19/2025, 5:30:01 PM
