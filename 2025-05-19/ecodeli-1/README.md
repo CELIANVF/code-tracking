@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 34333                                          |
+| **Lines Added** (➕)   | 34388                                          |
 | **Lines Removed** (➖) | 12733                                        |
-| **Net Change** (↕)    | 21600                |
-| **Active Time** (⌚)   | 169 minutes |
+| **Net Change** (↕)    | 21655                |
+| **Active Time** (⌚)   | 172 minutes |
 
 
 ## Modified Files
 - **auth.service.ts** (+1377, -45)
 - **force-activate-deliverer-button.tsx** (+85, -0)
 - **schema.prisma** (+2083, -3)
-- **page.tsx** (+138, -51)
+- **page.tsx** (+139, -51)
 - **email-verification.tsx** (+115, -3)
 - **onboarding-controller.tsx** (+159, -9)
 - **root.ts** (+73, -3)
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+13986, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+7532, -5236)
+- **fr.json** (+7586, -5236)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -53,9 +53,9 @@
 pie showData
 title Lines changed by file type
 ".ts" : 8815
-".tsx" : 2377
+".tsx" : 2378
 ".prisma" : 2086
-".json" : 33788
+".json" : 33842
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -67,8 +67,8 @@ title Coding activity by hour (count of changes)
 "10h" : 41
 "11h" : 28
 "12h" : 33
-"13h" : 10
+"13h" : 12
 ```
 
 
-> **Last Updated:** 5/19/2025, 1:26:15 PM
+> **Last Updated:** 5/19/2025, 1:31:18 PM
