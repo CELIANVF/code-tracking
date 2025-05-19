@@ -4,25 +4,25 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 33671                                          |
-| **Lines Removed** (➖) | 12627                                        |
-| **Net Change** (↕)    | 21044                |
-| **Active Time** (⌚)   | 162 minutes |
+| **Lines Added** (➕)   | 34333                                          |
+| **Lines Removed** (➖) | 12733                                        |
+| **Net Change** (↕)    | 21600                |
+| **Active Time** (⌚)   | 169 minutes |
 
 
 ## Modified Files
 - **auth.service.ts** (+1377, -45)
 - **force-activate-deliverer-button.tsx** (+85, -0)
 - **schema.prisma** (+2083, -3)
-- **page.tsx** (+138, -0)
+- **page.tsx** (+138, -51)
 - **email-verification.tsx** (+115, -3)
 - **onboarding-controller.tsx** (+159, -9)
 - **root.ts** (+73, -3)
-- **verification.router.ts** (+794, -372)
+- **verification.router.ts** (+856, -372)
 - **document.service.ts** (+1291, -191)
 - **en.json** (+13986, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+7532, -5181)
+- **fr.json** (+7532, -5236)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -42,6 +42,8 @@
 - **dashboard.service.ts** (+1734, -30)
 - **UserStatsCard.tsx** (+107, -0)
 - **deliverer-tutorial.tsx** (+142, -11)
+- **auto-verification-checker.tsx** (+61, -0)
+- **document.router.ts** (+539, -0)
 
 ## Visualizations
 
@@ -50,10 +52,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 8214
-".tsx" : 2265
+".ts" : 8815
+".tsx" : 2377
 ".prisma" : 2086
-".json" : 33733
+".json" : 33788
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -65,8 +67,8 @@ title Coding activity by hour (count of changes)
 "10h" : 41
 "11h" : 28
 "12h" : 33
-"13h" : 4
+"13h" : 10
 ```
 
 
-> **Last Updated:** 5/19/2025, 1:16:12 PM
+> **Last Updated:** 5/19/2025, 1:26:15 PM
