@@ -65,7 +65,7 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 40601,
+      "totalLinesAdded": 41122,
       "totalLinesRemoved": 13183,
       "totalActiveTime": 287,
       "files": {
@@ -2710,6 +2710,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\document-verification-list.tsx": [
+          {
+            "timestamp": "2025-05-19T13:46:26.166Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\document-verification-list.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 521,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
