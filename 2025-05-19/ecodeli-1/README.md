@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 36803                                          |
-| **Lines Removed** (➖) | 12796                                        |
-| **Net Change** (↕)    | 24007                |
-| **Active Time** (⌚)   | 255 minutes |
+| **Lines Added** (➕)   | 38248                                          |
+| **Lines Removed** (➖) | 12802                                        |
+| **Net Change** (↕)    | 25446                |
+| **Active Time** (⌚)   | 262 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+13986, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+7615, -5261)
+- **fr.json** (+7676, -5261)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -53,6 +53,8 @@
 - **page.tsx** (+482, -0)
 - **utils.ts** (+249, -0)
 - **delivery.ts** (+143, -11)
+- **admin.service.ts** (+1349, -6)
+- **layout.tsx** (+35, -0)
 
 ## Visualizations
 
@@ -61,10 +63,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 10029
-".tsx" : 3588
+".ts" : 11384
+".tsx" : 3623
 ".prisma" : 2086
-".json" : 33896
+".json" : 33957
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -78,8 +80,8 @@ title Coding activity by hour (count of changes)
 "12h" : 33
 "13h" : 20
 "14h" : 31
-"15h" : 6
+"15h" : 10
 ```
 
 
-> **Last Updated:** 5/19/2025, 3:06:50 PM
+> **Last Updated:** 5/19/2025, 3:11:50 PM
