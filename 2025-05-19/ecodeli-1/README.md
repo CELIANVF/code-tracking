@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 55597                                          |
-| **Lines Removed** (➖) | 13703                                        |
-| **Net Change** (↕)    | 41894                |
-| **Active Time** (⌚)   | 415 minutes |
+| **Lines Added** (➕)   | 55618                                          |
+| **Lines Removed** (➖) | 13705                                        |
+| **Net Change** (↕)    | 41913                |
+| **Active Time** (⌚)   | 417 minutes |
 
 
 ## Modified Files
@@ -68,7 +68,7 @@
 - **user.prisma** (+103, -2)
 - **user.service.ts** (+112, -36)
 - **user-activation.schema.ts** (+12, -0)
-- **user.router.ts** (+82, -28)
+- **user.router.ts** (+103, -30)
 - **use-user-activation.ts** (+54, -0)
 - **fix-fr-translations.js** (+103, -0)
 - **add-user-ban-fields.ts** (+26, -25)
@@ -88,7 +88,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 12033
+".ts" : 12056
 ".tsx" : 8850
 ".prisma" : 4231
 ".json" : 44036
@@ -109,8 +109,8 @@ title Coding activity by hour (count of changes)
 "14h" : 31
 "15h" : 31
 "16h" : 56
-"17h" : 16
+"17h" : 18
 ```
 
 
-> **Last Updated:** 5/19/2025, 5:09:41 PM
+> **Last Updated:** 5/19/2025, 5:14:41 PM
