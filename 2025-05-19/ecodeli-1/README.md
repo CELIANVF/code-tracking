@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 54799                                          |
+| **Lines Added** (➕)   | 54854                                          |
 | **Lines Removed** (➖) | 13187                                        |
-| **Net Change** (↕)    | 41612                |
-| **Active Time** (⌚)   | 337 minutes |
+| **Net Change** (↕)    | 41667                |
+| **Active Time** (⌚)   | 346 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+21324, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+10355, -5263)
+- **fr.json** (+10376, -5263)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -68,10 +68,16 @@
 - **user.prisma** (+103, -0)
 - **user.service.ts** (+85, -0)
 - **user-activation.schema.ts** (+12, -0)
-- **user.router.ts** (+54, -0)
+- **user.router.ts** (+82, -0)
 - **use-user-activation.ts** (+54, -0)
 - **fix-fr-translations.js** (+103, -0)
 - **add-user-ban-fields.ts** (+26, -0)
+- **user-ban.schema.ts** (+1, -0)
+- **use-user-ban.ts** (+1, -0)
+- **ban-button.tsx** (+1, -0)
+- **ban-confirm-dialog.tsx** (+1, -0)
+- **user-status-badge.tsx** (+1, -0)
+- **user-ban-actions.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -80,10 +86,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11686
-".tsx" : 7927
+".ts" : 11716
+".tsx" : 7931
 ".prisma" : 4229
-".json" : 43994
+".json" : 44015
 "unknown" : 47
 ".js" : 103
 ```
@@ -100,8 +106,8 @@ title Coding activity by hour (count of changes)
 "13h" : 20
 "14h" : 31
 "15h" : 31
-"16h" : 35
+"16h" : 43
 ```
 
 
-> **Last Updated:** 5/19/2025, 4:44:32 PM
+> **Last Updated:** 5/19/2025, 4:49:32 PM
