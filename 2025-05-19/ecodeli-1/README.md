@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 55558                                          |
-| **Lines Removed** (➖) | 13207                                        |
-| **Net Change** (↕)    | 42351                |
-| **Active Time** (⌚)   | 378 minutes |
+| **Lines Added** (➕)   | 55559                                          |
+| **Lines Removed** (➖) | 13703                                        |
+| **Net Change** (↕)    | 41856                |
+| **Active Time** (⌚)   | 409 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **document.service.ts** (+1291, -191)
 - **en.json** (+21324, -6660)
 - **package.json** (+321, -53)
-- **fr.json** (+10376, -5263)
+- **fr.json** (+10376, -5284)
 - **login-form.tsx** (+417, -29)
 - **register.schema.ts** (+75, -0)
 - **deliverer-register.schema.ts** (+29, -0)
@@ -55,7 +55,7 @@
 - **delivery.ts** (+143, -11)
 - **admin.service.ts** (+1349, -6)
 - **layout.tsx** (+39, -0)
-- **user-table.tsx** (+793, -191)
+- **user-table.tsx** (+793, -195)
 - **page.tsx** (+334, -0)
 - **user-bulk-actions.tsx** (+1750, -0)
 - **user-stats-advanced.tsx** (+729, -209)
@@ -65,20 +65,21 @@
 - **use-todo.ts** (+65, -0)
 - **settings.json** (+17, -1)
 - **.gitignore** (+46, -1)
-- **user.prisma** (+103, -0)
-- **user.service.ts** (+85, -0)
+- **user.prisma** (+103, -2)
+- **user.service.ts** (+85, -36)
 - **user-activation.schema.ts** (+12, -0)
-- **user.router.ts** (+82, -0)
+- **user.router.ts** (+82, -28)
 - **use-user-activation.ts** (+54, -0)
 - **fix-fr-translations.js** (+103, -0)
-- **add-user-ban-fields.ts** (+26, -0)
-- **user-ban.schema.ts** (+10, -0)
-- **use-user-ban.ts** (+87, -1)
-- **ban-button.tsx** (+36, -0)
-- **ban-confirm-dialog.tsx** (+84, -0)
-- **user-status-badge.tsx** (+37, -0)
-- **user-ban-actions.tsx** (+50, -0)
-- **user-status-cell.tsx** (+84, -0)
+- **add-user-ban-fields.ts** (+26, -25)
+- **user-ban.schema.ts** (+10, -9)
+- **use-user-ban.ts** (+87, -86)
+- **ban-button.tsx** (+36, -35)
+- **ban-confirm-dialog.tsx** (+84, -83)
+- **user-status-badge.tsx** (+37, -36)
+- **user-ban-actions.tsx** (+50, -49)
+- **user-status-cell.tsx** (+84, -83)
+- **use-user-ban.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -87,10 +88,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 11812
-".tsx" : 8559
-".prisma" : 4229
-".json" : 44015
+".ts" : 11995
+".tsx" : 8850
+".prisma" : 4231
+".json" : 44036
 "unknown" : 47
 ".js" : 103
 ```
@@ -108,7 +109,8 @@ title Coding activity by hour (count of changes)
 "14h" : 31
 "15h" : 31
 "16h" : 56
+"17h" : 14
 ```
 
 
-> **Last Updated:** 5/19/2025, 4:59:32 PM
+> **Last Updated:** 5/19/2025, 5:05:11 PM

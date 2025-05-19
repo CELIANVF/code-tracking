@@ -65,9 +65,9 @@
       "averageChangeSize": 2.5
     },
     "ecodeli-1": {
-      "totalLinesAdded": 55558,
-      "totalLinesRemoved": 13207,
-      "totalActiveTime": 378,
+      "totalLinesAdded": 55559,
+      "totalLinesRemoved": 13703,
+      "totalActiveTime": 409,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\auth.service.ts": [
           {
@@ -1448,6 +1448,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:41.842Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 21,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
@@ -2831,6 +2845,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:41.774Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\users\\user-table.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\users\\page.tsx": [
@@ -3173,6 +3201,20 @@
             },
             "duration": 1,
             "language": "prisma"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:40.161Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schemas\\users\\user.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "prisma"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts": [
@@ -3216,6 +3258,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:40.379Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
@@ -3290,6 +3346,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:40.577Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\user.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
@@ -3381,6 +3451,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:40.285Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 25,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\user-ban.schema.ts": [
@@ -3410,6 +3494,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:40.487Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\user-ban.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
@@ -3455,6 +3553,20 @@
             },
             "duration": 5,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:40.599Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-user-ban.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 85,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\users\\ban-button.tsx": [
@@ -3484,6 +3596,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:40.740Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\users\\ban-button.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 35,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -3515,6 +3641,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:40.781Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\users\\ban-confirm-dialog.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 83,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\users\\user-status-badge.tsx": [
@@ -3544,6 +3684,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:41.015Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\users\\user-status-badge.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
@@ -3575,6 +3729,20 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:41.174Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\users\\user-ban-actions.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\users\\user-status-cell.tsx": [
@@ -3604,6 +3772,36 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-19T15:04:41.272Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\users\\user-status-cell.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 83,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-user-ban.tsx": [
+          {
+            "timestamp": "2025-05-19T15:03:36.155Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-user-ban.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ]
