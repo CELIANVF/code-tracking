@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11201                                          |
-| **Lines Removed** (➖) | 942                                        |
-| **Net Change** (↕)    | 10259                |
-| **Active Time** (⌚)   | 198 minutes |
+| **Lines Added** (➕)   | 12249                                          |
+| **Lines Removed** (➖) | 945                                        |
+| **Net Change** (↕)    | 11304                |
+| **Active Time** (⌚)   | 203 minutes |
 
 
 ## Modified Files
@@ -53,13 +53,14 @@
 - **react.ts** (+75, -50)
 - **trpc-provider.tsx** (+40, -0)
 - **use-verification-store.ts** (+120, -0)
-- **document-upload.tsx** (+173, -0)
-- **document-list.tsx** (+221, -0)
+- **document-upload.tsx** (+173, -3)
+- **document-list.tsx** (+223, -0)
 - **file-utils.ts** (+119, -0)
 - **verification-form.tsx** (+219, -0)
 - **page.tsx** (+98, -0)
 - **merchant-verification-form.tsx** (+43, -0)
 - **verification-status-banner.tsx** (+103, -0)
+- **seed.ts** (+1046, -0)
 
 ## Visualizations
 
@@ -69,12 +70,12 @@
 pie showData
 title Lines changed by file type
 ".json" : 149
-".ts" : 5261
+".ts" : 6307
 ".new" : 205
 ".bat" : 93
 ".sql" : 38
 ".prisma" : 2728
-".tsx" : 3666
+".tsx" : 3671
 "unknown" : 3
 ```
 
@@ -86,8 +87,8 @@ title Coding activity by hour (count of changes)
 "09h" : 33
 "10h" : 23
 "11h" : 23
-"12h" : 55
+"12h" : 59
 ```
 
 
-> **Last Updated:** 5/20/2025, 12:50:55 PM
+> **Last Updated:** 5/20/2025, 12:55:55 PM
