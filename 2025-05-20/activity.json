@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 4137,
-      "totalLinesRemoved": 741,
-      "totalActiveTime": 96,
+      "totalLinesAdded": 4216,
+      "totalLinesRemoved": 792,
+      "totalActiveTime": 103,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr-ban.json": [
           {
@@ -955,6 +955,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T09:20:54.859Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\account-suspended\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T09:23:31.133Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\account-suspended\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
