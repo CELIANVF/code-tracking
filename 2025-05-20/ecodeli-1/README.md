@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23883                                          |
+| **Lines Added** (➕)   | 23984                                          |
 | **Lines Removed** (➖) | 9249                                        |
-| **Net Change** (↕)    | 14634                |
-| **Active Time** (⌚)   | 241 minutes |
+| **Net Change** (↕)    | 14735                |
+| **Active Time** (⌚)   | 246 minutes |
 
 
 ## Modified Files
@@ -27,7 +27,7 @@
 - **user.service.ban.test.ts** (+69, -0)
 - **user.router.ban.test.ts** (+52, -0)
 - **user-table-new.tsx** (+375, -374)
-- **.gitignore** (+3, -0)
+- **.gitignore** (+52, -0)
 - **fr.json** (+2578, -156)
 - **missing_translations.json** (+23, -22)
 - **schema.prisma** (+2047, -4)
@@ -39,7 +39,7 @@
 - **profile.prisma** (+171, -0)
 - **enums.prisma** (+405, -0)
 - **verification.ts** (+220, -62)
-- **verification.schema.ts** (+153, -0)
+- **verification.schema.ts** (+205, -0)
 - **verification.service.ts** (+828, -0)
 - **merchant-register-form.tsx** (+316, -0)
 - **provider-register-form.tsx** (+315, -0)
@@ -77,13 +77,13 @@
 pie showData
 title Lines changed by file type
 ".json" : 19381
-".ts" : 6427
+".ts" : 6479
 ".new" : 205
 ".bat" : 93
 ".sql" : 38
 ".prisma" : 2735
 ".tsx" : 4020
-"unknown" : 3
+"unknown" : 52
 ".js" : 115
 ".cjs" : 115
 ```
@@ -97,8 +97,8 @@ title Coding activity by hour (count of changes)
 "10h" : 23
 "11h" : 23
 "12h" : 63
-"13h" : 23
+"13h" : 26
 ```
 
 
-> **Last Updated:** 5/20/2025, 1:31:20 PM
+> **Last Updated:** 5/20/2025, 1:41:01 PM
