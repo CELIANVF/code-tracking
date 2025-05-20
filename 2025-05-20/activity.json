@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 24008,
-      "totalLinesRemoved": 9754,
-      "totalActiveTime": 262,
+      "totalLinesAdded": 24028,
+      "totalLinesRemoved": 9774,
+      "totalActiveTime": 270,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr-ban.json": [
           {
@@ -1160,6 +1160,62 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\middleware.ts",
             "fileType": ".ts",
             "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T11:53:25.911Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\middleware.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T11:54:27.567Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\middleware.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T11:55:01.374Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\middleware.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T11:55:26.845Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\middleware.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
