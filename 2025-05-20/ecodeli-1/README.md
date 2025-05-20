@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24595                                          |
-| **Lines Removed** (➖) | 9774                                        |
-| **Net Change** (↕)    | 14821                |
-| **Active Time** (⌚)   | 282 minutes |
+| **Lines Added** (➕)   | 24858                                          |
+| **Lines Removed** (➖) | 9776                                        |
+| **Net Change** (↕)    | 15082                |
+| **Active Time** (⌚)   | 290 minutes |
 
 
 ## Modified Files
@@ -72,8 +72,10 @@
 - **page.tsx** (+145, -0)
 - **page.tsx** (+146, -0)
 - **use-verification-redirect.ts** (+112, -0)
-- **page.tsx** (+34, -0)
-- **page.tsx** (+34, -0)
+- **page.tsx** (+34, -1)
+- **page.tsx** (+34, -1)
+- **provider-dashboard.tsx** (+125, -0)
+- **merchant-dashboard.tsx** (+138, -0)
 
 ## Visualizations
 
@@ -88,7 +90,7 @@ title Lines changed by file type
 ".bat" : 93
 ".sql" : 38
 ".prisma" : 2735
-".tsx" : 4379
+".tsx" : 4644
 "unknown" : 53
 ".js" : 115
 ".cjs" : 115
@@ -105,8 +107,8 @@ title Coding activity by hour (count of changes)
 "11h" : 23
 "12h" : 63
 "13h" : 47
-"14h" : 2
+"14h" : 8
 ```
 
 
-> **Last Updated:** 5/20/2025, 2:01:01 PM
+> **Last Updated:** 5/20/2025, 2:06:01 PM
