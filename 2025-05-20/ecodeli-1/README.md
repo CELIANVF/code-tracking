@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10037                                          |
-| **Lines Removed** (➖) | 939                                        |
-| **Net Change** (↕)    | 9098                |
-| **Active Time** (⌚)   | 169 minutes |
+| **Lines Added** (➕)   | 10049                                          |
+| **Lines Removed** (➖) | 942                                        |
+| **Net Change** (↕)    | 9107                |
+| **Active Time** (⌚)   | 171 minutes |
 
 
 ## Modified Files
@@ -38,7 +38,7 @@
 - **verifications.prisma** (+102, -0)
 - **profile.prisma** (+171, -0)
 - **enums.prisma** (+405, -0)
-- **verification.ts** (+208, -62)
+- **verification.ts** (+220, -62)
 - **verification.schema.ts** (+153, -0)
 - **verification.service.ts** (+828, -0)
 - **merchant-register-form.tsx** (+316, -0)
@@ -48,7 +48,7 @@
 - **multi-select.tsx** (+131, -0)
 - **page.tsx** (+73, -11)
 - **page.tsx** (+73, -11)
-- **use-verification.ts** (+158, -0)
+- **use-verification.ts** (+158, -3)
 - **verification.router.ts** (+763, -0)
 - **react.ts** (+59, -50)
 
@@ -60,7 +60,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 149
-".ts" : 4991
+".ts" : 5006
 ".new" : 205
 ".bat" : 93
 ".sql" : 38
@@ -77,8 +77,8 @@ title Coding activity by hour (count of changes)
 "09h" : 33
 "10h" : 23
 "11h" : 23
-"12h" : 37
+"12h" : 39
 ```
 
 
-> **Last Updated:** 5/20/2025, 12:30:54 PM
+> **Last Updated:** 5/20/2025, 12:35:54 PM
