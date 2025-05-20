@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 823                                          |
+| **Lines Added** (➕)   | 940                                          |
 | **Lines Removed** (➖) | 306                                        |
-| **Net Change** (↕)    | 517                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Net Change** (↕)    | 634                |
+| **Active Time** (⌚)   | 47 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,8 @@
 - **users-seed.ts** (+392, -0)
 - **user.ts** (+27, -0)
 - **use-user-ban.ts** (+36, -0)
-- **user-bulk-actions.tsx** (+0, -5)
+- **user-bulk-actions.tsx** (+45, -5)
+- **user-table.tsx** (+72, -0)
 
 ## Visualizations
 
@@ -37,7 +38,7 @@ title Lines changed by file type
 ".bat" : 93
 ".sql" : 38
 ".prisma" : 6
-".tsx" : 5
+".tsx" : 122
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +46,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 29
+"09h" : 33
 ```
 
 
-> **Last Updated:** 5/20/2025, 9:54:42 AM
+> **Last Updated:** 5/20/2025, 9:58:37 AM
