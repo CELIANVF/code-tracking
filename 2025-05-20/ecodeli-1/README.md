@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10049                                          |
+| **Lines Added** (➕)   | 10105                                          |
 | **Lines Removed** (➖) | 942                                        |
-| **Net Change** (↕)    | 9107                |
-| **Active Time** (⌚)   | 171 minutes |
+| **Net Change** (↕)    | 9163                |
+| **Active Time** (⌚)   | 177 minutes |
 
 
 ## Modified Files
@@ -50,7 +50,8 @@
 - **page.tsx** (+73, -11)
 - **use-verification.ts** (+158, -3)
 - **verification.router.ts** (+763, -0)
-- **react.ts** (+59, -50)
+- **react.ts** (+75, -50)
+- **trpc-provider.tsx** (+40, -0)
 
 ## Visualizations
 
@@ -60,12 +61,12 @@
 pie showData
 title Lines changed by file type
 ".json" : 149
-".ts" : 5006
+".ts" : 5022
 ".new" : 205
 ".bat" : 93
 ".sql" : 38
 ".prisma" : 2728
-".tsx" : 2769
+".tsx" : 2809
 "unknown" : 3
 ```
 
@@ -77,8 +78,8 @@ title Coding activity by hour (count of changes)
 "09h" : 33
 "10h" : 23
 "11h" : 23
-"12h" : 39
+"12h" : 41
 ```
 
 
-> **Last Updated:** 5/20/2025, 12:35:54 PM
+> **Last Updated:** 5/20/2025, 12:40:55 PM
