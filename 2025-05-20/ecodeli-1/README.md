@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1485                                          |
-| **Lines Removed** (➖) | 691                                        |
-| **Net Change** (↕)    | 794                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Lines Added** (➕)   | 1494                                          |
+| **Lines Removed** (➖) | 732                                        |
+| **Net Change** (↕)    | 762                |
+| **Active Time** (⌚)   | 85 minutes |
 
 
 ## Modified Files
@@ -28,8 +28,8 @@
 - **user.router.ban.test.ts** (+52, -0)
 - **user-table-new.tsx** (+375, -374)
 - **.gitignore** (+3, -0)
-- **fr.json** (+10, -0)
-- **missing_translations.json** (+23, -0)
+- **fr.json** (+19, -19)
+- **missing_translations.json** (+23, -22)
 
 ## Visualizations
 
@@ -38,7 +38,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 99
+".json" : 149
 ".ts" : 837
 ".new" : 205
 ".bat" : 93
@@ -54,8 +54,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 33
-"10h" : 20
+"10h" : 23
 ```
 
 
-> **Last Updated:** 5/20/2025, 10:43:50 AM
+> **Last Updated:** 5/20/2025, 10:48:50 AM
