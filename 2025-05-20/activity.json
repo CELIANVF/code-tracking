@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 4842,
-      "totalLinesRemoved": 792,
-      "totalActiveTime": 113,
+      "totalLinesAdded": 6185,
+      "totalLinesRemoved": 805,
+      "totalActiveTime": 121,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr-ban.json": [
           {
@@ -1114,6 +1114,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin.service.ts": [
+          {
+            "timestamp": "2025-05-20T09:41:51.329Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1343,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T09:44:14.659Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ]
       },
