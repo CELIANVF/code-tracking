@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4216                                          |
+| **Lines Added** (➕)   | 4650                                          |
 | **Lines Removed** (➖) | 792                                        |
-| **Net Change** (↕)    | 3424                |
-| **Active Time** (⌚)   | 103 minutes |
+| **Net Change** (↕)    | 3858                |
+| **Active Time** (⌚)   | 111 minutes |
 
 
 ## Modified Files
@@ -23,7 +23,7 @@
 - **user.ts** (+27, -0)
 - **use-user-ban.ts** (+73, -2)
 - **user-bulk-actions.tsx** (+45, -5)
-- **user-table.tsx** (+85, -11)
+- **user-table.tsx** (+516, -11)
 - **user.service.ban.test.ts** (+69, -0)
 - **user.router.ban.test.ts** (+52, -0)
 - **user-table-new.tsx** (+375, -374)
@@ -31,7 +31,7 @@
 - **fr.json** (+19, -19)
 - **missing_translations.json** (+23, -22)
 - **schema.prisma** (+2040, -4)
-- **page.tsx** (+132, -51)
+- **page.tsx** (+135, -51)
 - **middleware.ts** (+379, -0)
 - **page.tsx** (+53, -0)
 
@@ -48,7 +48,7 @@ title Lines changed by file type
 ".bat" : 93
 ".sql" : 38
 ".prisma" : 2050
-".tsx" : 1131
+".tsx" : 1565
 "unknown" : 3
 ```
 
@@ -59,8 +59,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 33
 "10h" : 23
-"11h" : 15
+"11h" : 18
 ```
 
 
-> **Last Updated:** 5/20/2025, 11:25:48 AM
+> **Last Updated:** 5/20/2025, 11:30:50 AM
