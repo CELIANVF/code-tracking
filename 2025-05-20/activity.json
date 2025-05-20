@@ -3,8 +3,8 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 303,
-      "totalLinesRemoved": 116,
-      "totalActiveTime": 21,
+      "totalLinesRemoved": 301,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr-ban.json": [
           {
@@ -20,6 +20,20 @@
             },
             "duration": 0,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-05-20T07:38:50.481Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr-ban.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\user-ban.schema.ts": [
@@ -29,6 +43,20 @@
             "fileType": ".ts",
             "linesAdded": 14,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T07:38:50.390Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\user-ban.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
@@ -59,6 +87,20 @@
             "fileType": ".ts",
             "linesAdded": 65,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T07:38:50.414Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\user.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 54,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
@@ -168,6 +210,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T07:38:50.433Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\user.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\apply-ban-migration.bat": [
@@ -198,6 +254,20 @@
             },
             "duration": 2,
             "language": "bat"
+          },
+          {
+            "timestamp": "2025-05-20T07:38:50.631Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\apply-ban-migration.bat",
+            "fileType": ".bat",
+            "linesAdded": 0,
+            "linesRemoved": 46,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.sql": [
@@ -213,6 +283,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-05-20T07:38:50.592Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\add-user-ban-fields.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sql"
           }
         ]
