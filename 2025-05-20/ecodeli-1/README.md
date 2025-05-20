@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1494                                          |
-| **Lines Removed** (➖) | 732                                        |
-| **Net Change** (↕)    | 762                |
-| **Active Time** (⌚)   | 85 minutes |
+| **Lines Added** (➕)   | 3571                                          |
+| **Lines Removed** (➖) | 738                                        |
+| **Net Change** (↕)    | 2833                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **user.prisma** (+6, -0)
 - **users-seed.ts** (+392, -0)
 - **user.ts** (+27, -0)
-- **use-user-ban.ts** (+36, -0)
+- **use-user-ban.ts** (+73, -2)
 - **user-bulk-actions.tsx** (+45, -5)
 - **user-table.tsx** (+85, -11)
 - **user.service.ban.test.ts** (+69, -0)
@@ -30,6 +30,7 @@
 - **.gitignore** (+3, -0)
 - **fr.json** (+19, -19)
 - **missing_translations.json** (+23, -22)
+- **schema.prisma** (+2040, -4)
 
 ## Visualizations
 
@@ -39,11 +40,11 @@
 pie showData
 title Lines changed by file type
 ".json" : 149
-".ts" : 837
+".ts" : 876
 ".new" : 205
 ".bat" : 93
 ".sql" : 38
-".prisma" : 6
+".prisma" : 2050
 ".tsx" : 895
 "unknown" : 3
 ```
@@ -55,7 +56,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 33
 "10h" : 23
+"11h" : 4
 ```
 
 
-> **Last Updated:** 5/20/2025, 10:48:50 AM
+> **Last Updated:** 5/20/2025, 11:05:47 AM
