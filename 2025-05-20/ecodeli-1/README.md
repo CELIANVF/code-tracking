@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8067                                          |
+| **Lines Added** (➕)   | 8739                                          |
 | **Lines Removed** (➖) | 867                                        |
-| **Net Change** (↕)    | 7200                |
-| **Active Time** (⌚)   | 136 minutes |
+| **Net Change** (↕)    | 7872                |
+| **Active Time** (⌚)   | 151 minutes |
 
 
 ## Modified Files
@@ -41,6 +41,9 @@
 - **verification.ts** (+208, -62)
 - **verification.schema.ts** (+153, -0)
 - **verification.service.ts** (+828, -0)
+- **merchant-register-form.tsx** (+316, -0)
+- **provider-register-form.tsx** (+315, -0)
+- **page.tsx** (+41, -0)
 
 ## Visualizations
 
@@ -55,7 +58,7 @@ title Lines changed by file type
 ".bat" : 93
 ".sql" : 38
 ".prisma" : 2728
-".tsx" : 1757
+".tsx" : 2429
 "unknown" : 3
 ```
 
@@ -67,8 +70,8 @@ title Coding activity by hour (count of changes)
 "09h" : 33
 "10h" : 23
 "11h" : 23
-"12h" : 16
+"12h" : 22
 ```
 
 
-> **Last Updated:** 5/20/2025, 12:10:51 PM
+> **Last Updated:** 5/20/2025, 12:15:55 PM
