@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6473                                          |
-| **Lines Removed** (➖) | 805                                        |
-| **Net Change** (↕)    | 5668                |
-| **Active Time** (⌚)   | 124 minutes |
+| **Lines Added** (➕)   | 8067                                          |
+| **Lines Removed** (➖) | 867                                        |
+| **Net Change** (↕)    | 7200                |
+| **Active Time** (⌚)   | 136 minutes |
 
 
 ## Modified Files
@@ -37,6 +37,10 @@
 - **admin.service.ts** (+1358, -13)
 - **verifications.prisma** (+102, -0)
 - **profile.prisma** (+171, -0)
+- **enums.prisma** (+405, -0)
+- **verification.ts** (+208, -62)
+- **verification.schema.ts** (+153, -0)
+- **verification.service.ts** (+828, -0)
 
 ## Visualizations
 
@@ -46,11 +50,11 @@
 pie showData
 title Lines changed by file type
 ".json" : 149
-".ts" : 2710
+".ts" : 3961
 ".new" : 205
 ".bat" : 93
 ".sql" : 38
-".prisma" : 2323
+".prisma" : 2728
 ".tsx" : 1757
 "unknown" : 3
 ```
@@ -63,8 +67,8 @@ title Coding activity by hour (count of changes)
 "09h" : 33
 "10h" : 23
 "11h" : 23
-"12h" : 4
+"12h" : 16
 ```
 
 
-> **Last Updated:** 5/20/2025, 12:05:51 PM
+> **Last Updated:** 5/20/2025, 12:10:51 PM
