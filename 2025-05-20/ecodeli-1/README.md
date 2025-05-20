@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6200                                          |
+| **Lines Added** (➕)   | 6473                                          |
 | **Lines Removed** (➖) | 805                                        |
-| **Net Change** (↕)    | 5395                |
-| **Active Time** (⌚)   | 121 minutes |
+| **Net Change** (↕)    | 5668                |
+| **Active Time** (⌚)   | 124 minutes |
 
 
 ## Modified Files
@@ -35,6 +35,8 @@
 - **middleware.ts** (+379, -0)
 - **page.tsx** (+53, -0)
 - **admin.service.ts** (+1358, -13)
+- **verifications.prisma** (+102, -0)
+- **profile.prisma** (+171, -0)
 
 ## Visualizations
 
@@ -48,7 +50,7 @@ title Lines changed by file type
 ".new" : 205
 ".bat" : 93
 ".sql" : 38
-".prisma" : 2050
+".prisma" : 2323
 ".tsx" : 1757
 "unknown" : 3
 ```
@@ -61,7 +63,8 @@ title Coding activity by hour (count of changes)
 "09h" : 33
 "10h" : 23
 "11h" : 23
+"12h" : 4
 ```
 
 
-> **Last Updated:** 5/20/2025, 11:55:51 AM
+> **Last Updated:** 5/20/2025, 12:05:51 PM
