@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 24858,
+      "totalLinesAdded": 25224,
       "totalLinesRemoved": 9776,
-      "totalActiveTime": 290,
+      "totalActiveTime": 294,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr-ban.json": [
           {
@@ -2884,6 +2884,36 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\dashboard\\merchant\\merchant-dashboard.tsx",
             "fileType": ".tsx",
             "linesAdded": 137,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\documents\\document-upload.tsx": [
+          {
+            "timestamp": "2025-05-20T12:07:04.497Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\documents\\document-upload.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 348,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T12:07:09.541Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\documents\\document-upload.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
