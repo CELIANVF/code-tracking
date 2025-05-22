@@ -2,9 +2,9 @@
   "date": "2025-05-22",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 1174,
-      "totalLinesRemoved": 202,
-      "totalActiveTime": 41,
+      "totalLinesAdded": 1183,
+      "totalLinesRemoved": 211,
+      "totalActiveTime": 42,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\TODO.txt": [
           {
@@ -140,6 +140,34 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
             "fileType": "unknown",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-22T18:18:25.425Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-22T18:18:38.772Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
