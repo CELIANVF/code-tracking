@@ -2,7 +2,7 @@
   "date": "2025-05-22",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 1183,
+      "totalLinesAdded": 1193,
       "totalLinesRemoved": 211,
       "totalActiveTime": 42,
       "files": {
@@ -485,6 +485,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-22T18:25:12.919Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.git\\COMMIT_EDITMSG",
+            "fileType": "unknown",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ]
