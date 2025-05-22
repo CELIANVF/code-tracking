@@ -2,7 +2,7 @@
   "date": "2025-05-22",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 247,
+      "totalLinesAdded": 267,
       "totalLinesRemoved": 31,
       "totalActiveTime": 4,
       "files": {
@@ -63,6 +63,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-05-22T17:17:01.361Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ],
