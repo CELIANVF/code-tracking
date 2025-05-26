@@ -2,9 +2,9 @@
   "date": "2025-05-26",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 16261,
+      "totalLinesAdded": 16426,
       "totalLinesRemoved": 3128,
-      "totalActiveTime": 33,
+      "totalActiveTime": 36,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\en.json": [
           {
@@ -264,6 +264,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-26T12:41:03.952Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\types\\dashboard.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\TODO.txt": [
@@ -350,6 +364,20 @@
             },
             "duration": 1,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-26T12:42:03.903Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\TODO.txt",
+            "fileType": ".txt",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\dashboard\\cards\\TransactionStatsCard.tsx": [
@@ -410,6 +438,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-26T12:41:38.060Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\dashboard.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\dashboard\\cards\\DeliveryStatsCard.tsx": [
@@ -432,6 +474,22 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\dashboard\\cards\\DeliveryStatsCard.tsx",
             "fileType": ".tsx",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\dashboard\\cards\\WarehouseStatsCard.tsx": [
+          {
+            "timestamp": "2025-05-26T12:40:27.242Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\dashboard\\cards\\WarehouseStatsCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 123,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
