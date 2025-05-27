@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5226                                          |
-| **Lines Removed** (➖) | 245                                        |
-| **Net Change** (↕)    | 4981                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Lines Added** (➕)   | 11831                                          |
+| **Lines Removed** (➖) | 257                                        |
+| **Net Change** (↕)    | 11574                |
+| **Active Time** (⌚)   | 65 minutes |
 
 
 ## Modified Files
 - **package.json** (+3, -2)
 - **seed.ts** (+1169, -118)
-- **TODO.txt** (+125, -0)
+- **TODO.txt** (+125, -12)
 - **verification.router.ts** (+453, -46)
 - **document.service.ts** (+1130, -0)
 - **document-upload.tsx** (+423, -0)
@@ -22,6 +22,8 @@
 - **calendar.tsx** (+102, -34)
 - **globals.css** (+236, -45)
 - **document.router.ts** (+581, -0)
+- **fr.json** (+6190, -0)
+- **document-list.tsx** (+415, -0)
 
 ## Visualizations
 
@@ -30,10 +32,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 5
+".json" : 6195
 ".ts" : 4501
-".txt" : 125
-".tsx" : 559
+".txt" : 137
+".tsx" : 974
 ".css" : 281
 ```
 
@@ -43,8 +45,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 11
-"10h" : 29
+"10h" : 33
 ```
 
 
-> **Last Updated:** 5/27/2025, 10:36:03 AM
+> **Last Updated:** 5/27/2025, 10:41:03 AM
