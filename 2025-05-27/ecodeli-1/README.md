@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 14958                                          |
-| **Lines Removed** (➖) | 729                                        |
-| **Net Change** (↕)    | 14229                |
-| **Active Time** (⌚)   | 114 minutes |
+| **Lines Removed** (➖) | 831                                        |
+| **Net Change** (↕)    | 14127                |
+| **Active Time** (⌚)   | 117 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,7 @@
 - **document-list.tsx** (+843, -414)
 - **document-verification-list.tsx** (+552, -0)
 - **pending-user-verifications.tsx** (+218, -0)
-- **user-document-verification.tsx** (+632, -0)
+- **user-document-verification.tsx** (+632, -102)
 - **provider-verification-form.tsx** (+43, -5)
 - **document-type-mapping.ts** (+52, -0)
 - **verification.service.ts** (+829, -1)
@@ -44,7 +44,7 @@ title Lines changed by file type
 ".json" : 6195
 ".ts" : 5743
 ".txt" : 202
-".tsx" : 3266
+".tsx" : 3368
 ".css" : 281
 ```
 
@@ -57,8 +57,8 @@ title Coding activity by hour (count of changes)
 "10h" : 43
 "11h" : 6
 "14h" : 7
-"15h" : 13
+"15h" : 14
 ```
 
 
-> **Last Updated:** 5/27/2025, 3:16:12 PM
+> **Last Updated:** 5/27/2025, 3:21:12 PM

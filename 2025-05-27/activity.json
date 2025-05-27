@@ -3,8 +3,8 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 14958,
-      "totalLinesRemoved": 729,
-      "totalActiveTime": 114,
+      "totalLinesRemoved": 831,
+      "totalActiveTime": 117,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.next\\package.json": [
           {
@@ -973,6 +973,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T13:17:39.595Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\user-document-verification.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 102,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
