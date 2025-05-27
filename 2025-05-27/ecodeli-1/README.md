@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14848                                          |
+| **Lines Added** (➕)   | 14958                                          |
 | **Lines Removed** (➖) | 729                                        |
-| **Net Change** (↕)    | 14119                |
-| **Active Time** (⌚)   | 108 minutes |
+| **Net Change** (↕)    | 14229                |
+| **Active Time** (⌚)   | 114 minutes |
 
 
 ## Modified Files
 - **package.json** (+3, -2)
 - **seed.ts** (+1206, -118)
-- **TODO.txt** (+189, -12)
+- **TODO.txt** (+190, -12)
 - **verification.router.ts** (+453, -46)
 - **document.service.ts** (+1137, -8)
 - **document-upload.tsx** (+423, -0)
@@ -26,7 +26,7 @@
 - **document-list.tsx** (+843, -414)
 - **document-verification-list.tsx** (+552, -0)
 - **pending-user-verifications.tsx** (+218, -0)
-- **user-document-verification.tsx** (+523, -0)
+- **user-document-verification.tsx** (+632, -0)
 - **provider-verification-form.tsx** (+43, -5)
 - **document-type-mapping.ts** (+52, -0)
 - **verification.service.ts** (+829, -1)
@@ -43,8 +43,8 @@ pie showData
 title Lines changed by file type
 ".json" : 6195
 ".ts" : 5743
-".txt" : 201
-".tsx" : 3157
+".txt" : 202
+".tsx" : 3266
 ".css" : 281
 ```
 
@@ -57,8 +57,8 @@ title Coding activity by hour (count of changes)
 "10h" : 43
 "11h" : 6
 "14h" : 7
-"15h" : 10
+"15h" : 13
 ```
 
 
-> **Last Updated:** 5/27/2025, 3:11:12 PM
+> **Last Updated:** 5/27/2025, 3:16:12 PM
