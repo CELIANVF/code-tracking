@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15101                                          |
-| **Lines Removed** (➖) | 831                                        |
-| **Net Change** (↕)    | 14270                |
-| **Active Time** (⌚)   | 126 minutes |
+| **Lines Added** (➕)   | 15244                                          |
+| **Lines Removed** (➖) | 868                                        |
+| **Net Change** (↕)    | 14376                |
+| **Active Time** (⌚)   | 135 minutes |
 
 
 ## Modified Files
 - **package.json** (+3, -2)
 - **seed.ts** (+1206, -118)
-- **TODO.txt** (+233, -12)
-- **verification.router.ts** (+453, -46)
+- **TODO.txt** (+244, -12)
+- **verification.router.ts** (+509, -46)
 - **document.service.ts** (+1137, -8)
 - **document-upload.tsx** (+477, -0)
 - **auth.router.ts** (+842, -0)
@@ -28,11 +28,12 @@
 - **pending-user-verifications.tsx** (+218, -0)
 - **user-document-verification.tsx** (+632, -102)
 - **provider-verification-form.tsx** (+43, -5)
-- **document-type-mapping.ts** (+52, -0)
-- **verification.service.ts** (+829, -1)
+- **document-type-mapping.ts** (+52, -5)
+- **verification.service.ts** (+830, -3)
 - **route.ts** (+135, -44)
 - **next.config.ts** (+60, -0)
 - **route.ts** (+69, -0)
+- **route.ts** (+75, -30)
 
 ## Visualizations
 
@@ -42,8 +43,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 6195
-".ts" : 5789
-".txt" : 245
+".ts" : 5958
+".txt" : 256
 ".tsx" : 3422
 ".css" : 281
 ```
@@ -57,8 +58,8 @@ title Coding activity by hour (count of changes)
 "10h" : 43
 "11h" : 6
 "14h" : 7
-"15h" : 20
+"15h" : 27
 ```
 
 
-> **Last Updated:** 5/27/2025, 3:31:13 PM
+> **Last Updated:** 5/27/2025, 3:41:13 PM
