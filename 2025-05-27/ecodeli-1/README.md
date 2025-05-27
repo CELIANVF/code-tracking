@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4370                                          |
-| **Lines Removed** (➖) | 166                                        |
-| **Net Change** (↕)    | 4204                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Added** (➕)   | 4606                                          |
+| **Lines Removed** (➖) | 245                                        |
+| **Net Change** (↕)    | 4361                |
+| **Active Time** (⌚)   | 49 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,8 @@
 - **document-upload.tsx** (+412, -0)
 - **auth.router.ts** (+796, -0)
 - **verification.schema.ts** (+208, -0)
-- **calendar.tsx** (+102, -0)
+- **calendar.tsx** (+102, -34)
+- **globals.css** (+236, -45)
 
 ## Visualizations
 
@@ -31,7 +32,8 @@ title Lines changed by file type
 ".json" : 5
 ".ts" : 3892
 ".txt" : 125
-".tsx" : 514
+".tsx" : 548
+".css" : 281
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -40,8 +42,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 11
-"10h" : 21
+"10h" : 25
 ```
 
 
-> **Last Updated:** 5/27/2025, 10:26:03 AM
+> **Last Updated:** 5/27/2025, 10:31:03 AM
