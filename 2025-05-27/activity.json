@@ -2,9 +2,9 @@
   "date": "2025-05-27",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 15094,
+      "totalLinesAdded": 15101,
       "totalLinesRemoved": 831,
-      "totalActiveTime": 124,
+      "totalActiveTime": 126,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.next\\package.json": [
           {
@@ -318,6 +318,34 @@
             },
             "duration": 5,
             "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-27T13:29:24.350Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\TODO.txt",
+            "fileType": ".txt",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-27T13:30:21.539Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\TODO.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\verification.router.ts": [
@@ -568,6 +596,20 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\documents\\document-upload.tsx",
             "fileType": ".tsx",
             "linesAdded": 52,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-27T13:29:50.630Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\documents\\document-upload.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
