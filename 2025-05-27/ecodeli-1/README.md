@@ -4,18 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2703                                          |
-| **Lines Removed** (➖) | 48                                        |
-| **Net Change** (↕)    | 2655                |
-| **Active Time** (⌚)   | 24 minutes |
+| **Lines Added** (➕)   | 4011                                          |
+| **Lines Removed** (➖) | 166                                        |
+| **Net Change** (↕)    | 3845                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
 - **package.json** (+3, -2)
-- **seed.ts** (+1051, -0)
+- **seed.ts** (+1169, -118)
 - **TODO.txt** (+94, -0)
 - **verification.router.ts** (+453, -46)
 - **document.service.ts** (+1102, -0)
+- **document-upload.tsx** (+399, -0)
+- **auth.router.ts** (+791, -0)
 
 ## Visualizations
 
@@ -25,8 +27,9 @@
 pie showData
 title Lines changed by file type
 ".json" : 5
-".ts" : 2652
+".ts" : 3679
 ".txt" : 94
+".tsx" : 399
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 11
-"10h" : 7
+"10h" : 13
 ```
 
 
-> **Last Updated:** 5/27/2025, 10:11:03 AM
+> **Last Updated:** 5/27/2025, 10:16:03 AM
