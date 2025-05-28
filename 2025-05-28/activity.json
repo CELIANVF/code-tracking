@@ -3,8 +3,8 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 1536,
-      "totalLinesRemoved": 33,
-      "totalActiveTime": 38,
+      "totalLinesRemoved": 68,
+      "totalActiveTime": 39,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\TODO.txt": [
           {
@@ -69,6 +69,20 @@
             "fileType": ".txt",
             "linesAdded": 8,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-28T11:50:36.426Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\TODO.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 35,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
