@@ -1,0 +1,123 @@
+{
+  "date": "2025-05-30",
+  "projects": {
+    "archery_sum": {
+      "totalLinesAdded": 155,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\AndroidManifest.xml": [
+          {
+            "timestamp": "2025-05-30T09:11:30.056Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-05-30T09:11:31.150Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\AndroidManifest.xml",
+            "fileType": ".xml",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\activity_main.xml": [
+          {
+            "timestamp": "2025-05-30T09:11:56.232Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\activity_main.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-05-30T09:11:57.098Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\activity_main.xml",
+            "fileType": ".xml",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\activity_history.xml": [
+          {
+            "timestamp": "2025-05-30T09:12:16.184Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\activity_history.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-05-30T09:12:17.022Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\activity_history.xml",
+            "fileType": ".xml",
+            "linesAdded": 41,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "xml": 5
+      },
+      "changeFrequency": {
+        "11": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\AndroidManifest.xml",
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\activity_main.xml",
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\activity_history.xml"
+      ],
+      "averageChangeSize": 25.833333333333332
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "xml"
+  ]
+}
