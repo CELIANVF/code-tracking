@@ -3,8 +3,8 @@
   "projects": {
     "archery_sum": {
       "totalLinesAdded": 984,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 40,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 43,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\AndroidManifest.xml": [
           {
@@ -585,6 +585,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-05-30T09:39:37.819Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\local.properties",
+            "fileType": ".properties",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "properties"
           }
         ]
