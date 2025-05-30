@@ -2,9 +2,9 @@
   "date": "2025-05-30",
   "projects": {
     "archery_sum": {
-      "totalLinesAdded": 155,
+      "totalLinesAdded": 640,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 30,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\AndroidManifest.xml": [
           {
@@ -94,6 +94,366 @@
             },
             "duration": 1,
             "language": "xml"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\item_history.xml": [
+          {
+            "timestamp": "2025-05-30T09:12:35.172Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\item_history.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-05-30T09:12:36.115Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\layout\\item_history.xml",
+            "fileType": ".xml",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\strings.xml": [
+          {
+            "timestamp": "2025-05-30T09:12:48.465Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\strings.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-05-30T09:12:49.306Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\strings.xml",
+            "fileType": ".xml",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\colors.xml": [
+          {
+            "timestamp": "2025-05-30T09:12:59.692Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\colors.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-05-30T09:13:00.556Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\colors.xml",
+            "fileType": ".xml",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\themes.xml": [
+          {
+            "timestamp": "2025-05-30T09:13:11.840Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\themes.xml",
+            "fileType": ".xml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-05-30T09:13:12.649Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\res\\values\\themes.xml",
+            "fileType": ".xml",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\MainActivity.java": [
+          {
+            "timestamp": "2025-05-30T09:13:47.103Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\MainActivity.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-30T09:13:48.022Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\MainActivity.java",
+            "fileType": ".java",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\HistoryActivity.java": [
+          {
+            "timestamp": "2025-05-30T09:14:17.069Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\HistoryActivity.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-30T09:14:17.908Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\HistoryActivity.java",
+            "fileType": ".java",
+            "linesAdded": 100,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\HistoryAdapter.java": [
+          {
+            "timestamp": "2025-05-30T09:14:38.089Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\HistoryAdapter.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-05-30T09:14:38.947Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\src\\main\\java\\com\\example\\archerysum\\HistoryAdapter.java",
+            "fileType": ".java",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\build.gradle": [
+          {
+            "timestamp": "2025-05-30T09:14:50.918Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-05-30T09:14:51.773Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\build.gradle": [
+          {
+            "timestamp": "2025-05-30T09:15:07.680Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-05-30T09:15:08.502Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\settings.gradle": [
+          {
+            "timestamp": "2025-05-30T09:15:16.459Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          },
+          {
+            "timestamp": "2025-05-30T09:15:17.302Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\settings.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\gradle.properties": [
+          {
+            "timestamp": "2025-05-30T09:15:31.108Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-05-30T09:15:31.974Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\gradle\\wrapper\\gradle-wrapper.properties": [
+          {
+            "timestamp": "2025-05-30T09:16:43.445Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\gradle\\wrapper\\gradle-wrapper.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-05-30T09:16:44.242Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\gradle\\wrapper\\gradle-wrapper.properties",
+            "fileType": ".properties",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
           }
         ]
       },
