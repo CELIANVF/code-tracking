@@ -2,7 +2,7 @@
   "date": "2025-05-30",
   "projects": {
     "archery_sum": {
-      "totalLinesAdded": 983,
+      "totalLinesAdded": 984,
       "totalLinesRemoved": 0,
       "totalActiveTime": 40,
       "files": {
@@ -451,6 +451,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-05-30T09:37:23.800Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\archery_sum\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "archery_sum",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "properties"
           }
         ],
