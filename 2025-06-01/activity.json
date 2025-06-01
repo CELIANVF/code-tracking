@@ -2,9 +2,9 @@
   "date": "2025-06-01",
   "projects": {
     "video_app": {
-      "totalLinesAdded": 7553,
+      "totalLinesAdded": 7570,
       "totalLinesRemoved": 813,
-      "totalActiveTime": 172,
+      "totalActiveTime": 178,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\video_app\\main.py": [
           {
@@ -707,6 +707,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T15:01:34.979Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T15:05:11.494Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "py"
           }
         ],
