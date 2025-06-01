@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4338                                          |
+| **Lines Added** (➕)   | 5118                                          |
 | **Lines Removed** (➖) | 504                                        |
-| **Net Change** (↕)    | 3834                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Net Change** (↕)    | 4614                |
+| **Active Time** (⌚)   | 90 minutes |
 
 
 ## Modified Files
 - **main.py** (+150, -2)
-- **capture_page.py** (+2532, -444)
+- **capture_page.py** (+3299, -444)
 - **viewer_page.py** (+709, -0)
-- **video_capture.py** (+580, -58)
+- **video_capture.py** (+593, -58)
 - **video_saver.py** (+87, -0)
 - **requirements.txt** (+4, -0)
 - **frame_buffer.py** (+83, -0)
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 4838
+".py" : 5618
 ".txt" : 4
 ```
 
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "12h" : 17
 "13h" : 18
 "14h" : 12
-"15h" : 6
+"15h" : 12
 ```
 
 
-> **Last Updated:** 6/1/2025, 3:34:15 PM
+> **Last Updated:** 6/1/2025, 3:39:15 PM

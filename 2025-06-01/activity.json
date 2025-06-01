@@ -2,9 +2,9 @@
   "date": "2025-06-01",
   "projects": {
     "video_app": {
-      "totalLinesAdded": 4338,
+      "totalLinesAdded": 5118,
       "totalLinesRemoved": 504,
-      "totalActiveTime": 81,
+      "totalActiveTime": 90,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\video_app\\main.py": [
           {
@@ -344,6 +344,34 @@
             },
             "duration": 0,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T13:37:06.867Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 765,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T13:38:39.576Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\viewer_page.py": [
@@ -613,6 +641,62 @@
               "removed": []
             },
             "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T13:35:19.917Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\features\\video_capture.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T13:36:18.039Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\features\\video_capture.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T13:36:24.360Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\features\\video_capture.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T13:38:11.331Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\features\\video_capture.py",
+            "fileType": ".py",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],
