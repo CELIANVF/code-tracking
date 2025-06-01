@@ -3,7 +3,7 @@
   "projects": {
     "video_app": {
       "totalLinesAdded": 6591,
-      "totalLinesRemoved": 521,
+      "totalLinesRemoved": 813,
       "totalActiveTime": 169,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\video_app\\main.py": [
@@ -665,6 +665,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T14:49:35.824Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 292,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
