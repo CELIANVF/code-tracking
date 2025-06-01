@@ -2,7 +2,7 @@
   "date": "2025-06-01",
   "projects": {
     "video_app": {
-      "totalLinesAdded": 5167,
+      "totalLinesAdded": 5172,
       "totalLinesRemoved": 504,
       "totalActiveTime": 99,
       "files": {
@@ -385,6 +385,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T13:54:04.222Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
