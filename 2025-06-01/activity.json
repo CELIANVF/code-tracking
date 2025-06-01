@@ -2,9 +2,9 @@
   "date": "2025-06-01",
   "projects": {
     "video_app": {
-      "totalLinesAdded": 1831,
+      "totalLinesAdded": 2658,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 38,
+      "totalActiveTime": 45,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\video_app\\main.py": [
           {
@@ -140,6 +140,62 @@
             "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
             "fileType": ".py",
             "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T11:29:17.405Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 659,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T11:29:35.609Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T11:30:03.500Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T11:30:24.068Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\pages\\capture_page.py",
+            "fileType": ".py",
+            "linesAdded": 9,
             "linesRemoved": 0,
             "projectName": "video_app",
             "content": {
@@ -304,6 +360,52 @@
             "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\features\\frame_buffer.py",
             "fileType": ".py",
             "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\main.py": [
+          {
+            "timestamp": "2025-06-01T11:31:30.960Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\main.py",
+            "fileType": ".py",
+            "linesAdded": 147,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-06-01T11:31:54.039Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\video_app\\main.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "video_app",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\video_app\\app.py": [
+          {
+            "timestamp": "2025-06-01T11:32:21.929Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\video_app\\app.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "video_app",
             "content": {
