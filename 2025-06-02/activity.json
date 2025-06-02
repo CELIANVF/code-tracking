@@ -2,9 +2,9 @@
   "date": "2025-06-02",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 9796,
+      "totalLinesAdded": 10509,
       "totalLinesRemoved": 570,
-      "totalActiveTime": 117,
+      "totalActiveTime": 119,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
           {
@@ -1065,6 +1065,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-02T11:25:44.621Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\document.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 706,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-02T11:27:15.280Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\document.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
