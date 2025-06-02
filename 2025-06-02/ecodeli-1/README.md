@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10776                                          |
-| **Lines Removed** (➖) | 575                                        |
-| **Net Change** (↕)    | 10201                |
-| **Active Time** (⌚)   | 126 minutes |
+| **Lines Added** (➕)   | 12092                                          |
+| **Lines Removed** (➖) | 579                                        |
+| **Net Change** (↕)    | 11513                |
+| **Active Time** (⌚)   | 135 minutes |
 
 
 ## Modified Files
@@ -35,15 +35,15 @@
 - **password-reset-email.tsx** (+22, -0)
 - **verification-email.tsx** (+22, -0)
 - **use-messaging.ts** (+61, -0)
-- **verification.service.ts** (+833, -0)
+- **verification.service.ts** (+1669, -0)
 - **user-document-verification.tsx** (+1093, -564)
-- **profile-documents-list.tsx** (+444, -0)
+- **profile-documents-list.tsx** (+444, -2)
 - **document.service.ts** (+1150, -0)
 - **document-verification.tsx** (+348, -0)
 - **seed.ts** (+1088, -0)
 - **verification-seed.ts** (+521, -0)
 - **test-provider-verification.js** (+239, -0)
-- **document-upload.tsx** (+478, -0)
+- **document-upload.tsx** (+958, -2)
 - **test-provider-documents.js** (+77, -0)
 - **check-provider-status.js** (+71, -0)
 - **check-user-verification.js** (+75, -0)
@@ -69,8 +69,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 52
-".tsx" : 4443
-".ts" : 5618
+".tsx" : 4927
+".ts" : 6454
 ".js" : 570
 ".mdc" : 667
 ".json" : 1
@@ -85,8 +85,8 @@ title Coding activity by hour (count of changes)
 "10h" : 40
 "11h" : 29
 "12h" : 10
-"13h" : 8
+"13h" : 13
 ```
 
 
-> **Last Updated:** 6/2/2025, 1:48:43 PM
+> **Last Updated:** 6/2/2025, 1:53:43 PM
