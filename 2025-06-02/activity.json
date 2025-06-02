@@ -2,9 +2,9 @@
   "date": "2025-06-02",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 13818,
-      "totalLinesRemoved": 600,
-      "totalActiveTime": 153,
+      "totalLinesAdded": 14454,
+      "totalLinesRemoved": 601,
+      "totalActiveTime": 157,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
           {
@@ -958,6 +958,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-02T12:11:09.335Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\auth\\document-verification.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 338,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\seed.ts": [
@@ -1658,6 +1672,36 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\document-verification.tsx": [
+          {
+            "timestamp": "2025-06-02T12:09:43.529Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\document-verification.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 298,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-02T12:10:35.420Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\document-verification.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
