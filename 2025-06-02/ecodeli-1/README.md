@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15199                                          |
+| **Lines Added** (➕)   | 15800                                          |
 | **Lines Removed** (➖) | 669                                        |
-| **Net Change** (↕)    | 14530                |
-| **Active Time** (⌚)   | 177 minutes |
+| **Net Change** (↕)    | 15131                |
+| **Active Time** (⌚)   | 194 minutes |
 
 
 ## Modified Files
@@ -62,10 +62,13 @@
 - **package.json** (+1, -0)
 - **document-utils.ts** (+82, -0)
 - **document-verification.tsx** (+298, -1)
-- **document-types.ts** (+1, -0)
-- **document-status-badge.tsx** (+1, -0)
-- **document-type-icon.tsx** (+1, -0)
-- **document-card.tsx** (+1, -0)
+- **document-types.ts** (+64, -0)
+- **document-status-badge.tsx** (+66, -0)
+- **document-type-icon.tsx** (+50, -0)
+- **document-card.tsx** (+137, -0)
+- **document-preview.tsx** (+138, -0)
+- **document-list.tsx** (+141, -0)
+- **index.ts** (+9, -0)
 
 ## Visualizations
 
@@ -75,8 +78,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 52
-".tsx" : 6158
-".ts" : 8420
+".tsx" : 6687
+".ts" : 8492
 ".js" : 570
 ".mdc" : 667
 ".json" : 1
@@ -92,8 +95,8 @@ title Coding activity by hour (count of changes)
 "11h" : 29
 "12h" : 10
 "13h" : 15
-"14h" : 28
+"14h" : 38
 ```
 
 
-> **Last Updated:** 6/2/2025, 2:48:43 PM
+> **Last Updated:** 6/2/2025, 2:53:43 PM
