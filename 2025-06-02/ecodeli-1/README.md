@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18800                                          |
-| **Lines Removed** (➖) | 1133                                        |
-| **Net Change** (↕)    | 17667                |
-| **Active Time** (⌚)   | 241 minutes |
+| **Lines Added** (➕)   | 19915                                          |
+| **Lines Removed** (➖) | 1142                                        |
+| **Net Change** (↕)    | 18773                |
+| **Active Time** (⌚)   | 254 minutes |
 
 
 ## Modified Files
@@ -71,8 +71,12 @@
 - **index.ts** (+9, -0)
 - **user-documents.tsx** (+503, -207)
 - **schema.prisma** (+2269, -224)
-- **merchant-profile-form.tsx** (+27, -0)
-- **provider-profile-form.tsx** (+27, -0)
+- **merchant-profile-form.tsx** (+107, -0)
+- **provider-profile-form.tsx** (+107, -0)
+- **use-profile-store.ts** (+94, -0)
+- **profile.service.ts** (+356, -2)
+- **use-profile.ts** (+218, -4)
+- **profile.router.ts** (+287, -3)
 
 ## Visualizations
 
@@ -82,8 +86,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 52
-".tsx" : 7452
-".ts" : 8698
+".tsx" : 7612
+".ts" : 9662
 ".js" : 570
 ".mdc" : 667
 ".json" : 1
@@ -102,8 +106,8 @@ title Coding activity by hour (count of changes)
 "13h" : 15
 "14h" : 40
 "15h" : 18
-"16h" : 5
+"16h" : 19
 ```
 
 
-> **Last Updated:** 6/2/2025, 4:19:44 PM
+> **Last Updated:** 6/2/2025, 4:34:44 PM
