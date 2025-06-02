@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 731                                          |
+| **Lines Added** (➕)   | 5377                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 731                |
-| **Active Time** (⌚)   | 37 minutes |
+| **Net Change** (↕)    | 5377                |
+| **Active Time** (⌚)   | 43 minutes |
 
 
 ## Modified Files
@@ -35,6 +35,13 @@
 - **password-reset-email.tsx** (+22, -0)
 - **verification-email.tsx** (+22, -0)
 - **use-messaging.ts** (+61, -0)
+- **verification.service.ts** (+832, -0)
+- **user-document-verification.tsx** (+529, -0)
+- **profile-documents-list.tsx** (+221, -0)
+- **document.service.ts** (+1108, -0)
+- **document-verification.tsx** (+347, -0)
+- **seed.ts** (+1088, -0)
+- **verification-seed.ts** (+521, -0)
 
 ## Visualizations
 
@@ -44,8 +51,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 52
-".tsx" : 451
-".ts" : 228
+".tsx" : 1548
+".ts" : 3777
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -54,8 +61,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 5
-"10h" : 30
+"10h" : 37
 ```
 
 
-> **Last Updated:** 6/2/2025, 10:37:27 AM
+> **Last Updated:** 6/2/2025, 10:52:27 AM
