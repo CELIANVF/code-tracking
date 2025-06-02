@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18604                                          |
+| **Lines Added** (➕)   | 18800                                          |
 | **Lines Removed** (➖) | 1133                                        |
-| **Net Change** (↕)    | 17471                |
-| **Active Time** (⌚)   | 234 minutes |
+| **Net Change** (↕)    | 17667                |
+| **Active Time** (⌚)   | 241 minutes |
 
 
 ## Modified Files
@@ -35,7 +35,7 @@
 - **password-reset-email.tsx** (+22, -0)
 - **verification-email.tsx** (+22, -0)
 - **use-messaging.ts** (+61, -0)
-- **verification.service.ts** (+1701, -32)
+- **verification.service.ts** (+1843, -32)
 - **user-document-verification.tsx** (+1613, -584)
 - **profile-documents-list.tsx** (+449, -47)
 - **document.service.ts** (+2310, -24)
@@ -71,6 +71,8 @@
 - **index.ts** (+9, -0)
 - **user-documents.tsx** (+503, -207)
 - **schema.prisma** (+2269, -224)
+- **merchant-profile-form.tsx** (+27, -0)
+- **provider-profile-form.tsx** (+27, -0)
 
 ## Visualizations
 
@@ -80,8 +82,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 52
-".tsx" : 7398
-".ts" : 8556
+".tsx" : 7452
+".ts" : 8698
 ".js" : 570
 ".mdc" : 667
 ".json" : 1
@@ -100,7 +102,8 @@ title Coding activity by hour (count of changes)
 "13h" : 15
 "14h" : 40
 "15h" : 18
+"16h" : 5
 ```
 
 
-> **Last Updated:** 6/2/2025, 3:34:48 PM
+> **Last Updated:** 6/2/2025, 4:19:44 PM
