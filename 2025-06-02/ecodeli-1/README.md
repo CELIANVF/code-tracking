@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9129                                          |
+| **Lines Added** (➕)   | 9796                                          |
 | **Lines Removed** (➖) | 570                                        |
-| **Net Change** (↕)    | 8559                |
-| **Active Time** (⌚)   | 113 minutes |
+| **Net Change** (↕)    | 9226                |
+| **Active Time** (⌚)   | 117 minutes |
 
 
 ## Modified Files
@@ -55,6 +55,9 @@
 - **use-documents.ts** (+145, -0)
 - **document-list.tsx** (+439, -0)
 - **document-verification-list.tsx** (+574, -4)
+- **architecturerules.mdc** (+265, -0)
+- **ecodeli.mdc** (+40, -0)
+- **windows.mdc** (+362, -0)
 
 ## Visualizations
 
@@ -67,6 +70,7 @@ title Lines changed by file type
 ".tsx" : 4172
 ".ts" : 4905
 ".js" : 570
+".mdc" : 667
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -77,8 +81,8 @@ title Coding activity by hour (count of changes)
 "09h" : 5
 "10h" : 40
 "11h" : 29
-"12h" : 5
+"12h" : 10
 ```
 
 
-> **Last Updated:** 6/2/2025, 12:08:16 PM
+> **Last Updated:** 6/2/2025, 12:19:17 PM
