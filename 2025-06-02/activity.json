@@ -2,8 +2,8 @@
   "date": "2025-06-02",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 18402,
-      "totalLinesRemoved": 881,
+      "totalLinesAdded": 18604,
+      "totalLinesRemoved": 883,
       "totalActiveTime": 230,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
@@ -2265,6 +2265,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "prisma"
+          },
+          {
+            "timestamp": "2025-06-02T13:28:57.818Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schema.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "prisma"
+          },
+          {
+            "timestamp": "2025-06-02T13:29:01.897Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schema.prisma",
+            "fileType": ".prisma",
+            "linesAdded": 202,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "prisma"
           }
         ]
