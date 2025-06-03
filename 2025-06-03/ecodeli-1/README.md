@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1814                                          |
+| **Lines Added** (➕)   | 1817                                          |
 | **Lines Removed** (➖) | 35                                        |
-| **Net Change** (↕)    | 1779                |
-| **Active Time** (⌚)   | 25 minutes |
+| **Net Change** (↕)    | 1782                |
+| **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,9 @@
 - **document.service.updated.ts** (+845, -0)
 - **document-verification.test.ts** (+244, -0)
 - **migrate-document-data.ts** (+1, -0)
+- **document-verification-panel.tsx** (+1, -0)
+- **admin-document-verification.tsx** (+1, -0)
+- **document-status-machine.ts** (+1, -0)
 
 ## Visualizations
 
@@ -29,7 +32,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1849
+".ts" : 1850
+".tsx" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +42,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 8
-"10h" : 12
+"10h" : 15
 ```
 
 
-> **Last Updated:** 6/3/2025, 10:18:42 AM
+> **Last Updated:** 6/3/2025, 10:28:42 AM

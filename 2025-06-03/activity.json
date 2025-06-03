@@ -2,9 +2,9 @@
   "date": "2025-06-03",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 1814,
+      "totalLinesAdded": 1817,
       "totalLinesRemoved": 35,
-      "totalActiveTime": 25,
+      "totalActiveTime": 30,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\types\\document-verification.ts": [
           {
@@ -303,6 +303,54 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\verification\\document-verification-panel.tsx": [
+          {
+            "timestamp": "2025-06-03T08:24:45.165Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\verification\\document-verification-panel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\admin-document-verification.tsx": [
+          {
+            "timestamp": "2025-06-03T08:27:06.872Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\verification\\admin-document-verification.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\lib\\document-status-machine.ts": [
+          {
+            "timestamp": "2025-06-03T08:28:32.837Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\lib\\document-status-machine.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
