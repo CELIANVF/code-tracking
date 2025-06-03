@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13178                                          |
-| **Lines Removed** (➖) | 2357                                        |
-| **Net Change** (↕)    | 10821                |
-| **Active Time** (⌚)   | 144 minutes |
+| **Lines Added** (➕)   | 13313                                          |
+| **Lines Removed** (➖) | 5767                                        |
+| **Net Change** (↕)    | 7546                |
+| **Active Time** (⌚)   | 152 minutes |
 
 
 ## Modified Files
@@ -43,11 +43,12 @@
 - **verification.router.ts** (+499, -2)
 - **useVerificationUpdate.ts** (+33, -0)
 - **profile-documents-list.tsx** (+6, -5)
-- **DocumentVerificationCheck.tsx** (+1, -0)
+- **DocumentVerificationCheck.tsx** (+125, -0)
 - **page.tsx** (+166, -6)
 - **page.tsx** (+167, -7)
 - **page.tsx** (+197, -14)
-- **fr.json** (+6190, -0)
+- **fr.json** (+6190, -3410)
+- **documents-layout.tsx** (+11, -0)
 
 ## Visualizations
 
@@ -57,12 +58,12 @@
 pie showData
 title Lines changed by file type
 ".ts" : 6512
-".tsx" : 1452
+".tsx" : 1587
 ".sql" : 55
 ".prisma" : 277
 ".new" : 453
 ".js" : 67
-".json" : 6469
+".json" : 9879
 ".bat" : 95
 ".ps1" : 155
 ```
@@ -75,8 +76,8 @@ title Coding activity by hour (count of changes)
 "09h" : 8
 "10h" : 71
 "11h" : 10
-"13h" : 24
+"13h" : 28
 ```
 
 
-> **Last Updated:** 6/3/2025, 1:19:02 PM
+> **Last Updated:** 6/3/2025, 1:23:55 PM
