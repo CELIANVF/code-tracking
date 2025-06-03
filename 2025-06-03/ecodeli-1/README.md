@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3653                                          |
+| **Lines Added** (➕)   | 4929                                          |
 | **Lines Removed** (➖) | 259                                        |
-| **Net Change** (↕)    | 3394                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Net Change** (↕)    | 4670                |
+| **Active Time** (⌚)   | 82 minutes |
 
 
 ## Modified Files
@@ -24,16 +24,18 @@
 - **document-verification-panel.tsx** (+391, -0)
 - **admin-document-verification.tsx** (+492, -0)
 - **document-status-machine.ts** (+449, -224)
-- **migration.sql** (+1, -0)
-- **apply-migration.ts** (+1, -0)
-- **document-transitions.prisma** (+1, -0)
+- **migration.sql** (+55, -0)
+- **apply-migration.ts** (+219, -0)
+- **document-transitions.prisma** (+25, -0)
 - **documents.prisma** (+39, -0)
 - **verifications.prisma** (+105, -0)
 - **user.prisma** (+108, -0)
-- **migrate-document-status-system.ts** (+1, -0)
-- **migrate-existing-documents.ts** (+1, -0)
-- **document-status-machine.ts.new** (+1, -0)
-- **run-all-document-migrations.ts** (+1, -0)
+- **migrate-document-status-system.ts** (+64, -0)
+- **migrate-existing-documents.ts** (+238, -0)
+- **document-status-machine.ts.new** (+227, -0)
+- **run-all-document-migrations.ts** (+147, -0)
+- **run-document-migration.js** (+34, -0)
+- **package.json** (+274, -0)
 
 ## Visualizations
 
@@ -42,11 +44,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2774
+".ts" : 3438
 ".tsx" : 883
-".sql" : 1
-".prisma" : 253
-".new" : 1
+".sql" : 55
+".prisma" : 277
+".new" : 227
+".js" : 34
+".json" : 274
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -55,8 +59,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 8
-"10h" : 35
+"10h" : 47
 ```
 
 
-> **Last Updated:** 6/3/2025, 10:43:42 AM
+> **Last Updated:** 6/3/2025, 10:48:42 AM
