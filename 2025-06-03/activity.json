@@ -3,7 +3,7 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 14169,
-      "totalLinesRemoved": 6539,
+      "totalLinesRemoved": 6544,
       "totalActiveTime": 214,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\types\\document-verification.ts": [
@@ -1459,6 +1459,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T13:03:57.012Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\verification.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
