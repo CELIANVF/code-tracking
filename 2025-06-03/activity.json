@@ -1,0 +1,81 @@
+{
+  "date": "2025-06-03",
+  "projects": {
+    "ecodeli-1": {
+      "totalLinesAdded": 2,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\types\\document-verification.ts": [
+          {
+            "timestamp": "2025-06-03T07:49:39.070Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\types\\document-verification.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document-verification.service.ts": [
+          {
+            "timestamp": "2025-06-03T07:50:43.992Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document-verification.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document.service.ts": [
+          {
+            "timestamp": "2025-06-03T07:53:34.788Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 5
+      },
+      "changeFrequency": {
+        "9": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\types\\document-verification.ts",
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document-verification.service.ts",
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document.service.ts"
+      ],
+      "averageChangeSize": 5.666666666666667
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
