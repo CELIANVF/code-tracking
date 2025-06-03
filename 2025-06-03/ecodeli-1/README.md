@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14404                                          |
-| **Lines Removed** (➖) | 6729                                        |
-| **Net Change** (↕)    | 7675                |
-| **Active Time** (⌚)   | 251 minutes |
+| **Lines Added** (➕)   | 15130                                          |
+| **Lines Removed** (➖) | 6737                                        |
+| **Net Change** (↕)    | 8393                |
+| **Active Time** (⌚)   | 255 minutes |
 
 
 ## Modified Files
@@ -39,7 +39,7 @@
 - **run-document-migration.bat** (+48, -47)
 - **Run-DocumentMigration.ps1** (+78, -77)
 - **verification.service.ts** (+255, -250)
-- **middleware.ts** (+464, -7)
+- **middleware.ts** (+464, -15)
 - **verification.router.ts** (+1052, -530)
 - **useVerificationUpdate.ts** (+33, -0)
 - **profile-documents-list.tsx** (+6, -5)
@@ -53,6 +53,7 @@
 - **page.tsx** (+71, -7)
 - **fr.json** (+9, -8)
 - **route.ts** (+89, -88)
+- **page.tsx** (+726, -0)
 
 ## Visualizations
 
@@ -61,8 +62,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 8468
-".tsx" : 1665
+".ts" : 8476
+".tsx" : 2391
 ".sql" : 55
 ".prisma" : 278
 ".new" : 453
@@ -83,8 +84,8 @@ title Coding activity by hour (count of changes)
 "13h" : 32
 "14h" : 28
 "15h" : 15
-"16h" : 8
+"16h" : 10
 ```
 
 
-> **Last Updated:** 6/3/2025, 4:20:14 PM
+> **Last Updated:** 6/3/2025, 4:30:18 PM
