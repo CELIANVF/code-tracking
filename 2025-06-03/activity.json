@@ -2,9 +2,9 @@
   "date": "2025-06-03",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 4995,
-      "totalLinesRemoved": 259,
-      "totalActiveTime": 92,
+      "totalLinesAdded": 5377,
+      "totalLinesRemoved": 2316,
+      "totalActiveTime": 110,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\types\\document-verification.ts": [
           {
@@ -108,6 +108,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T08:56:34.448Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 257,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T08:57:47.608Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 256,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\document.router.ts": [
@@ -168,6 +196,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T08:57:47.622Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-document-verification.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 136,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\lib\\error-handler.ts": [
@@ -197,6 +239,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T08:57:47.635Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\lib\\error-handler.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 113,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -228,6 +284,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T08:57:47.641Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-user-document-status.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 78,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document.service.updated.ts": [
@@ -258,6 +328,20 @@
             },
             "duration": 0,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T08:57:48.039Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\document.service.updated.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 844,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\__tests__\\document-verification.test.ts": [
@@ -287,6 +371,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T08:57:47.653Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\__tests__\\document-verification.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 243,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -512,6 +610,20 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\lib\\document-status-machine.ts",
             "fileType": ".ts",
             "linesAdded": 224,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T08:54:45.469Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\lib\\document-status-machine.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
@@ -804,6 +916,20 @@
             },
             "duration": 2,
             "language": "new"
+          },
+          {
+            "timestamp": "2025-06-03T08:57:07.928Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\lib\\document-status-machine.ts.new",
+            "fileType": ".new",
+            "linesAdded": 0,
+            "linesRemoved": 226,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "new"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\prisma\\run-all-document-migrations.ts": [
@@ -892,6 +1018,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-06-03T08:56:57.859Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\run-document-migration.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\package.json": [
@@ -922,6 +1062,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-06-03T08:55:52.223Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\run-document-migration.bat": [
@@ -938,6 +1092,34 @@
             },
             "duration": 1,
             "language": "bat"
+          },
+          {
+            "timestamp": "2025-06-03T08:54:11.389Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\run-document-migration.bat",
+            "fileType": ".bat",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "bat"
+          },
+          {
+            "timestamp": "2025-06-03T08:56:53.940Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\run-document-migration.bat",
+            "fileType": ".bat",
+            "linesAdded": 0,
+            "linesRemoved": 47,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "bat"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\Run-DocumentMigration.ps1": [
@@ -947,6 +1129,34 @@
             "fileType": ".ps1",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-06-03T08:54:11.453Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\Run-DocumentMigration.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ps1"
+          },
+          {
+            "timestamp": "2025-06-03T08:56:44.876Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\Run-DocumentMigration.ps1",
+            "fileType": ".ps1",
+            "linesAdded": 0,
+            "linesRemoved": 77,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
