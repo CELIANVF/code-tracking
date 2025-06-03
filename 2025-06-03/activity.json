@@ -2,7 +2,7 @@
   "date": "2025-06-03",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 14333,
+      "totalLinesAdded": 14344,
       "totalLinesRemoved": 6576,
       "totalActiveTime": 236,
       "files": {
@@ -2363,6 +2363,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 17,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T13:55:44.305Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\api\\verification\\check-and-update\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
