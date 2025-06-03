@@ -2,9 +2,9 @@
   "date": "2025-06-03",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 13610,
-      "totalLinesRemoved": 5997,
-      "totalActiveTime": 188,
+      "totalLinesAdded": 13611,
+      "totalLinesRemoved": 6010,
+      "totalActiveTime": 193,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\types\\document-verification.ts": [
           {
@@ -1090,6 +1090,20 @@
             },
             "duration": 2,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-06-03T12:43:40.708Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\scripts\\run-document-migration.bat": [
@@ -1425,6 +1439,20 @@
             "fileType": ".ts",
             "linesAdded": 16,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-03T12:41:30.349Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\verification.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 13,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
