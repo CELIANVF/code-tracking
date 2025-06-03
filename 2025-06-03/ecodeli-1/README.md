@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13373                                          |
-| **Lines Removed** (➖) | 5815                                        |
-| **Net Change** (↕)    | 7558                |
-| **Active Time** (⌚)   | 160 minutes |
+| **Lines Added** (➕)   | 13573                                          |
+| **Lines Removed** (➖) | 5991                                        |
+| **Net Change** (↕)    | 7582                |
+| **Active Time** (⌚)   | 179 minutes |
 
 
 ## Modified Files
@@ -29,7 +29,7 @@
 - **document-transitions.prisma** (+25, -0)
 - **documents.prisma** (+39, -0)
 - **verifications.prisma** (+105, -0)
-- **user.prisma** (+108, -0)
+- **user.prisma** (+108, -1)
 - **migrate-document-status-system.ts** (+64, -0)
 - **migrate-existing-documents.ts** (+257, -0)
 - **document-status-machine.ts.new** (+227, -226)
@@ -38,7 +38,7 @@
 - **package.json** (+276, -3)
 - **run-document-migration.bat** (+48, -47)
 - **Run-DocumentMigration.ps1** (+78, -77)
-- **verification.service.ts** (+149, -49)
+- **verification.service.ts** (+187, -222)
 - **middleware.ts** (+453, -6)
 - **verification.router.ts** (+499, -2)
 - **useVerificationUpdate.ts** (+33, -0)
@@ -49,6 +49,7 @@
 - **page.tsx** (+197, -14)
 - **fr.json** (+6190, -3410)
 - **documents-layout.tsx** (+11, -0)
+- **verification.ts** (+162, -2)
 
 ## Visualizations
 
@@ -57,10 +58,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 6620
+".ts" : 6995
 ".tsx" : 1587
 ".sql" : 55
-".prisma" : 277
+".prisma" : 278
 ".new" : 453
 ".js" : 67
 ".json" : 9879
@@ -77,8 +78,8 @@ title Coding activity by hour (count of changes)
 "10h" : 71
 "11h" : 10
 "13h" : 32
-"14h" : 5
+"14h" : 12
 ```
 
 
-> **Last Updated:** 6/3/2025, 2:20:03 PM
+> **Last Updated:** 6/3/2025, 2:30:23 PM
