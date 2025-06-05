@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24052                                          |
+| **Lines Added** (➕)   | 24120                                          |
 | **Lines Removed** (➖) | 1160                                        |
-| **Net Change** (↕)    | 22892                |
-| **Active Time** (⌚)   | 242 minutes |
+| **Net Change** (↕)    | 22960                |
+| **Active Time** (⌚)   | 245 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **document-utils.ts** (+98, -0)
 - **schema.prisma** (+2057, -12)
 - **document-type-mapping.ts** (+142, -0)
-- **fr.json** (+7255, -49)
+- **fr.json** (+7323, -49)
 - **document-upload.tsx** (+474, -3)
 - **test-document-names.js** (+16, -0)
 - **auth.router.ts** (+814, -5)
@@ -73,7 +73,7 @@ title Lines changed by file type
 ".ts" : 9841
 ".tsx" : 4917
 ".prisma" : 2069
-".json" : 7304
+".json" : 7372
 ".js" : 348
 ".sql" : 22
 ".ps1" : 36
@@ -87,8 +87,8 @@ title Coding activity by hour (count of changes)
 "14h" : 29
 "15h" : 73
 "16h" : 54
-"17h" : 7
+"17h" : 9
 ```
 
 
-> **Last Updated:** 6/5/2025, 5:09:25 PM
+> **Last Updated:** 6/5/2025, 5:14:25 PM
