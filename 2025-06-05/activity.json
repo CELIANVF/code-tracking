@@ -1,0 +1,47 @@
+{
+  "date": "2025-06-05",
+  "projects": {
+    "ecodeli-1": {
+      "totalLinesAdded": 265,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\architecturerules.mdc": [
+          {
+            "timestamp": "2025-06-05T12:37:08.699Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\architecturerules.mdc",
+            "fileType": ".mdc",
+            "linesAdded": 265,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mdc"
+          }
+        ]
+      },
+      "languageStats": {
+        "mdc": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\architecturerules.mdc"
+      ],
+      "averageChangeSize": 265
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "mdc"
+  ]
+}
