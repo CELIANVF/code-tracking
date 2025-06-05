@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16908                                          |
-| **Lines Removed** (➖) | 544                                        |
-| **Net Change** (↕)    | 16364                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Lines Added** (➕)   | 16916                                          |
+| **Lines Removed** (➖) | 546                                        |
+| **Net Change** (↕)    | 16370                |
+| **Active Time** (⌚)   | 125 minutes |
 
 
 ## Modified Files
@@ -33,12 +33,12 @@
 - **test-document-detection.js** (+67, -0)
 - **fix-existing-documents.sql** (+22, -0)
 - **fix-documents.js** (+69, -0)
-- **verification.service.ts** (+1271, -3)
+- **verification.service.ts** (+1279, -4)
 - **layout.tsx** (+35, -0)
 - **layout.tsx** (+41, -2)
 - **layout.tsx** (+32, -2)
 - **admin-user.router.ts** (+683, -0)
-- **merchant-verification-form.tsx** (+38, -0)
+- **merchant-verification-form.tsx** (+38, -1)
 - **user-document-verification.tsx** (+1047, -504)
 
 ## Visualizations
@@ -49,8 +49,8 @@
 pie showData
 title Lines changed by file type
 ".mdc" : 675
-".ts" : 5282
-".tsx" : 2629
+".ts" : 5291
+".tsx" : 2630
 ".prisma" : 2069
 ".json" : 6577
 ".js" : 198
@@ -63,8 +63,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 29
-"15h" : 53
+"15h" : 58
 ```
 
 
-> **Last Updated:** 6/5/2025, 3:44:12 PM
+> **Last Updated:** 6/5/2025, 3:49:12 PM
