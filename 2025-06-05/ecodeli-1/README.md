@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 17238                                          |
-| **Lines Removed** (➖) | 651                                        |
-| **Net Change** (↕)    | 16587                |
-| **Active Time** (⌚)   | 152 minutes |
+| **Lines Added** (➕)   | 17338                                          |
+| **Lines Removed** (➖) | 705                                        |
+| **Net Change** (↕)    | 16633                |
+| **Active Time** (⌚)   | 160 minutes |
 
 
 ## Modified Files
@@ -28,12 +28,12 @@
 - **fr.json** (+6604, -49)
 - **document-upload.tsx** (+474, -3)
 - **test-document-names.js** (+16, -0)
-- **auth.router.ts** (+813, -0)
+- **auth.router.ts** (+814, -5)
 - **test-document-mapping.js** (+46, -0)
 - **test-document-detection.js** (+67, -0)
 - **fix-existing-documents.sql** (+22, -0)
 - **fix-documents.js** (+69, -0)
-- **verification.service.ts** (+1333, -12)
+- **verification.service.ts** (+1333, -61)
 - **layout.tsx** (+35, -0)
 - **layout.tsx** (+41, -2)
 - **layout.tsx** (+34, -3)
@@ -42,6 +42,8 @@
 - **user-document-verification.tsx** (+1047, -549)
 - **page.tsx** (+117, -1)
 - **page.tsx** (+116, -0)
+- **test-verification.js** (+39, -0)
+- **fix-document-userrole.js** (+60, -0)
 
 ## Visualizations
 
@@ -51,11 +53,11 @@
 pie showData
 title Lines changed by file type
 ".mdc" : 675
-".ts" : 5354
+".ts" : 5409
 ".tsx" : 2918
 ".prisma" : 2069
 ".json" : 6653
-".js" : 198
+".js" : 297
 ".sql" : 22
 ```
 
@@ -66,8 +68,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "14h" : 29
 "15h" : 73
-"16h" : 3
+"16h" : 11
 ```
 
 
-> **Last Updated:** 6/5/2025, 4:09:13 PM
+> **Last Updated:** 6/5/2025, 4:14:13 PM
