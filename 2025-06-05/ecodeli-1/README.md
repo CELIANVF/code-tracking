@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12680                                          |
-| **Lines Removed** (➖) | 15                                        |
-| **Net Change** (↕)    | 12665                |
-| **Active Time** (⌚)   | 62 minutes |
+| **Lines Added** (➕)   | 13507                                          |
+| **Lines Removed** (➖) | 33                                        |
+| **Net Change** (↕)    | 13474                |
+| **Active Time** (⌚)   | 71 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **ecodeli.mdc** (+40, -0)
 - **windows.mdc** (+370, -0)
 - **document-utils.ts** (+167, -0)
-- **document.service.ts** (+1251, -0)
+- **document.service.ts** (+1266, -15)
 - **document-verification.service.ts** (+250, -0)
 - **document-validation.ts** (+225, -2)
 - **document-fix.router.ts** (+251, -0)
@@ -26,8 +26,9 @@
 - **schema.prisma** (+2057, -12)
 - **document-type-mapping.ts** (+142, -0)
 - **fr.json** (+6544, -0)
-- **document-upload.tsx** (+474, -0)
+- **document-upload.tsx** (+474, -3)
 - **test-document-names.js** (+16, -0)
+- **auth.router.ts** (+812, -0)
 
 ## Visualizations
 
@@ -37,8 +38,8 @@
 pie showData
 title Lines changed by file type
 ".mdc" : 675
-".ts" : 2466
-".tsx" : 925
+".ts" : 3308
+".tsx" : 928
 ".prisma" : 2069
 ".json" : 6544
 ".js" : 16
@@ -50,8 +51,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 29
-"15h" : 16
+"15h" : 21
 ```
 
 
-> **Last Updated:** 6/5/2025, 3:09:10 PM
+> **Last Updated:** 6/5/2025, 3:14:10 PM
