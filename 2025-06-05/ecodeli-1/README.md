@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 15861                                          |
-| **Lines Removed** (➖) | 40                                        |
-| **Net Change** (↕)    | 15821                |
-| **Active Time** (⌚)   | 106 minutes |
+| **Lines Added** (➕)   | 16908                                          |
+| **Lines Removed** (➖) | 544                                        |
+| **Net Change** (↕)    | 16364                |
+| **Active Time** (⌚)   | 117 minutes |
 
 
 ## Modified Files
@@ -39,6 +39,7 @@
 - **layout.tsx** (+32, -2)
 - **admin-user.router.ts** (+683, -0)
 - **merchant-verification-form.tsx** (+38, -0)
+- **user-document-verification.tsx** (+1047, -504)
 
 ## Visualizations
 
@@ -49,7 +50,7 @@ pie showData
 title Lines changed by file type
 ".mdc" : 675
 ".ts" : 5282
-".tsx" : 1078
+".tsx" : 2629
 ".prisma" : 2069
 ".json" : 6577
 ".js" : 198
@@ -62,8 +63,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 29
-"15h" : 44
+"15h" : 53
 ```
 
 
-> **Last Updated:** 6/5/2025, 3:39:11 PM
+> **Last Updated:** 6/5/2025, 3:44:12 PM
