@@ -2,7 +2,7 @@
   "date": "2025-06-05",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 15140,
+      "totalLinesAdded": 15823,
       "totalLinesRemoved": 37,
       "totalActiveTime": 99,
       "files": {
@@ -1036,6 +1036,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\admin-user.router.ts": [
+          {
+            "timestamp": "2025-06-05T13:33:07.321Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\admin-user.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 683,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
