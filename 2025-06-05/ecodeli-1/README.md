@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13507                                          |
+| **Lines Added** (➕)   | 13569                                          |
 | **Lines Removed** (➖) | 33                                        |
-| **Net Change** (↕)    | 13474                |
-| **Active Time** (⌚)   | 71 minutes |
+| **Net Change** (↕)    | 13536                |
+| **Active Time** (⌚)   | 75 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,7 @@
 - **document-utils.ts** (+167, -0)
 - **document.service.ts** (+1266, -15)
 - **document-verification.service.ts** (+250, -0)
-- **document-validation.ts** (+225, -2)
+- **document-validation.ts** (+241, -2)
 - **document-fix.router.ts** (+251, -0)
 - **root.ts** (+80, -0)
 - **document-validation-checker.tsx** (+395, -0)
@@ -29,6 +29,7 @@
 - **document-upload.tsx** (+474, -3)
 - **test-document-names.js** (+16, -0)
 - **auth.router.ts** (+812, -0)
+- **test-document-mapping.js** (+46, -0)
 
 ## Visualizations
 
@@ -38,11 +39,11 @@
 pie showData
 title Lines changed by file type
 ".mdc" : 675
-".ts" : 3308
+".ts" : 3324
 ".tsx" : 928
 ".prisma" : 2069
 ".json" : 6544
-".js" : 16
+".js" : 62
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -51,8 +52,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 29
-"15h" : 21
+"15h" : 25
 ```
 
 
-> **Last Updated:** 6/5/2025, 3:14:10 PM
+> **Last Updated:** 6/5/2025, 3:19:10 PM
