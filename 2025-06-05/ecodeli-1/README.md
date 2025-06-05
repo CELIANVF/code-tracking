@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16916                                          |
-| **Lines Removed** (➖) | 546                                        |
-| **Net Change** (↕)    | 16370                |
-| **Active Time** (⌚)   | 125 minutes |
+| **Lines Added** (➕)   | 16922                                          |
+| **Lines Removed** (➖) | 649                                        |
+| **Net Change** (↕)    | 16273                |
+| **Active Time** (⌚)   | 142 minutes |
 
 
 ## Modified Files
@@ -15,17 +15,17 @@
 - **ecodeli.mdc** (+40, -0)
 - **windows.mdc** (+370, -0)
 - **document-utils.ts** (+167, -0)
-- **document.service.ts** (+1266, -15)
+- **document.service.ts** (+1266, -16)
 - **document-verification.service.ts** (+250, -0)
 - **document-validation.ts** (+241, -2)
 - **document-fix.router.ts** (+251, -0)
 - **root.ts** (+80, -0)
 - **document-validation-checker.tsx** (+395, -0)
-- **page.tsx** (+55, -1)
+- **page.tsx** (+60, -1)
 - **document-utils.ts** (+98, -0)
 - **schema.prisma** (+2057, -12)
 - **document-type-mapping.ts** (+142, -0)
-- **fr.json** (+6577, -0)
+- **fr.json** (+6577, -49)
 - **document-upload.tsx** (+474, -3)
 - **test-document-names.js** (+16, -0)
 - **auth.router.ts** (+813, -0)
@@ -33,13 +33,13 @@
 - **test-document-detection.js** (+67, -0)
 - **fix-existing-documents.sql** (+22, -0)
 - **fix-documents.js** (+69, -0)
-- **verification.service.ts** (+1279, -4)
+- **verification.service.ts** (+1279, -12)
 - **layout.tsx** (+35, -0)
 - **layout.tsx** (+41, -2)
 - **layout.tsx** (+32, -2)
 - **admin-user.router.ts** (+683, -0)
-- **merchant-verification-form.tsx** (+38, -1)
-- **user-document-verification.tsx** (+1047, -504)
+- **merchant-verification-form.tsx** (+39, -1)
+- **user-document-verification.tsx** (+1047, -549)
 
 ## Visualizations
 
@@ -49,10 +49,10 @@
 pie showData
 title Lines changed by file type
 ".mdc" : 675
-".ts" : 5291
-".tsx" : 2630
+".ts" : 5300
+".tsx" : 2681
 ".prisma" : 2069
-".json" : 6577
+".json" : 6626
 ".js" : 198
 ".sql" : 22
 ```
@@ -63,8 +63,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 29
-"15h" : 58
+"15h" : 64
 ```
 
 
-> **Last Updated:** 6/5/2025, 3:49:12 PM
+> **Last Updated:** 6/5/2025, 3:54:12 PM
