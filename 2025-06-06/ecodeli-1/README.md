@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19014                                          |
+| **Lines Added** (➕)   | 19147                                          |
 | **Lines Removed** (➖) | 1835                                        |
-| **Net Change** (↕)    | 17179                |
-| **Active Time** (⌚)   | 337 minutes |
+| **Net Change** (↕)    | 17312                |
+| **Active Time** (⌚)   | 348 minutes |
 
 
 ## Modified Files
@@ -50,7 +50,7 @@
 - **page.tsx** (+631, -0)
 - **use-admin-users.ts** (+415, -0)
 - **page.tsx** (+519, -73)
-- **fr.json** (+62, -0)
+- **fr.json** (+131, -0)
 - **multi-verification-users-seed.ts** (+611, -2)
 - **run-all-seeds.ts** (+703, -0)
 - **run-test-users.ts** (+71, -2)
@@ -62,7 +62,7 @@
 - **deliverer-admin.service.ts** (+43, -7)
 - **page.tsx** (+40, -109)
 - **deliverers-stats.tsx** (+36, -0)
-- **deliverers-table.tsx** (+14, -0)
+- **deliverers-table.tsx** (+18, -0)
 - **COMMIT_EDITMSG** (+9, -7)
 - **delivery.router.ts** (+62, -61)
 - **service.router.ts** (+76, -75)
@@ -74,7 +74,7 @@
 - **admin-financial.router.ts** (+623, -0)
 - **admin.router.ts** (+15, -0)
 - **client.router.ts** (+774, -0)
-- **admin-deliverers.router.ts** (+174, -0)
+- **admin-deliverers.router.ts** (+234, -0)
 
 ## Visualizations
 
@@ -83,13 +83,13 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 14601
-".tsx" : 3776
+".ts" : 14661
+".tsx" : 3780
 ".mdc" : 167
 ".js" : 204
 ".prisma" : 1711
 ".cjs" : 271
-".json" : 103
+".json" : 172
 "unknown" : 16
 ```
 
@@ -103,8 +103,8 @@ title Coding activity by hour (count of changes)
 "11h" : 70
 "12h" : 64
 "13h" : 4
-"14h" : 7
+"14h" : 13
 ```
 
 
-> **Last Updated:** 6/6/2025, 2:09:14 PM
+> **Last Updated:** 6/6/2025, 2:14:15 PM
