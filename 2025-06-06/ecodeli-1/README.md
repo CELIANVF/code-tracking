@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16368                                          |
-| **Lines Removed** (➖) | 1229                                        |
-| **Net Change** (↕)    | 15139                |
-| **Active Time** (⌚)   | 217 minutes |
+| **Lines Added** (➕)   | 16421                                          |
+| **Lines Removed** (➖) | 1285                                        |
+| **Net Change** (↕)    | 15136                |
+| **Active Time** (⌚)   | 223 minutes |
 
 
 ## Modified Files
@@ -49,7 +49,7 @@
 - **check-user.cjs** (+52, -0)
 - **page.tsx** (+631, -0)
 - **use-admin-users.ts** (+415, -0)
-- **page.tsx** (+447, -0)
+- **page.tsx** (+500, -56)
 - **fr.json** (+62, -0)
 - **multi-verification-users-seed.ts** (+611, -2)
 - **run-all-seeds.ts** (+703, -0)
@@ -65,7 +65,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 11862
-".tsx" : 3432
+".tsx" : 3541
 ".mdc" : 167
 ".js" : 92
 ".prisma" : 1711
@@ -80,8 +80,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
 "10h" : 74
-"11h" : 59
+"11h" : 65
 ```
 
 
-> **Last Updated:** 6/6/2025, 11:49:12 AM
+> **Last Updated:** 6/6/2025, 11:54:12 AM
