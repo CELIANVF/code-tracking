@@ -3,7 +3,7 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 23731,
-      "totalLinesRemoved": 2354,
+      "totalLinesRemoved": 2357,
       "totalActiveTime": 438,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\trpc.ts": [
@@ -4205,6 +4205,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-06T13:54:06.516Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\admin\\admin-deliverers.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
