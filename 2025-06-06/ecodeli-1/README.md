@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9452                                          |
+| **Lines Added** (➕)   | 9603                                          |
 | **Lines Removed** (➖) | 426                                        |
-| **Net Change** (↕)    | 9026                |
-| **Active Time** (⌚)   | 81 minutes |
+| **Net Change** (↕)    | 9177                |
+| **Active Time** (⌚)   | 90 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **auth.ts** (+124, -4)
 - **next-auth.ts** (+268, -0)
 - **route.ts** (+47, -8)
-- **admin-user.router.ts** (+39, -4)
+- **admin-user.router.ts** (+58, -4)
 - **user-management.schema.ts** (+258, -0)
 - **admin.service.ts** (+10, -2)
 - **admin-dashboard.router.ts** (+217, -0)
@@ -33,10 +33,11 @@
 - **messaging.router.ts** (+33, -0)
 - **test-admin-users.ts** (+52, -0)
 - **test-trpc-client.ts** (+46, -0)
-- **page.tsx** (+30, -11)
-- **user-management.tsx** (+671, -0)
+- **page.tsx** (+73, -11)
+- **user-management.tsx** (+682, -0)
 - **list.mdc** (+165, -0)
 - **test-users.js** (+51, -0)
+- **debug-users.ts** (+78, -0)
 
 ## Visualizations
 
@@ -45,8 +46,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 8908
-".tsx" : 752
+".ts" : 9005
+".tsx" : 806
 ".mdc" : 167
 ".js" : 51
 ```
@@ -57,8 +58,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
-"10h" : 38
+"10h" : 46
 ```
 
 
-> **Last Updated:** 6/6/2025, 10:29:10 AM
+> **Last Updated:** 6/6/2025, 10:34:10 AM
