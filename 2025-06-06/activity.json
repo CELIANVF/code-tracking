@@ -2,9 +2,9 @@
   "date": "2025-06-06",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 12353,
-      "totalLinesRemoved": 1096,
-      "totalActiveTime": 150,
+      "totalLinesAdded": 12556,
+      "totalLinesRemoved": 1224,
+      "totalActiveTime": 168,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\trpc.ts": [
           {
@@ -1476,6 +1476,34 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-06T09:12:47.448Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\users\\[id]\\edit\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-06T09:13:04.430Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\users\\[id]\\edit\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\schemas\\admin\\contracts.prisma": [
@@ -1508,6 +1536,212 @@
             },
             "duration": 1,
             "language": "prisma"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\get-users.js": [
+          {
+            "timestamp": "2025-06-06T09:09:39.388Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\get-users.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-06T09:09:40.299Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\get-users.js",
+            "fileType": ".js",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-06-06T09:11:17.707Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\get-users.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\get-users.cjs": [
+          {
+            "timestamp": "2025-06-06T09:09:56.718Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\get-users.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2025-06-06T09:09:57.615Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\get-users.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2025-06-06T09:11:21.561Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\get-users.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\create-test-user.cjs": [
+          {
+            "timestamp": "2025-06-06T09:10:35.305Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\create-test-user.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2025-06-06T09:10:36.168Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\create-test-user.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2025-06-06T09:11:26.069Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\create-test-user.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 0,
+            "linesRemoved": 39,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\create-admin-user.cjs": [
+          {
+            "timestamp": "2025-06-06T09:11:05.639Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\create-admin-user.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2025-06-06T09:11:06.593Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\create-admin-user.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2025-06-06T09:11:29.244Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\create-admin-user.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\check-user.cjs": [
+          {
+            "timestamp": "2025-06-06T09:12:04.923Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\check-user.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
+          },
+          {
+            "timestamp": "2025-06-06T09:12:05.836Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\check-user.cjs",
+            "fileType": ".cjs",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "cjs"
           }
         ]
       },

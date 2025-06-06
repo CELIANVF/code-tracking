@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12353                                          |
-| **Lines Removed** (➖) | 1096                                        |
-| **Net Change** (↕)    | 11257                |
-| **Active Time** (⌚)   | 150 minutes |
+| **Lines Added** (➕)   | 12556                                          |
+| **Lines Removed** (➖) | 1224                                        |
+| **Net Change** (↕)    | 11332                |
+| **Active Time** (⌚)   | 168 minutes |
 
 
 ## Modified Files
@@ -39,9 +39,14 @@
 - **test-users.js** (+51, -0)
 - **debug-users.ts** (+78, -0)
 - **utils.ts** (+2, -0)
-- **page.tsx** (+932, -468)
+- **page.tsx** (+951, -468)
 - **contracts.prisma** (+249, -0)
 - **schema.prisma** (+1462, -0)
+- **get-users.js** (+21, -20)
+- **get-users.cjs** (+21, -20)
+- **create-test-user.cjs** (+40, -39)
+- **create-admin-user.cjs** (+50, -49)
+- **check-user.cjs** (+52, -0)
 
 ## Visualizations
 
@@ -51,10 +56,11 @@
 pie showData
 title Lines changed by file type
 ".ts" : 9206
-".tsx" : 2314
+".tsx" : 2333
 ".mdc" : 167
-".js" : 51
+".js" : 92
 ".prisma" : 1711
+".cjs" : 271
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +70,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
 "10h" : 74
-"11h" : 9
+"11h" : 25
 ```
 
 
-> **Last Updated:** 6/6/2025, 11:09:12 AM
+> **Last Updated:** 6/6/2025, 11:14:12 AM
