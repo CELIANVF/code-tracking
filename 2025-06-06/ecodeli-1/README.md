@@ -4,20 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1073                                          |
-| **Lines Removed** (➖) | 25                                        |
+| **Lines Added** (➕)   | 1083                                          |
+| **Lines Removed** (➖) | 35                                        |
 | **Net Change** (↕)    | 1048                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
-- **trpc.ts** (+327, -6)
+- **trpc.ts** (+335, -14)
 - **layout.tsx** (+37, -3)
 - **auth.ts** (+124, -4)
 - **next-auth.ts** (+268, -0)
 - **route.ts** (+47, -8)
 - **admin-user.router.ts** (+12, -4)
 - **user-management.schema.ts** (+258, -0)
+- **admin.service.ts** (+2, -2)
 
 ## Visualizations
 
@@ -26,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1058
+".ts" : 1078
 ".tsx" : 40
 ```
 
@@ -35,8 +36,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 16
+"09h" : 20
 ```
 
 
-> **Last Updated:** 6/6/2025, 9:54:09 AM
+> **Last Updated:** 6/6/2025, 9:59:09 AM
