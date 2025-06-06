@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24063                                          |
-| **Lines Removed** (➖) | 2420                                        |
-| **Net Change** (↕)    | 21643                |
-| **Active Time** (⌚)   | 456 minutes |
+| **Lines Added** (➕)   | 24083                                          |
+| **Lines Removed** (➖) | 2421                                        |
+| **Net Change** (↕)    | 21662                |
+| **Active Time** (⌚)   | 465 minutes |
 
 
 ## Modified Files
@@ -47,7 +47,7 @@
 - **create-test-user.cjs** (+40, -39)
 - **create-admin-user.cjs** (+50, -49)
 - **check-user.cjs** (+52, -0)
-- **page.tsx** (+676, -63)
+- **page.tsx** (+681, -63)
 - **use-admin-users.ts** (+415, -0)
 - **page.tsx** (+519, -73)
 - **fr.json** (+131, -0)
@@ -74,11 +74,11 @@
 - **admin-financial.router.ts** (+627, -4)
 - **admin.router.ts** (+15, -0)
 - **client.router.ts** (+778, -3)
-- **admin-deliverers.router.ts** (+516, -118)
+- **admin-deliverers.router.ts** (+521, -119)
 - **use-user-activation.ts** (+60, -0)
 - **use-user-ban.ts** (+81, -0)
 - **verification.ts** (+166, -0)
-- **admin-users.router.ts** (+793, -0)
+- **admin-users.router.ts** (+803, -0)
 - **admin.service.ts** (+2103, -0)
 - **document-utils.ts** (+69, -52)
 - **test-trpc.js** (+11, -0)
@@ -97,8 +97,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 18568
-".tsx" : 5182
+".ts" : 18584
+".tsx" : 5187
 ".mdc" : 167
 ".js" : 215
 ".prisma" : 1711
@@ -120,8 +120,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 48
 "15h" : 38
-"16h" : 8
+"16h" : 12
 ```
 
 
-> **Last Updated:** 6/6/2025, 4:14:21 PM
+> **Last Updated:** 6/6/2025, 4:19:22 PM
