@@ -2,9 +2,9 @@
   "date": "2025-06-06",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 23549,
+      "totalLinesAdded": 23567,
       "totalLinesRemoved": 2354,
-      "totalActiveTime": 429,
+      "totalActiveTime": 434,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\trpc.ts": [
           {
@@ -1960,6 +1960,34 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\users\\[id]\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-06T13:30:55.267Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\users\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-06T13:31:07.280Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\users\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
