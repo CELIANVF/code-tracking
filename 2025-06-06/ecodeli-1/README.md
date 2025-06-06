@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1083                                          |
+| **Lines Added** (➕)   | 4350                                          |
 | **Lines Removed** (➖) | 35                                        |
-| **Net Change** (↕)    | 1048                |
-| **Active Time** (⌚)   | 23 minutes |
+| **Net Change** (↕)    | 4315                |
+| **Active Time** (⌚)   | 35 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,9 @@
 - **admin-user.router.ts** (+12, -4)
 - **user-management.schema.ts** (+258, -0)
 - **admin.service.ts** (+2, -2)
+- **admin-dashboard.router.ts** (+217, -0)
+- **delivery.router.ts** (+1172, -0)
+- **delivery.service.ts** (+1878, -0)
 
 ## Visualizations
 
@@ -27,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1078
+".ts" : 4345
 ".tsx" : 40
 ```
 
@@ -37,7 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
+"10h" : 7
 ```
 
 
-> **Last Updated:** 6/6/2025, 9:59:09 AM
+> **Last Updated:** 6/6/2025, 10:04:09 AM
