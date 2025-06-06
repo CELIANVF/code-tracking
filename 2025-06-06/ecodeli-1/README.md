@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 16913                                          |
+| **Lines Added** (➕)   | 16926                                          |
 | **Lines Removed** (➖) | 1432                                        |
-| **Net Change** (↕)    | 15481                |
-| **Active Time** (⌚)   | 270 minutes |
+| **Net Change** (↕)    | 15494                |
+| **Active Time** (⌚)   | 275 minutes |
 
 
 ## Modified Files
@@ -58,9 +58,9 @@
 - **use-admin-clients.ts** (+104, -24)
 - **debug-clients.js** (+112, -0)
 - **debug-clients.ts** (+112, -0)
-- **admin.router.ts** (+94, -0)
+- **admin.router.ts** (+102, -0)
 - **deliverer-admin.service.ts** (+43, -7)
-- **page.tsx** (+25, -76)
+- **page.tsx** (+30, -76)
 - **deliverers-stats.tsx** (+36, -0)
 
 ## Visualizations
@@ -70,8 +70,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 12216
-".tsx" : 3714
+".ts" : 12224
+".tsx" : 3719
 ".mdc" : 167
 ".js" : 204
 ".prisma" : 1711
@@ -87,8 +87,8 @@ title Coding activity by hour (count of changes)
 "09h" : 20
 "10h" : 74
 "11h" : 70
-"12h" : 32
+"12h" : 34
 ```
 
 
-> **Last Updated:** 6/6/2025, 12:29:12 PM
+> **Last Updated:** 6/6/2025, 12:34:12 PM
