@@ -5538,9 +5538,9 @@
       "averageChangeSize": 81.5
     },
     "AndroidSumApp": {
-      "totalLinesAdded": 1099,
+      "totalLinesAdded": 1128,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 20,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\java\\com\\example\\sumapp\\MainActivity.java": [
           {
@@ -5826,6 +5826,36 @@
             },
             "duration": 1,
             "language": "xml"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\gradle.properties": [
+          {
+            "timestamp": "2025-06-06T21:08:36.155Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-06-06T21:08:37.092Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
           }
         ]
       },
