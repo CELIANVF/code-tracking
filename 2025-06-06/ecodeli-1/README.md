@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 7065                                          |
-| **Lines Removed** (➖) | 75                                        |
-| **Net Change** (↕)    | 6990                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Removed** (➖) | 415                                        |
+| **Net Change** (↕)    | 6650                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,8 @@
 - **root.ts** (+2, -0)
 - **financial.router.ts** (+623, -0)
 - **announcement.router.ts** (+1028, -0)
-- **commission.service.ts** (+1035, -40)
+- **commission.service.ts** (+1035, -378)
+- **windows.mdc** (+0, -2)
 
 ## Visualizations
 
@@ -34,8 +35,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 7100
+".ts" : 7438
 ".tsx" : 40
+".mdc" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
-"10h" : 15
+"10h" : 18
 ```
 
 
-> **Last Updated:** 6/6/2025, 10:09:09 AM
+> **Last Updated:** 6/6/2025, 10:14:10 AM

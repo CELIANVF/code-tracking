@@ -3,8 +3,8 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 7065,
-      "totalLinesRemoved": 75,
-      "totalActiveTime": 44,
+      "totalLinesRemoved": 415,
+      "totalActiveTime": 52,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\trpc.ts": [
           {
@@ -524,6 +524,50 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-06T08:09:35.398Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\commission.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-06T08:13:22.577Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\commission.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 327,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\windows.mdc": [
+          {
+            "timestamp": "2025-06-06T08:10:44.046Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\windows.mdc",
+            "fileType": ".mdc",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mdc"
           }
         ]
       },
