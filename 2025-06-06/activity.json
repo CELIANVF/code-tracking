@@ -5538,7 +5538,7 @@
       "averageChangeSize": 81.5
     },
     "AndroidSumApp": {
-      "totalLinesAdded": 1157,
+      "totalLinesAdded": 1212,
       "totalLinesRemoved": 5,
       "totalActiveTime": 22,
       "files": {
@@ -5888,6 +5888,22 @@
             },
             "duration": 1,
             "language": "properties"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\build.gradle": [
+          {
+            "timestamp": "2025-06-06T21:23:23.669Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "gradle"
           }
         ]
       },
