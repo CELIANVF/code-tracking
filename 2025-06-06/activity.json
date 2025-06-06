@@ -2,9 +2,9 @@
   "date": "2025-06-06",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 24178,
+      "totalLinesAdded": 24700,
       "totalLinesRemoved": 2553,
-      "totalActiveTime": 499,
+      "totalActiveTime": 508,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\trpc.ts": [
           {
@@ -4444,6 +4444,20 @@
             },
             "duration": 4,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-06T14:36:06.318Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\admin\\admin-deliverers.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-user-activation.ts": [
@@ -4880,6 +4894,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-06T14:37:37.186Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\[id]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\admin\\index.ts": [
@@ -5020,6 +5048,66 @@
             },
             "duration": 3,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\admin\\deliverer-management.schema.ts": [
+          {
+            "timestamp": "2025-06-06T14:36:20.283Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\admin\\deliverer-management.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-06T14:36:21.169Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\admin\\deliverer-management.schema.ts",
+            "fileType": ".ts",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\[id]\\edit\\page.tsx": [
+          {
+            "timestamp": "2025-06-06T14:37:10.659Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\[id]\\edit\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-06T14:37:11.543Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\deliverers\\[id]\\edit\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 413,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
