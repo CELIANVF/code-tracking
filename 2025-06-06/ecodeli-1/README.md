@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24083                                          |
+| **Lines Added** (➕)   | 24126                                          |
 | **Lines Removed** (➖) | 2421                                        |
-| **Net Change** (↕)    | 21662                |
-| **Active Time** (⌚)   | 465 minutes |
+| **Net Change** (↕)    | 21705                |
+| **Active Time** (⌚)   | 477 minutes |
 
 
 ## Modified Files
@@ -47,7 +47,7 @@
 - **create-test-user.cjs** (+40, -39)
 - **create-admin-user.cjs** (+50, -49)
 - **check-user.cjs** (+52, -0)
-- **page.tsx** (+681, -63)
+- **page.tsx** (+698, -63)
 - **use-admin-users.ts** (+415, -0)
 - **page.tsx** (+519, -73)
 - **fr.json** (+131, -0)
@@ -78,7 +78,7 @@
 - **use-user-activation.ts** (+60, -0)
 - **use-user-ban.ts** (+81, -0)
 - **verification.ts** (+166, -0)
-- **admin-users.router.ts** (+803, -0)
+- **admin-users.router.ts** (+829, -0)
 - **admin.service.ts** (+2103, -0)
 - **document-utils.ts** (+69, -52)
 - **test-trpc.js** (+11, -0)
@@ -97,8 +97,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 18584
-".tsx" : 5187
+".ts" : 18610
+".tsx" : 5204
 ".mdc" : 167
 ".js" : 215
 ".prisma" : 1711
@@ -120,8 +120,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 48
 "15h" : 38
-"16h" : 12
+"16h" : 20
 ```
 
 
-> **Last Updated:** 6/6/2025, 4:19:22 PM
+> **Last Updated:** 6/6/2025, 4:24:22 PM
