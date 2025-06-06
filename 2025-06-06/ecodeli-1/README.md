@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23993                                          |
+| **Lines Added** (➕)   | 24011                                          |
 | **Lines Removed** (➖) | 2420                                        |
-| **Net Change** (↕)    | 21573                |
-| **Active Time** (⌚)   | 445 minutes |
+| **Net Change** (↕)    | 21591                |
+| **Active Time** (⌚)   | 451 minutes |
 
 
 ## Modified Files
@@ -78,7 +78,7 @@
 - **use-user-activation.ts** (+60, -0)
 - **use-user-ban.ts** (+81, -0)
 - **verification.ts** (+166, -0)
-- **admin-users.router.ts** (+775, -0)
+- **admin-users.router.ts** (+793, -0)
 - **admin.service.ts** (+2103, -0)
 - **document-utils.ts** (+69, -52)
 - **test-trpc.js** (+11, -0)
@@ -96,7 +96,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 18550
+".ts" : 18568
 ".tsx" : 5130
 ".mdc" : 167
 ".js" : 215
@@ -119,8 +119,8 @@ title Coding activity by hour (count of changes)
 "13h" : 4
 "14h" : 48
 "15h" : 38
-"16h" : 4
+"16h" : 6
 ```
 
 
-> **Last Updated:** 6/6/2025, 4:04:20 PM
+> **Last Updated:** 6/6/2025, 4:09:21 PM
