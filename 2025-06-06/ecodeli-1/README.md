@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 14086                                          |
-| **Lines Removed** (➖) | 1225                                        |
-| **Net Change** (↕)    | 12861                |
-| **Active Time** (⌚)   | 190 minutes |
+| **Lines Added** (➕)   | 15471                                          |
+| **Lines Removed** (➖) | 1229                                        |
+| **Net Change** (↕)    | 14242                |
+| **Active Time** (⌚)   | 204 minutes |
 
 
 ## Modified Files
@@ -51,6 +51,9 @@
 - **use-admin-users.ts** (+415, -0)
 - **page.tsx** (+402, -0)
 - **fr.json** (+62, -0)
+- **multi-verification-users-seed.ts** (+611, -2)
+- **run-all-seeds.ts** (+703, -0)
+- **run-test-users.ts** (+71, -2)
 
 ## Visualizations
 
@@ -59,7 +62,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 9621
+".ts" : 11010
 ".tsx" : 3387
 ".mdc" : 167
 ".js" : 92
@@ -75,8 +78,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
 "10h" : 74
-"11h" : 39
+"11h" : 49
 ```
 
 
-> **Last Updated:** 6/6/2025, 11:39:12 AM
+> **Last Updated:** 6/6/2025, 11:44:12 AM
