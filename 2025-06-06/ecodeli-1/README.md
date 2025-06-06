@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22394                                          |
-| **Lines Removed** (➖) | 1901                                        |
-| **Net Change** (↕)    | 20493                |
-| **Active Time** (⌚)   | 380 minutes |
+| **Lines Added** (➕)   | 22409                                          |
+| **Lines Removed** (➖) | 1905                                        |
+| **Net Change** (↕)    | 20504                |
+| **Active Time** (⌚)   | 386 minutes |
 
 
 ## Modified Files
@@ -62,7 +62,7 @@
 - **deliverer-admin.service.ts** (+43, -7)
 - **page.tsx** (+65, -123)
 - **deliverers-stats.tsx** (+36, -0)
-- **deliverers-table.tsx** (+20, -0)
+- **deliverers-table.tsx** (+35, -4)
 - **COMMIT_EDITMSG** (+9, -7)
 - **delivery.router.ts** (+62, -61)
 - **service.router.ts** (+76, -75)
@@ -91,7 +91,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 17922
-".tsx" : 3821
+".tsx" : 3840
 ".mdc" : 167
 ".js" : 215
 ".prisma" : 1711
@@ -110,8 +110,8 @@ title Coding activity by hour (count of changes)
 "11h" : 70
 "12h" : 64
 "13h" : 4
-"14h" : 39
+"14h" : 42
 ```
 
 
-> **Last Updated:** 6/6/2025, 2:44:17 PM
+> **Last Updated:** 6/6/2025, 2:49:17 PM
