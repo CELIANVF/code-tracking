@@ -3,8 +3,8 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 16713,
-      "totalLinesRemoved": 1286,
-      "totalActiveTime": 233,
+      "totalLinesRemoved": 1349,
+      "totalActiveTime": 239,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\trpc.ts": [
           {
@@ -2098,6 +2098,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-06T10:07:40.073Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\clients\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\messages\\fr.json": [
@@ -2318,6 +2332,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-06T10:07:23.387Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\client.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-admin-clients.ts": [
@@ -2397,6 +2425,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-06T10:07:32.503Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\use-admin-clients.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 23,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
