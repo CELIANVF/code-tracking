@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 23519                                          |
-| **Lines Removed** (➖) | 2347                                        |
-| **Net Change** (↕)    | 21172                |
-| **Active Time** (⌚)   | 422 minutes |
+| **Lines Added** (➕)   | 23549                                          |
+| **Lines Removed** (➖) | 2354                                        |
+| **Net Change** (↕)    | 21195                |
+| **Active Time** (⌚)   | 429 minutes |
 
 
 ## Modified Files
@@ -71,10 +71,10 @@
 - **storage.router.ts** (+64, -63)
 - **wallet.router.ts** (+52, -0)
 - **settings.json** (+41, -0)
-- **admin-financial.router.ts** (+623, -0)
+- **admin-financial.router.ts** (+627, -4)
 - **admin.router.ts** (+15, -0)
-- **client.router.ts** (+774, -0)
-- **admin-deliverers.router.ts** (+495, -115)
+- **client.router.ts** (+778, -3)
+- **admin-deliverers.router.ts** (+516, -115)
 - **use-user-activation.ts** (+60, -0)
 - **use-user-ban.ts** (+81, -0)
 - **verification.ts** (+166, -0)
@@ -84,6 +84,7 @@
 - **test-trpc.js** (+11, -0)
 - **page.tsx** (+618, -250)
 - **index.ts** (+1, -0)
+- **notification.router.ts** (+1, -0)
 
 ## Visualizations
 
@@ -92,7 +93,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 18299
+".ts" : 18336
 ".tsx" : 5015
 ".mdc" : 167
 ".js" : 215
@@ -113,8 +114,8 @@ title Coding activity by hour (count of changes)
 "12h" : 64
 "13h" : 4
 "14h" : 48
-"15h" : 21
+"15h" : 27
 ```
 
 
-> **Last Updated:** 6/6/2025, 3:24:18 PM
+> **Last Updated:** 6/6/2025, 3:29:18 PM
