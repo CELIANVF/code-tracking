@@ -5538,9 +5538,9 @@
       "averageChangeSize": 81.5
     },
     "AndroidSumApp": {
-      "totalLinesAdded": 1052,
+      "totalLinesAdded": 1099,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 15,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\java\\com\\example\\sumapp\\MainActivity.java": [
           {
@@ -5682,6 +5682,34 @@
             },
             "duration": 1,
             "language": "java"
+          },
+          {
+            "timestamp": "2025-06-06T20:46:32.084Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\java\\com\\example\\sumapp\\MainActivity.java",
+            "fileType": ".java",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-06-06T20:46:54.378Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\java\\com\\example\\sumapp\\MainActivity.java",
+            "fileType": ".java",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
           }
         ],
         "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\java\\com\\example\\sumapp\\StatsActivity.java": [
@@ -5732,6 +5760,34 @@
             "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\java\\com\\example\\sumapp\\StatsActivity.java",
             "fileType": ".java",
             "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-06-06T20:47:56.976Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\java\\com\\example\\sumapp\\StatsActivity.java",
+            "fileType": ".java",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "java"
+          },
+          {
+            "timestamp": "2025-06-06T20:48:09.382Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\java\\com\\example\\sumapp\\StatsActivity.java",
+            "fileType": ".java",
+            "linesAdded": 8,
             "linesRemoved": 0,
             "projectName": "AndroidSumApp",
             "content": {
