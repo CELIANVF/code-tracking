@@ -1,0 +1,80 @@
+{
+  "date": "2025-06-08",
+  "projects": {
+    "AndroidSumApp": {
+      "totalLinesAdded": 87,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\gradle.properties": [
+          {
+            "timestamp": "2025-06-08T20:01:25.019Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "properties"
+          },
+          {
+            "timestamp": "2025-06-08T20:01:25.243Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\gradle.properties",
+            "fileType": ".properties",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "properties"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\build.gradle": [
+          {
+            "timestamp": "2025-06-08T20:01:32.526Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\build.gradle",
+            "fileType": ".gradle",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "gradle"
+          }
+        ]
+      },
+      "languageStats": {
+        "properties": 1,
+        "gradle": 1
+      },
+      "changeFrequency": {
+        "22": 2
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\gradle.properties",
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\build.gradle"
+      ],
+      "averageChangeSize": 29
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "properties",
+    "gradle"
+  ]
+}
