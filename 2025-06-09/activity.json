@@ -1,0 +1,61 @@
+{
+  "date": "2025-06-09",
+  "projects": {
+    "AndroidSumApp": {
+      "totalLinesAdded": 300,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\res\\layout\\activity_main.xml": [
+          {
+            "timestamp": "2025-06-09T10:57:37.639Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\res\\layout\\activity_main.xml",
+            "fileType": ".xml",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "xml"
+          },
+          {
+            "timestamp": "2025-06-09T10:57:37.994Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\res\\layout\\activity_main.xml",
+            "fileType": ".xml",
+            "linesAdded": 168,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "xml"
+          }
+        ]
+      },
+      "languageStats": {
+        "xml": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+      ],
+      "averageChangeSize": 150
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "xml"
+  ]
+}
