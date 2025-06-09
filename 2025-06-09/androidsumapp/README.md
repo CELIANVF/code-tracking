@@ -4,19 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2086                                          |
+| **Lines Added** (➕)   | 2363                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2086                |
-| **Active Time** (⌚)   | 22 minutes |
+| **Net Change** (↕)    | 2363                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
-- **activity_main.xml** (+300, -0)
+- **activity_main.xml** (+317, -0)
 - **activity_objectives.xml** (+184, -0)
 - **ObjectivesActivity.java** (+324, -0)
-- **MainActivity.java** (+881, -0)
+- **MainActivity.java** (+925, -0)
 - **AndroidManifest.xml** (+40, -0)
-- **StatsActivity.java** (+357, -0)
+- **StatsActivity.java** (+475, -0)
+- **stats_activity.xml** (+98, -0)
 
 ## Visualizations
 
@@ -25,8 +26,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".xml" : 524
-".java" : 1562
+".xml" : 639
+".java" : 1724
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 12
-"13h" : 10
+"13h" : 21
 ```
 
 
-> **Last Updated:** 6/9/2025, 1:07:52 PM
+> **Last Updated:** 6/9/2025, 1:17:52 PM
