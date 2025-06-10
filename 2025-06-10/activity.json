@@ -2,9 +2,9 @@
   "date": "2025-06-10",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 18300,
+      "totalLinesAdded": 19358,
       "totalLinesRemoved": 130,
-      "totalActiveTime": 130,
+      "totalActiveTime": 143,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.next\\package.json": [
           {
@@ -1424,6 +1424,200 @@
             "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\admin\\use-service-categories.ts",
             "fileType": ".ts",
             "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-stats.tsx": [
+          {
+            "timestamp": "2025-06-10T09:58:30.138Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-stats.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-10T09:58:31.058Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-stats.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 217,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-filters.tsx": [
+          {
+            "timestamp": "2025-06-10T09:59:08.428Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-filters.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-10T09:59:09.320Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-filters.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 259,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-list.tsx": [
+          {
+            "timestamp": "2025-06-10T09:59:52.370Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-list.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-10T09:59:53.275Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\services-list.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 332,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\prestations\\page.tsx": [
+          {
+            "timestamp": "2025-06-10T10:00:14.205Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\prestations\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-10T10:00:15.087Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\prestations\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 89,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\root.ts": [
+          {
+            "timestamp": "2025-06-10T10:00:31.908Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\root.ts",
+            "fileType": ".ts",
+            "linesAdded": 119,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-10T10:00:32.781Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\root.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-10T10:00:40.498Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\root.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\index.ts": [
+          {
+            "timestamp": "2025-06-10T10:01:15.129Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-10T10:01:16.013Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\services\\index.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "ecodeli-1",
             "content": {
