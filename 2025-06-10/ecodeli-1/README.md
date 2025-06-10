@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 13337                                          |
+| **Lines Added** (➕)   | 14061                                          |
 | **Lines Removed** (➖) | 86                                        |
-| **Net Change** (↕)    | 13251                |
-| **Active Time** (⌚)   | 71 minutes |
+| **Net Change** (↕)    | 13975                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
@@ -31,6 +31,8 @@
 - **test-translations.js** (+40, -0)
 - **restart-dev.ps1** (+17, -0)
 - **page.tsx** (+38, -0)
+- **announcement-dashboard.tsx** (+200, -0)
+- **announcement-table.tsx** (+524, -0)
 
 ## Visualizations
 
@@ -40,7 +42,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 7692
-".tsx" : 3095
+".tsx" : 3819
 ".ts" : 2579
 ".js" : 40
 ".ps1" : 17
@@ -52,8 +54,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
-"10h" : 28
+"10h" : 32
 ```
 
 
-> **Last Updated:** 6/10/2025, 10:47:55 AM
+> **Last Updated:** 6/10/2025, 10:52:55 AM
