@@ -2,7 +2,7 @@
   "date": "2025-06-10",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 24345,
+      "totalLinesAdded": 24355,
       "totalLinesRemoved": 279,
       "totalActiveTime": 207,
       "files": {
@@ -1913,6 +1913,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-10T12:32:59.330Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\contracts\\contracts-stats.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
