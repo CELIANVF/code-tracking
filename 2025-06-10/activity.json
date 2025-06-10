@@ -3,8 +3,8 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 24650,
-      "totalLinesRemoved": 279,
-      "totalActiveTime": 216,
+      "totalLinesRemoved": 283,
+      "totalActiveTime": 218,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.next\\package.json": [
           {
@@ -2471,6 +2471,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-10T12:48:06.224Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\prisma\\seeds\\simple-seed.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
