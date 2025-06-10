@@ -3,8 +3,8 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 24076,
-      "totalLinesRemoved": 273,
-      "totalActiveTime": 194,
+      "totalLinesRemoved": 277,
+      "totalActiveTime": 196,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.next\\package.json": [
           {
@@ -2092,6 +2092,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-10T12:18:37.019Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\contracts\\contract-form-modal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\schemas\\contracts.ts": [
@@ -2145,6 +2159,20 @@
             "fileType": ".tsx",
             "linesAdded": 468,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-10T12:19:03.244Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\contracts\\contract-negotiations.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
