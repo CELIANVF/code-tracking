@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24874                                          |
-| **Lines Removed** (➖) | 283                                        |
-| **Net Change** (↕)    | 24591                |
-| **Active Time** (⌚)   | 221 minutes |
+| **Lines Added** (➕)   | 25666                                          |
+| **Lines Removed** (➖) | 289                                        |
+| **Net Change** (↕)    | 25377                |
+| **Active Time** (⌚)   | 229 minutes |
 
 
 ## Modified Files
@@ -70,6 +70,9 @@
 - **architecturerules.mdc** (+265, -0)
 - **simple-seed.ts** (+251, -4)
 - **document-utils.ts** (+224, -0)
+- **page.tsx** (+596, -5)
+- **formatters.ts** (+163, -1)
+- **sitemap.ts** (+33, -0)
 
 ## Visualizations
 
@@ -79,8 +82,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 7692
-".tsx" : 10427
-".ts" : 6612
+".tsx" : 11028
+".ts" : 6809
 ".js" : 144
 ".ps1" : 17
 ".mdc" : 265
@@ -97,8 +100,8 @@ title Coding activity by hour (count of changes)
 "12h" : 7
 "13h" : 23
 "14h" : 36
-"15h" : 4
+"15h" : 9
 ```
 
 
-> **Last Updated:** 6/10/2025, 3:33:06 PM
+> **Last Updated:** 6/10/2025, 3:38:06 PM
