@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 24076                                          |
-| **Lines Removed** (➖) | 277                                        |
-| **Net Change** (↕)    | 23799                |
-| **Active Time** (⌚)   | 196 minutes |
+| **Lines Added** (➕)   | 24345                                          |
+| **Lines Removed** (➖) | 279                                        |
+| **Net Change** (↕)    | 24066                |
+| **Active Time** (⌚)   | 207 minutes |
 
 
 ## Modified Files
@@ -52,9 +52,9 @@
 - **page.tsx** (+109, -0)
 - **root.ts** (+123, -0)
 - **index.ts** (+17, -0)
-- **use-admin-contracts.ts** (+275, -3)
+- **use-admin-contracts.ts** (+276, -3)
 - **use-contract-templates.ts** (+181, -0)
-- **admin-contracts.router.ts** (+505, -28)
+- **admin-contracts.router.ts** (+508, -30)
 - **contracts-stats.tsx** (+205, -0)
 - **contracts-filters.tsx** (+401, -84)
 - **contracts-list.tsx** (+493, -28)
@@ -67,6 +67,7 @@
 - **use-contract-negotiations.ts** (+222, -0)
 - **use-contract-performance.ts** (+299, -0)
 - **contract-performance.tsx** (+436, -0)
+- **architecturerules.mdc** (+265, -0)
 
 ## Visualizations
 
@@ -77,9 +78,10 @@ pie showData
 title Lines changed by file type
 ".json" : 7692
 ".tsx" : 10407
-".ts" : 6093
+".ts" : 6099
 ".js" : 144
 ".ps1" : 17
+".mdc" : 265
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -92,8 +94,8 @@ title Coding activity by hour (count of changes)
 "11h" : 48
 "12h" : 7
 "13h" : 23
-"14h" : 23
+"14h" : 28
 ```
 
 
-> **Last Updated:** 6/10/2025, 2:23:03 PM
+> **Last Updated:** 6/10/2025, 2:28:03 PM
