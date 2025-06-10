@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 22287                                          |
+| **Lines Added** (➕)   | 24054                                          |
 | **Lines Removed** (➖) | 245                                        |
-| **Net Change** (↕)    | 22042                |
-| **Active Time** (⌚)   | 171 minutes |
+| **Net Change** (↕)    | 23809                |
+| **Active Time** (⌚)   | 186 minutes |
 
 
 ## Modified Files
@@ -59,9 +59,14 @@
 - **contracts-filters.tsx** (+401, -84)
 - **contracts-list.tsx** (+493, -28)
 - **index.ts** (+3, -0)
-- **page.tsx** (+175, -0)
+- **page.tsx** (+189, -0)
 - **contract-form-modal.tsx** (+549, -0)
 - **contracts.ts** (+156, -0)
+- **contract-negotiations.tsx** (+469, -0)
+- **contracts.ts** (+327, -0)
+- **use-contract-negotiations.ts** (+222, -0)
+- **use-contract-performance.ts** (+299, -0)
+- **contract-performance.tsx** (+436, -0)
 
 ## Visualizations
 
@@ -71,8 +76,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 7692
-".tsx" : 9480
-".ts" : 5199
+".tsx" : 10399
+".ts" : 6047
 ".js" : 144
 ".ps1" : 17
 ```
@@ -87,8 +92,8 @@ title Coding activity by hour (count of changes)
 "11h" : 48
 "12h" : 7
 "13h" : 23
-"14h" : 2
+"14h" : 14
 ```
 
 
-> **Last Updated:** 6/10/2025, 2:03:03 PM
+> **Last Updated:** 6/10/2025, 2:08:03 PM
