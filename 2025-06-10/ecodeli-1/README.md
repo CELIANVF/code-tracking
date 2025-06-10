@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 19810                                          |
-| **Lines Removed** (➖) | 130                                        |
-| **Net Change** (↕)    | 19680                |
-| **Active Time** (⌚)   | 146 minutes |
+| **Lines Added** (➕)   | 20909                                          |
+| **Lines Removed** (➖) | 214                                        |
+| **Net Change** (↕)    | 20695                |
+| **Active Time** (⌚)   | 155 minutes |
 
 
 ## Modified Files
@@ -54,6 +54,9 @@
 - **index.ts** (+17, -0)
 - **use-admin-contracts.ts** (+271, -0)
 - **use-contract-templates.ts** (+181, -0)
+- **admin-contracts.router.ts** (+493, -0)
+- **contracts-stats.tsx** (+205, -0)
+- **contracts-filters.tsx** (+401, -84)
 
 ## Visualizations
 
@@ -63,8 +66,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 7692
-".tsx" : 7545
-".ts" : 4542
+".tsx" : 8235
+".ts" : 5035
 ".js" : 144
 ".ps1" : 17
 ```
@@ -78,8 +81,8 @@ title Coding activity by hour (count of changes)
 "10h" : 35
 "11h" : 48
 "12h" : 7
-"13h" : 4
+"13h" : 11
 ```
 
 
-> **Last Updated:** 6/10/2025, 1:43:03 PM
+> **Last Updated:** 6/10/2025, 1:48:03 PM
