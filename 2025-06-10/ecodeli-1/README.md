@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 27421                                          |
+| **Lines Added** (➕)   | 27622                                          |
 | **Lines Removed** (➖) | 291                                        |
-| **Net Change** (↕)    | 27130                |
-| **Active Time** (⌚)   | 237 minutes |
+| **Net Change** (↕)    | 27331                |
+| **Active Time** (⌚)   | 241 minutes |
 
 
 ## Modified Files
@@ -69,14 +69,15 @@
 - **contract-performance.tsx** (+436, -0)
 - **architecturerules.mdc** (+265, -0)
 - **simple-seed.ts** (+251, -4)
-- **document-utils.ts** (+266, -0)
+- **document-utils.ts** (+416, -0)
 - **page.tsx** (+596, -5)
 - **formatters.ts** (+163, -1)
 - **sitemap.ts** (+33, -0)
 - **use-delivery-tracking.ts** (+1101, -1)
 - **route.ts** (+253, -1)
-- **timeline.tsx** (+191, -0)
+- **timeline.tsx** (+194, -0)
 - **notification.service.ts** (+168, -0)
+- **document-type-icon.tsx** (+48, -0)
 
 ## Visualizations
 
@@ -86,8 +87,8 @@
 pie showData
 title Lines changed by file type
 ".json" : 7692
-".tsx" : 11219
-".ts" : 8375
+".tsx" : 11270
+".ts" : 8525
 ".js" : 144
 ".ps1" : 17
 ".mdc" : 265
@@ -105,7 +106,8 @@ title Coding activity by hour (count of changes)
 "13h" : 23
 "14h" : 36
 "15h" : 18
+"16h" : 5
 ```
 
 
-> **Last Updated:** 6/10/2025, 3:58:13 PM
+> **Last Updated:** 6/10/2025, 4:08:13 PM
