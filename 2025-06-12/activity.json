@@ -245,6 +245,109 @@
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore"
       ],
       "averageChangeSize": 2
+    },
+    "AndroidSumApp": {
+      "totalLinesAdded": 115,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\.gitignore": [
+          {
+            "timestamp": "2025-06-12T14:23:15.112Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-12T14:23:25.344Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-12T14:23:27.035Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-12T14:23:34.331Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-12T14:24:04.612Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-12T14:24:33.714Z",
+            "fileName": "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "AndroidSumApp",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 5
+      },
+      "changeFrequency": {
+        "16": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Downloads\\AndroidSumApp\\AndroidSumApp\\.gitignore"
+      ],
+      "averageChangeSize": 21.333333333333332
     }
   },
   "totalActiveTime": 0,
