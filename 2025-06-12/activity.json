@@ -2,9 +2,9 @@
   "date": "2025-06-12",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 281,
+      "totalLinesAdded": 308,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
           {
@@ -96,6 +96,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\apps\\web\\.env.local": [
+          {
+            "timestamp": "2025-06-12T13:00:34.028Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\apps\\web\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          },
+          {
+            "timestamp": "2025-06-12T13:00:34.325Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\apps\\web\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "local"
           }
         ]
       },
