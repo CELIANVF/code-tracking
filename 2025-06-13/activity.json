@@ -2,9 +2,9 @@
   "date": "2025-06-13",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 17491,
-      "totalLinesRemoved": 1890,
-      "totalActiveTime": 173,
+      "totalLinesAdded": 17908,
+      "totalLinesRemoved": 1891,
+      "totalActiveTime": 180,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
           {
@@ -1274,6 +1274,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-13T12:29:09.401Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\auth\\auth.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\todo.mdc": [
@@ -1524,6 +1538,68 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\archi.mdc": [
+          {
+            "timestamp": "2025-06-13T12:25:00.049Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\archi.mdc",
+            "fileType": ".mdc",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mdc"
+          },
+          {
+            "timestamp": "2025-06-13T12:25:05.589Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\archi.mdc",
+            "fileType": ".mdc",
+            "linesAdded": 399,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdc"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\norun.mdc": [
+          {
+            "timestamp": "2025-06-13T12:25:20.007Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\norun.mdc",
+            "fileType": ".mdc",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdc"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\windows.mdc": [
+          {
+            "timestamp": "2025-06-13T12:25:41.979Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.cursor\\rules\\windows.mdc",
+            "fileType": ".mdc",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mdc"
           }
         ]
       },
