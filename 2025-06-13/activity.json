@@ -2,9 +2,9 @@
   "date": "2025-06-13",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 7609,
+      "totalLinesAdded": 8050,
       "totalLinesRemoved": 816,
-      "totalActiveTime": 110,
+      "totalActiveTime": 112,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
           {
@@ -852,6 +852,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-13T10:17:31.745Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\hooks\\auth\\use-auth.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\auth\\auth.router.ts": [
@@ -1012,6 +1026,36 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\auth\\login\\login-form.tsx": [
+          {
+            "timestamp": "2025-06-13T10:17:05.866Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\auth\\login\\login-form.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 401,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-13T10:17:06.834Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\auth\\login\\login-form.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
