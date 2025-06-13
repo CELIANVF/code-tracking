@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6196                                          |
-| **Lines Removed** (➖) | 809                                        |
-| **Net Change** (↕)    | 5387                |
-| **Active Time** (⌚)   | 102 minutes |
+| **Lines Added** (➕)   | 7606                                          |
+| **Lines Removed** (➖) | 816                                        |
+| **Net Change** (↕)    | 6790                |
+| **Active Time** (⌚)   | 110 minutes |
 
 
 ## Modified Files
@@ -22,8 +22,9 @@
 - **check-user.js** (+34, -0)
 - **check-user.mjs** (+34, -0)
 - **use-auth.ts** (+323, -0)
-- **auth.router.ts** (+954, -1)
+- **auth.router.ts** (+974, -8)
 - **todo.mdc** (+165, -0)
+- **auth.service.ts** (+1390, -0)
 
 ## Visualizations
 
@@ -33,7 +34,7 @@
 pie showData
 title Lines changed by file type
 "unknown" : 361
-".ts" : 3581
+".ts" : 4998
 ".tsx" : 2830
 ".js" : 34
 ".mjs" : 34
@@ -47,8 +48,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 5
 "10h" : 15
-"11h" : 45
+"11h" : 49
 ```
 
 
-> **Last Updated:** 6/13/2025, 11:48:56 AM
+> **Last Updated:** 6/13/2025, 11:53:56 AM
