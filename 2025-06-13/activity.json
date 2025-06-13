@@ -2,9 +2,9 @@
   "date": "2025-06-13",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 4753,
-      "totalLinesRemoved": 807,
-      "totalActiveTime": 77,
+      "totalLinesAdded": 4754,
+      "totalLinesRemoved": 808,
+      "totalActiveTime": 87,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
           {
@@ -371,6 +371,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-13T09:34:11.756Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-06-13T09:34:12.515Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "unknown"
           }
         ],
