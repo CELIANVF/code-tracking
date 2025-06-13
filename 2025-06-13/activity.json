@@ -2,9 +2,9 @@
   "date": "2025-06-13",
   "projects": {
     "ecodeli-1": {
-      "totalLinesAdded": 1628,
+      "totalLinesAdded": 3717,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 17,
+      "totalActiveTime": 19,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
           {
@@ -196,6 +196,54 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\dashboard\\admin-dashboard.tsx": [
+          {
+            "timestamp": "2025-06-13T08:39:13.047Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\dashboard\\admin-dashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1091,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\reports\\report-dashboard.tsx": [
+          {
+            "timestamp": "2025-06-13T08:39:30.044Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\admin\\reports\\report-dashboard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 753,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\reports\\page.tsx": [
+          {
+            "timestamp": "2025-06-13T08:39:48.476Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\app\\[locale]\\(protected)\\admin\\reports\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 245,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
