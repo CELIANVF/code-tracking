@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 18718                                          |
-| **Lines Removed** (➖) | 2265                                        |
-| **Net Change** (↕)    | 16453                |
-| **Active Time** (⌚)   | 193 minutes |
+| **Lines Added** (➕)   | 18827                                          |
+| **Lines Removed** (➖) | 2284                                        |
+| **Net Change** (↕)    | 16543                |
+| **Active Time** (⌚)   | 208 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **check-user.js** (+34, -0)
 - **check-user.mjs** (+34, -0)
 - **use-auth.ts** (+329, -0)
-- **auth.router.ts** (+2044, -1069)
+- **auth.router.ts** (+2044, -1079)
 - **todo.mdc** (+165, -0)
 - **auth.service.ts** (+1391, -0)
 - **login-form.tsx** (+446, -14)
@@ -32,8 +32,10 @@
 - **archi.mdc** (+405, -0)
 - **norun.mdc** (+6, -0)
 - **windows.mdc** (+6, -0)
-- **route.ts** (+64, -14)
-- **trpc.ts** (+733, -360)
+- **route.ts** (+68, -14)
+- **trpc.ts** (+735, -361)
+- **react.ts** (+35, -4)
+- **trpc-provider.tsx** (+68, -4)
 
 ## Visualizations
 
@@ -43,8 +45,8 @@
 pie showData
 title Lines changed by file type
 "unknown" : 361
-".ts" : 8658
-".tsx" : 3290
+".ts" : 8714
+".tsx" : 3362
 ".js" : 73
 ".mjs" : 34
 ".mdc" : 582
@@ -61,8 +63,8 @@ title Coding activity by hour (count of changes)
 "11h" : 49
 "12h" : 23
 "13h" : 3
-"14h" : 24
+"14h" : 37
 ```
 
 
-> **Last Updated:** 6/13/2025, 2:39:48 PM
+> **Last Updated:** 6/13/2025, 2:44:48 PM
