@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 8077                                          |
+| **Lines Added** (➕)   | 8480                                          |
 | **Lines Removed** (➖) | 843                                        |
-| **Net Change** (↕)    | 7234                |
-| **Active Time** (⌚)   | 125 minutes |
+| **Net Change** (↕)    | 7637                |
+| **Active Time** (⌚)   | 134 minutes |
 
 
 ## Modified Files
@@ -22,10 +22,12 @@
 - **check-user.js** (+34, -0)
 - **check-user.mjs** (+34, -0)
 - **use-auth.ts** (+329, -0)
-- **auth.router.ts** (+1004, -35)
+- **auth.router.ts** (+1018, -35)
 - **todo.mdc** (+165, -0)
 - **auth.service.ts** (+1390, -0)
 - **login-form.tsx** (+435, -0)
+- **email.service.ts** (+350, -0)
+- **test-mailgun.js** (+39, -0)
 
 ## Visualizations
 
@@ -35,9 +37,9 @@
 pie showData
 title Lines changed by file type
 "unknown" : 361
-".ts" : 5061
+".ts" : 5425
 ".tsx" : 3265
-".js" : 34
+".js" : 73
 ".mjs" : 34
 ".mdc" : 165
 ```
@@ -50,8 +52,8 @@ title Coding activity by hour (count of changes)
 "09h" : 5
 "10h" : 15
 "11h" : 49
-"12h" : 14
+"12h" : 20
 ```
 
 
-> **Last Updated:** 6/13/2025, 12:43:56 PM
+> **Last Updated:** 6/13/2025, 12:48:56 PM
