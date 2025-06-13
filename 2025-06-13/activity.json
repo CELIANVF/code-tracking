@@ -3,7 +3,7 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 16466,
-      "totalLinesRemoved": 843,
+      "totalLinesRemoved": 857,
       "totalActiveTime": 141,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
@@ -1223,6 +1223,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-06-13T11:53:52.816Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\components\\auth\\login\\login-form.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
