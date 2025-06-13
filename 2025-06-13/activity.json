@@ -3,7 +3,7 @@
   "projects": {
     "ecodeli-1": {
       "totalLinesAdded": 8050,
-      "totalLinesRemoved": 816,
+      "totalLinesRemoved": 831,
       "totalActiveTime": 112,
       "files": {
         "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\.gitignore": [
@@ -959,6 +959,20 @@
             "fileType": ".ts",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-06-13T10:28:53.748Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\auth\\auth.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 15,
             "projectName": "ecodeli-1",
             "content": {
               "added": [],
