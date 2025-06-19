@@ -1,0 +1,98 @@
+{
+  "date": "2025-06-19",
+  "projects": {
+    "ecodeli-1": {
+      "totalLinesAdded": 4275,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin\\commission.service.ts": [
+          {
+            "timestamp": "2025-06-19T08:02:49.416Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin\\commission.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 629,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\shared\\withdrawal.router.ts": [
+          {
+            "timestamp": "2025-06-19T08:03:09.659Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\shared\\withdrawal.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 743,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin\\dashboard.service.ts": [
+          {
+            "timestamp": "2025-06-19T08:03:23.837Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin\\dashboard.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 2110,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\common\\payment.router.ts": [
+          {
+            "timestamp": "2025-06-19T08:03:31.950Z",
+            "fileName": "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\common\\payment.router.ts",
+            "fileType": ".ts",
+            "linesAdded": 793,
+            "linesRemoved": 0,
+            "projectName": "ecodeli-1",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 3
+      },
+      "changeFrequency": {
+        "10": 3
+      },
+      "topFiles": [
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin\\commission.service.ts",
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\shared\\withdrawal.router.ts",
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\services\\admin\\dashboard.service.ts",
+        "c:\\Users\\Utilisateur\\Desktop\\ecodeli-1\\src\\server\\api\\routers\\common\\payment.router.ts"
+      ],
+      "averageChangeSize": 1068.75
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
